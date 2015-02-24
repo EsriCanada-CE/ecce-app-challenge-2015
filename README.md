@@ -1,4 +1,4 @@
-ECCE App Challenge 2015 &ndash; UW Team SDS
+ECCE App Challenge 2015
 ==================
 
 ## Instructions:
