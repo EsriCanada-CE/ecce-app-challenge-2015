@@ -1,4 +1,4 @@
-UW Team SDS - ECCE App Challenge
+UW Team SDS &ndash; ECCE App Challenge
 ==================
 
 Majuratan Sadagopan
