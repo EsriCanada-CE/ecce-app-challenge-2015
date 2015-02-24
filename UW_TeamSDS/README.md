@@ -1,7 +1,7 @@
 UW Team SDS &ndash; ECCE App Challenge
 ==================
 
-Majuratan Sadagopan
+Majuratan(Maju) Sadagopan
 
 Jonathan Van Dusen
 
