@@ -4,3 +4,6 @@
 {"k":"0000000078","o":"0000000262","v":"001"}
 {"_id":2,"_uid":2,"_dt":1425104648678,"_s":"4d79b4205ce9983197519e1d4fdd6320"}
 {"name":"ECCE App Challenge 2015","description":"UW Team SDS entry for the ECCE App Challenge 2015","lastUpdated":1425104648674,"is3D":"false","creator":"UW_TeamSDS","modified":"UW_TeamSDS","portalUrl":"//uw-teamsds.maps.arcgis.com","_id":{"$wrap":"$oid","v":2}}
+{"k":"0000000078","o":"0000000262","v":"001"}
+{"_id":2,"_uid":2,"_dt":1425510168310,"_s":"11b70cc30f699a0ddf1cb17ff5de00d6"}
+{"name":"ECCE App Challenge 2015","description":"UW Team SDS entry for the ECCE App Challenge 2015","lastUpdated":1425510168307,"is3D":"false","creator":"UW_TeamSDS","modified":"UW_TeamSDS","portalUrl":"//uw-teamsds.maps.arcgis.com","_id":{"$wrap":"$oid","v":2}}
