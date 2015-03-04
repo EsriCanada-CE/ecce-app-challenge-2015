@@ -217,11 +217,11 @@ pip-log.txt
 
 
 
-########
+#################
+## Web AppBuilder
+#################
 
-#Web AppBuilder
-
-/UW_TeamSDS/arcgis-web-appbuilder-1.0/client
-/UW_TeamSDS/arcgis-web-appbuilder-1.0/docs
+UW_TeamSDS/arcgis-web-appbuilder-1.0/client
+UW_TeamSDS/arcgis-web-appbuilder-1.0/docs
 UW_TeamSDS/arcgis-web-appbuilder-1.0/buildnum.txt
 UW_TeamSDS/arcgis-web-appbuilder-1.0/Install.html
