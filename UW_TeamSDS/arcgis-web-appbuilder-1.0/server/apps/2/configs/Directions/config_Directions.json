@@ -1,0 +1,22 @@
+{
+  "routeTaskUrl": "http://env-gis-srv1.uwaterloo.ca:6080/arcgis/rest/services/w15ecce1/railnet/NAServer/Route",
+  "routeOptions": {
+    "directionsLanguage": "en-ca",
+    "directionsLengthUnits": "esriKilometers",
+    "directionsOutputType": "standard",
+    "impedanceAttribute": ""
+  },
+  "geocoderOptions": {
+    "autoComplete": true,
+    "maxLocations": 6,
+    "minCharacters": 3,
+    "searchDelay": 350,
+    "arcgisGeocoder": false,
+    "geocoders": [
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer",
+        "placeholder": ""
+      }
+    ]
+  }
+}

@@ -1,11 +1,13 @@
 {
   "theme": {
-    "name": "TabTheme",
+    "name": "FoldableTheme",
     "styles": [
       "default",
-      "simpleblue",
-      "purple",
-      "red"
+      "black",
+      "green",
+      "cyan",
+      "red",
+      "purple"
     ],
     "version": "1.1"
   },
@@ -18,66 +20,27 @@
   "widgetOnScreen": {
     "widgets": [
       {
-        "uri": "themes/TabTheme/widgets/Header/Widget",
+        "uri": "themes/FoldableTheme/widgets/HeaderController/Widget",
         "positionRelativeTo": "browser",
         "position": {
           "left": 0,
           "top": 0,
           "right": 0,
-          "height": 44
+          "height": 40
         },
         "version": "1.1",
-        "id": "themes/TabTheme/widgets/Header/Widget_15",
-        "name": "Header",
-        "label": "Header"
-      },
-      {
-        "uri": "themes/TabTheme/widgets/Footer/Widget",
-        "positionRelativeTo": "browser",
-        "position": {
-          "left": 0,
-          "right": 0,
-          "bottom": 0,
-          "height": 24
-        },
-        "version": "1.1",
-        "id": "themes/TabTheme/widgets/Footer/Widget_16",
-        "name": "Footer",
-        "label": "Footer"
-      },
-      {
-        "uri": "themes/TabTheme/widgets/SidebarController/Widget",
-        "positionRelativeTo": "browser",
-        "position": {
-          "left": 0,
-          "top": 44,
-          "bottom": 24
-        },
-        "version": "1.1",
-        "id": "themes/TabTheme/widgets/SidebarController/Widget_17",
-        "name": "SidebarController",
-        "label": "Sidebar Controller"
-      },
-      {
-        "uri": "widgets/HomeButton/Widget",
-        "position": {
-          "left": 7,
-          "top": 75
-        },
-        "version": "1.1",
-        "id": "widgets/HomeButton/Widget_18",
-        "positionRelativeTo": "map",
-        "name": "HomeButton",
-        "label": "Home Button"
+        "id": "themes/FoldableTheme/widgets/HeaderController/Widget_30",
+        "name": "HeaderController",
+        "label": "Header Controller"
       },
       {
         "uri": "widgets/Scalebar/Widget",
         "position": {
-          "left": 10,
-          "bottom": 10
+          "left": 25,
+          "bottom": 25
         },
         "version": "1.1",
-        "id": "widgets/Scalebar/Widget_19",
+        "id": "widgets/Scalebar/Widget_31",
         "positionRelativeTo": "map",
         "name": "Scalebar",
         "label": "Scalebar"
@@ -89,7 +52,7 @@
           "top": 5
         },
         "version": "1.1",
-        "id": "widgets/Geocoder/Widget_20",
+        "id": "widgets/Geocoder/Widget_32",
         "positionRelativeTo": "map",
         "name": "Geocoder",
         "label": "Geocoder"
@@ -97,46 +60,51 @@
       {
         "uri": "widgets/Coordinate/Widget",
         "position": {
-          "left": 160,
-          "bottom": 5
+          "left": 200,
+          "bottom": 20
         },
         "version": "1.1",
-        "id": "widgets/Coordinate/Widget_21",
+        "id": "widgets/Coordinate/Widget_33",
         "positionRelativeTo": "map",
         "name": "Coordinate",
         "label": "Coordinate"
       },
       {
         "position": {
-          "left": 45,
+          "left": 55,
           "top": 45,
           "width": 400,
           "height": 410
         },
         "placeholderIndex": 1,
-        "id": "_22",
+        "id": "_34",
+        "positionRelativeTo": "map",
+        "name": "LayerList",
+        "label": "Layer List",
+        "version": "1.1",
+        "uri": "widgets/LayerList/Widget",
+        "config": "configs/LayerList/config_Layer List.json"
+      },
+      {
+        "position": {
+          "left": 105,
+          "top": 45,
+          "width": 380,
+          "height": 410
+        },
+        "placeholderIndex": 1,
+        "id": "_35",
         "positionRelativeTo": "map"
       },
       {
         "position": {
-          "left": 95,
+          "left": 155,
           "top": 45,
           "width": 380,
           "height": 410
         },
         "placeholderIndex": 2,
-        "id": "_23",
-        "positionRelativeTo": "map"
-      },
-      {
-        "position": {
-          "left": 145,
-          "top": 45,
-          "width": 380,
-          "height": 410
-        },
-        "placeholderIndex": 3,
-        "id": "_24",
+        "id": "_36",
         "positionRelativeTo": "map"
       },
       {
@@ -146,10 +114,22 @@
           "top": 0
         },
         "version": "1.1",
-        "id": "widgets/OverviewMap/Widget_25",
+        "id": "widgets/OverviewMap/Widget_37",
         "positionRelativeTo": "map",
         "name": "OverviewMap",
         "label": "Overview Map"
+      },
+      {
+        "uri": "widgets/HomeButton/Widget",
+        "position": {
+          "left": 7,
+          "top": 75
+        },
+        "version": "1.1",
+        "id": "widgets/HomeButton/Widget_38",
+        "positionRelativeTo": "map",
+        "name": "HomeButton",
+        "label": "Home Button"
       },
       {
         "uri": "widgets/MyLocation/Widget",
@@ -158,7 +138,7 @@
           "top": 110
         },
         "version": "1.1",
-        "id": "widgets/MyLocation/Widget_26",
+        "id": "widgets/MyLocation/Widget_39",
         "positionRelativeTo": "map",
         "name": "MyLocation",
         "label": "My Location"
@@ -166,20 +146,20 @@
       {
         "uri": "widgets/AttributeTable/Widget",
         "positionRelativeTo": "browser",
-        "position": {
-          "bottom": 24
-        },
         "version": "1.1",
-        "id": "widgets/AttributeTable/Widget_27",
+        "id": "widgets/AttributeTable/Widget_40",
+        "position": {
+          "left": 0,
+          "top": 0
+        },
         "name": "AttributeTable",
         "label": "Attribute Table"
       },
       {
         "uri": "widgets/Splash/Widget",
-        "visible": false,
         "positionRelativeTo": "browser",
         "version": "1.1",
-        "id": "widgets/Splash/Widget_28",
+        "id": "widgets/Splash/Widget_41",
         "position": {
           "left": 0,
           "top": 0
@@ -197,10 +177,10 @@
     "3D": false,
     "2D": true,
     "position": {
-      "top": 44,
+      "left": 0,
+      "top": 40,
       "right": 0,
-      "bottom": 24,
-      "left": 55
+      "bottom": 0
     },
     "itemId": "6e03e8c26aad4b9c92a87c1063ddb0e3",
     "mapOptions": {
@@ -219,39 +199,32 @@
   },
   "widgetPool": {
     "panel": {
-      "uri": "themes/TabTheme/panels/TabPanel/Panel",
-      "positionRelativeTo": "browser",
+      "uri": "themes/FoldableTheme/panels/FoldablePanel/Panel",
+      "positionRelativeTo": "map",
       "position": {
-        "top": 44,
-        "left": 0,
-        "bottom": 22
+        "top": 5,
+        "right": 5,
+        "bottom": 5
       }
     },
     "widgets": [
       {
-        "uri": "widgets/Legend/Widget",
+        "name": "About",
+        "label": "About",
         "version": "1.1",
-        "id": "widgets/Legend/Widget_13",
+        "uri": "widgets/About/Widget",
+        "config": "configs/About/config_About.json",
         "index": 2,
-        "name": "Legend",
-        "label": "Legend"
+        "id": "widgets/About/Widget_43"
       },
       {
-        "uri": "widgets/LayerList/Widget",
+        "name": "Directions",
+        "label": "Directions",
         "version": "1.1",
-        "id": "widgets/LayerList/Widget_14",
+        "uri": "widgets/Directions/Widget",
+        "config": "configs/Directions/config_Directions.json",
         "index": 3,
-        "name": "LayerList",
-        "label": "Layer List"
-      },
-      {
-        "name": "Edit",
-        "label": "Edit",
-        "version": "1.1",
-        "uri": "widgets/Edit/Widget",
-        "config": "configs/Edit/config_Edit.json",
-        "index": 5,
-        "id": "widgets/Edit/Widget_29"
+        "id": "widgets/Directions/Widget_42"
       }
     ],
     "groups": []
