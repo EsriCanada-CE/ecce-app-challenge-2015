@@ -1,0 +1,96 @@
+[2015-02-26 16:24:22.713] [INFO] repo - watch repository change:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-02-26 16:24:22.719] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-02-26 16:24:22.721] [INFO] repo - watch repository change:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-02-26 16:24:22.722] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-02-26 16:24:23.130] [INFO] repo - insert FoldableTheme
+[2015-02-26 16:24:23.187] [INFO] repo - insert TabTheme
+[2015-02-26 16:24:23.253] [INFO] repo - insert About
+[2015-02-26 16:24:23.305] [INFO] repo - insert AttributeTable
+[2015-02-26 16:24:23.547] [INFO] repo - insert BasemapGallery
+[2015-02-26 16:24:23.561] [INFO] repo - insert Bookmark
+[2015-02-26 16:24:23.569] [INFO] repo - insert Chart
+[2015-02-26 16:24:23.571] [INFO] repo - insert Coordinate
+[2015-02-26 16:24:23.577] [INFO] repo - insert Directions
+[2015-02-26 16:24:23.633] [INFO] repo - insert Draw
+[2015-02-26 16:24:23.635] [INFO] repo - insert Edit
+[2015-02-26 16:24:23.637] [INFO] repo - insert Geocoder
+[2015-02-26 16:24:23.639] [INFO] repo - insert Geoprocessing
+[2015-02-26 16:24:23.641] [INFO] repo - insert HomeButton
+[2015-02-26 16:24:23.643] [INFO] repo - insert LayerList
+[2015-02-26 16:24:23.645] [INFO] repo - insert Legend
+[2015-02-26 16:24:23.646] [INFO] repo - insert Measurement
+[2015-02-26 16:24:23.648] [INFO] repo - insert MyLocation
+[2015-02-26 16:24:23.649] [INFO] repo - insert OverviewMap
+[2015-02-26 16:24:23.650] [INFO] repo - insert Print
+[2015-02-26 16:24:23.652] [INFO] repo - insert Query
+[2015-02-26 16:24:23.654] [INFO] repo - insert Scalebar
+[2015-02-26 16:24:23.655] [INFO] repo - insert Splash
+[2015-02-26 16:24:27.805] [INFO] server - No portal URL is set, redirect /webappbuilder to /webappbuilder?action=setportalurl
+[2015-02-26 16:30:01.235] [INFO] app - copy widget Scalebar to app 2
+[2015-02-26 16:30:01.621] [INFO] app - copy widget Geocoder to app 2
+[2015-02-26 16:30:02.412] [INFO] app - copy widget Coordinate to app 2
+[2015-02-26 16:30:02.956] [INFO] app - copy widget OverviewMap to app 2
+[2015-02-26 16:30:03.145] [INFO] app - copy widget HomeButton to app 2
+[2015-02-26 16:30:03.593] [INFO] app - copy widget MyLocation to app 2
+[2015-02-26 16:30:04.109] [INFO] app - copy widget AttributeTable to app 2
+[2015-02-26 16:30:04.651] [INFO] app - copy widget LayerList to app 2
+[2015-02-26 16:30:05.191] [INFO] app - copy widget Splash to app 2
+[2015-02-26 16:30:05.589] [INFO] app - copy widget Legend to app 2
+[2015-02-26 16:30:38.044] [DEBUG] app - getApp successfully.
+[2015-02-28 01:20:58.748] [INFO] repo - watch repository change:  C:\Users\Jonathan\Desktop\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-02-28 01:20:58.752] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Desktop\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-02-28 01:20:58.754] [INFO] repo - watch repository change:  C:\Users\Jonathan\Desktop\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-02-28 01:20:58.755] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Desktop\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-02-28 01:21:18.580] [INFO] server - No portal URL is set, redirect /webappbuilder/ to /webappbuilder/?action=setportalurl
+[2015-02-28 01:21:52.710] [INFO] app - copy theme TabTheme to app 2
+[2015-02-28 01:23:33.627] [INFO] app - copy widget Edit to app 2
+[2015-02-28 01:24:08.642] [INFO] app - remove theme FoldableTheme from app 2
+[2015-02-28 01:27:40.354] [DEBUG] app - getApp successfully.
+[2015-02-28 01:29:52.965] [INFO] app - copy widget Geoprocessing to app 2
+[2015-03-02 16:45:08.354] [INFO] repo - watch repository change:  C:\Users\Jonathan\Desktop\ECCE App Challenge\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-03-02 16:45:08.359] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Desktop\ECCE App Challenge\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-03-02 16:45:08.360] [INFO] repo - watch repository change:  C:\Users\Jonathan\Desktop\ECCE App Challenge\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-03-02 16:45:08.360] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Desktop\ECCE App Challenge\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-03-04 16:36:54.339] [INFO] repo - watch repository change:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-03-04 16:36:54.348] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-03-04 16:36:54.350] [INFO] repo - watch repository change:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-03-04 16:36:54.351] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-03-04 16:37:22.366] [INFO] app - copy theme FoldableTheme to app 2
+[2015-03-04 17:58:21.968] [INFO] repo - watch repository change:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-03-04 17:58:21.972] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-03-04 17:58:21.974] [INFO] repo - watch repository change:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-03-04 17:58:21.975] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-03-04 17:59:02.145] [INFO] app - copy widget Directions to app 2
+[2015-03-04 18:02:19.051] [INFO] app - copy widget About to app 2
+[2015-03-04 18:02:47.978] [INFO] app - remove theme TabTheme from app 2
+[2015-03-04 18:02:48.077] [INFO] app - remove widget Edit from app 2
+[2015-03-04 18:02:48.190] [INFO] app - remove widget Geoprocessing from app 2
+[2015-03-04 18:02:48.286] [INFO] app - remove widget Legend from app 2
+[2015-03-04 18:04:29.177] [INFO] server - redirect  /webappbuilder/stemapp/index.html?id=2 to /webappbuilder/apps/2
+[2015-03-04 18:27:00.790] [INFO] repo - watch repository change:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-03-04 18:27:00.797] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-03-04 18:27:00.799] [INFO] repo - watch repository change:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-03-04 18:27:00.800] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-03-04 18:49:56.786] [INFO] repo - watch repository change:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-03-04 18:49:56.792] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-03-04 18:49:56.794] [INFO] repo - watch repository change:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-03-04 18:49:56.795] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-03-04 18:50:07.101] [DEBUG] app - getApp successfully.
+[2015-03-04 18:50:14.813] [INFO] server - No token is found, redirect /webappbuilder/ to /webappbuilder/?action=setportalurl
+[2015-03-04 22:00:45.992] [INFO] app - copy widget Geoprocessing to app 2
+[2015-03-04 22:20:46.362] [DEBUG] app - getApp successfully.
+[2015-03-04 22:24:32.660] [DEBUG] app - getApp successfully.
+[2015-03-04 22:49:27.417] [DEBUG] app - getApp successfully.
+[2015-03-04 22:50:57.609] [INFO] app - copy widget Legend to app 2
+[2015-03-04 23:17:04.141] [INFO] app - remove widget Legend from app 2
+[2015-03-04 23:17:23.960] [DEBUG] app - getApp successfully.
+[2015-03-05 00:07:14.603] [DEBUG] app - getApp successfully.
+[2015-03-05 00:28:57.795] [INFO] app - remove widget config config_Directions.json from app configs folder apps\2\
+[2015-03-05 00:32:19.424] [INFO] app - remove widget config config_Geoprocessing.json from app configs folder apps\2\
+[2015-03-05 00:32:19.427] [INFO] app - remove widget config config_Geoprocessing_2.json from app configs folder apps\2\
+[2015-03-05 00:32:19.429] [INFO] app - remove widget config config_Geoprocessing_3.json from app configs folder apps\2\
+[2015-03-05 00:32:26.798] [INFO] app - copy widget Print to app 2
+[2015-03-05 00:34:05.940] [INFO] app - copy widget BasemapGallery to app 2
+[2015-03-05 00:34:29.773] [INFO] app - remove widget Print from app 2
+[2015-03-05 00:35:59.096] [INFO] app - copy widget Legend to app 2
+[2015-03-05 00:46:27.245] [INFO] app - remove widget Legend from app 2
