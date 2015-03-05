@@ -1,0 +1,199 @@
+{
+  "name": "Viewshed",
+  "displayName": "Viewshed",
+  "description": "Calculates the viewshed of a point given a user defined location and viewing distance.",
+  "category": "",
+  "helpUrl": "http://sampleserver6.arcgisonline.com/arcgis/rest/directories/arcgisoutput/Elevation/ESRI_Elevation_World_GPServer/Elevation_ESRI_Elevation_World/Viewshed.htm",
+  "taskUrl": "http://sampleserver6.arcgisonline.com/arcgis/rest/services/Elevation/ESRI_Elevation_World/GPServer/Viewshed",
+  "isSynchronous": true,
+  "inputParams": [
+    {
+      "name": "Input_Observation_Point",
+      "dataType": "GPFeatureRecordSetLayer",
+      "description": "The input location from which the viewshed should be calculated.",
+      "defaultValue": {
+        "displayFieldName": "",
+        "geometryType": "esriGeometryPoint",
+        "spatialReference": {
+          "wkid": 54003,
+          "latestWkid": 54003
+        },
+        "fields": [
+          {
+            "name": "OBJECTID",
+            "type": "esriFieldTypeOID",
+            "alias": "OBJECTID"
+          },
+          {
+            "name": "OffsetA",
+            "type": "esriFieldTypeSmallInteger",
+            "alias": "OffsetA"
+          }
+        ],
+        "features": [],
+        "exceededTransferLimit": false
+      },
+      "category": "",
+      "label": "Input_Observation_Point",
+      "visible": true,
+      "required": true,
+      "featureSetMode": "draw",
+      "tooltip": "Input_Observation_Point",
+      "symbol": {
+        "color": [
+          144,
+          238,
+          144,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            50,
+            205,
+            50,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      }
+    },
+    {
+      "name": "Viewshed_Distance",
+      "dataType": "GPLinearUnit",
+      "description": " The maximum distance from the input point for which the viewshed should be calculated. The maximum allowed distance is 20000 meters.",
+      "defaultValue": {
+        "distance": 15000,
+        "units": "esriMeters"
+      },
+      "category": "",
+      "label": "Viewshed_Distance",
+      "visible": true,
+      "required": true
+    }
+  ],
+  "outputParams": [
+    {
+      "name": "Viewshed_Result",
+      "dataType": "GPFeatureRecordSetLayer",
+      "description": "The resulting viewshed feature class given the user location and maximum distance.",
+      "defaultValue": {
+        "displayFieldName": "",
+        "geometryType": "esriGeometryPolygon",
+        "spatialReference": {
+          "wkid": 54003,
+          "latestWkid": 54003
+        },
+        "fields": [
+          {
+            "name": "OBJECTID",
+            "type": "esriFieldTypeOID",
+            "alias": "OBJECTID",
+            "visible": true
+          },
+          {
+            "name": "Id",
+            "type": "esriFieldTypeInteger",
+            "alias": "Id",
+            "visible": true
+          },
+          {
+            "name": "grid_code",
+            "type": "esriFieldTypeInteger",
+            "alias": "grid_code",
+            "visible": true
+          },
+          {
+            "name": "Shape_Length",
+            "type": "esriFieldTypeDouble",
+            "alias": "Shape_Length",
+            "visible": true
+          },
+          {
+            "name": "Shape_Area",
+            "type": "esriFieldTypeDouble",
+            "alias": "Shape_Area",
+            "visible": true
+          }
+        ],
+        "features": [],
+        "exceededTransferLimit": false
+      },
+      "category": "",
+      "label": "Viewshed_Result",
+      "visible": true,
+      "required": true,
+      "featureSetMode": "draw",
+      "tooltip": "Viewshed_Result",
+      "renderer": {
+        "type": "simple",
+        "symbol": {
+          "color": [
+            255,
+            69,
+            0,
+            128
+          ],
+          "outline": {
+            "color": [
+              178,
+              34,
+              34,
+              255
+            ],
+            "width": 1.5,
+            "type": "esriSLS",
+            "style": "esriSLSSolid"
+          },
+          "type": "esriSFS",
+          "style": "esriSFSSolid"
+        }
+      },
+      "popup": {
+        "title": "",
+        "fields": [
+          {
+            "name": "OBJECTID",
+            "alias": "OBJECTID",
+            "type": "esriFieldTypeOID"
+          },
+          {
+            "name": "Id",
+            "alias": "Id",
+            "type": "esriFieldTypeInteger"
+          },
+          {
+            "name": "grid_code",
+            "alias": "grid_code",
+            "type": "esriFieldTypeInteger"
+          },
+          {
+            "name": "Shape_Length",
+            "alias": "Shape_Length",
+            "type": "esriFieldTypeDouble"
+          },
+          {
+            "name": "Shape_Area",
+            "alias": "Shape_Area",
+            "type": "esriFieldTypeDouble"
+          }
+        ],
+        "enablePopup": true
+      }
+    }
+  ],
+  "shareResults": true,
+  "layerOrder": [
+    "Input_Observation_Point",
+    "Operational Layers",
+    "Viewshed_Result"
+  ],
+  "useResultMapServer": false
+}

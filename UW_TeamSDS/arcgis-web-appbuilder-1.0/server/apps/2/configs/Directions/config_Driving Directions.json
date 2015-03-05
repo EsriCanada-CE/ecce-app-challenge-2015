@@ -1,5 +1,5 @@
 {
-  "routeTaskUrl": "http://env-gis-srv1.uwaterloo.ca:6080/arcgis/rest/services/w15ecce1/railnet/NAServer/Route",
+  "routeTaskUrl": "http://env-gis-srv1.uwaterloo.ca:6080/arcgis/rest/services/w15ecce1/test3/NAServer/Route/",
   "routeOptions": {
     "directionsLanguage": "en-ca",
     "directionsLengthUnits": "esriKilometers",

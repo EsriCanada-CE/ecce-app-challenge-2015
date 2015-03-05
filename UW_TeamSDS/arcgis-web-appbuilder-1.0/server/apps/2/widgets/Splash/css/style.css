@@ -190,3 +190,23 @@
 .jimu-widget-splash-mobile .splash-container .disable-btn{
   background-color: #a0acbf;
 }
+
+/* unvisited link - Added by JVD */
+a:link {
+    color: #CCCCFF;
+}
+
+/* visited link - Added by JVD */
+a:visited {
+    color: #CCCCFF;
+}
+
+/* mouse over link - Added by JVD */
+a:hover {
+    color: #FF0000;
+}
+
+/* selected link - Added by JVD */
+a:active {
+    color: #CCCCFF;
+}

@@ -94,3 +94,5 @@
 [2015-03-05 00:34:29.773] [INFO] app - remove widget Print from app 2
 [2015-03-05 00:35:59.096] [INFO] app - copy widget Legend to app 2
 [2015-03-05 00:46:27.245] [INFO] app - remove widget Legend from app 2
+[2015-03-05 00:52:32.933] [INFO] server - redirect  /webappbuilder/stemapp/index.html?id=2 to /webappbuilder/apps/2
+[2015-03-05 01:02:43.612] [DEBUG] app - getApp successfully.
