@@ -29,7 +29,7 @@ You can download the GTFS data for our hypothetical schedule [here].
 
 ## Data sources:
 
-* Road network (analysis layers): [National Road Network - Ontario](http://open.canada.ca/data/en/dataset/c0d1f299-179c-47b2-bcd8-da1ba68a8032), from Government of Canada. Contains information licensed under the [Open Government Licence – Canada](http://open.canada.ca/en/open-government-licence-canada).
+* Road network (used in network analysis layers): [National Road Network - Ontario](http://open.canada.ca/data/en/dataset/c0d1f299-179c-47b2-bcd8-da1ba68a8032), from Government of Canada. Contains information licensed under the [Open Government Licence – Canada](http://open.canada.ca/en/open-government-licence-canada).
 * Regional boundary (for clipping the above road network): [Regional Municipality of Waterloo Regional Boundary](http://www.regionofwaterloo.ca/en/regionalGovernment/RegionalBoundary.asp)
 * GRT bus network: [Regional Municipality of Waterloo GTFS Data](http://www.regionofwaterloo.ca/en/regionalGovernment/GRT_GTFSdata.asp) (GRT_Merged_GTFS.zip)
 * ION routes and stops: from Regional Municipality of Waterloo, via University of Waterloo Geospatial Centre
