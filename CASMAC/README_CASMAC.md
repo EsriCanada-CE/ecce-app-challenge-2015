@@ -17,10 +17,14 @@ Using the ‘directions’ widget, you can enter in your home address or the add
 
 ---
 
-## Troubleshooting
+## Questions?
 > The directions aren't working what do I do?
 
 Try adding “Ontario” to the end of your location, the full address is usually required to register the location
+
+> What does CASMAC mean?
+
+Its an acronym for our names -- Craig, Alex, Stephanie and MAC for McMaster Univeristy (where we all study)
 
 ---
 #### Authors
