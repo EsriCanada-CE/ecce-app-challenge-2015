@@ -1,0 +1,30 @@
+#!/bin/bash
+
+# Build the nasty URL of the day
+
+URL='http://nomads.ncep.noaa.gov/cgi-bin/filter_gfs_1p00.pl'
+DATE=`date +%Y%m%d`
+# Round to the nearest 6th hour for the NOMAD api (they generate a new version)
+# Every 6 hours
+HOUR=`date +%k | python -c "print format(int(float(raw_input()) / 6) * 6, '02')"`
+
+FILE='file=gfs.t'$HOUR'z.pgrb2.1p00.f000'
+REGION='subregion=&leftlon=0&rightlon=360&toplat=90&bottomlat=-90'
+SETTINGS='lev_10_m_above_ground=on&var_UGRD=on&var_VGRD=on'
+DIR='dir=%2Fgfs.'$DATE$HOUR
+
+# Fetch it and put it in temp
+ROUTE=$URL'?'$FILE'&'$SETTINGS'&'$REGION'&'$DIR
+echo $ROUTE
+curl -L -o temp/gfs.grib $ROUTE
+
+# Convert it to an easier to use format (for the web)
+grib2json -d -n -o temp/gfs.json temp/gfs.grib
+
+# Because currently the proper gfs (filter_gfs.pl) isn't working. This
+# is a temporary fix showing old data :/
+# We are working on supporting the new gfs format and will
+# probably get that update out in a week.
+curl -L -o temp/gfs.json https://rawgit.com/cambecc/earth/master/public/data/weather/current/current-wind-surface-level-gfs-1.0.json
+
+mkdir -p ./dist

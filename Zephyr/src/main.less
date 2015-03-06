@@ -1,0 +1,28 @@
+@BOWER: "../depends";
+@NPM: "node_modules";
+
+// Dependencies
+
+// Setup bootstrap and theme it
+@import "@{NPM}/bootstrap/less/bootstrap.less";
+
+// Import the other component styles
+@import "application/styles";
+@import "header/styles";
+@import "map/styles";
+// @import "login/login";
+
+html,
+body,
+.application {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  display: flex;
+  flex-flow: column;
+}
+
+body {
+  display: flex;
+  flex-flow: column wrap;
+}
