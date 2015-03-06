@@ -19,6 +19,8 @@ If you are the designated person on your team, follow these steps to get ready:
 * Add your project files, and do an initial commit of only the files you want to share on GitHub using your Git client
 * Click the "Sync" button in your Git client
 * Code away, add new files etc., and commit and sync often
+* When you finished your app, and want to submit your final product, click the "Create Pull Request" button located to the left of the "Sync" button.
+* For "from master into...", select "EsriCanada-CE/master". Fill out a brief (one sentence) description of your app with your team name, and then click "Send pull request".
 
 Happy hacking,
 Cam
