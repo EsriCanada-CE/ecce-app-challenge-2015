@@ -70,6 +70,13 @@ The user can create and save bookmarks based on the location and extent of the m
 # About
 Contains information about the app.
 
+
+## Disclaimer
+
+We are not associated with any of the organisations,events, or programs presented in the app. The app was made for the purposes of the ECCE App Challenge. 
+For the Pam Am Games data, both the data itself and the icons, we have contacted and informed them of our app. As of 06/03/2015 at 1:42 PM Atlantic Time, no reply was received from them. 
+
+
 ## Data Sources
 
 **Toronto Pan Am Venues** - Retrieved as a shapefile from the [Toronto Open data website](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=9e56e03bb8d1e310VgnVCM10000071d60f89RCRD)
