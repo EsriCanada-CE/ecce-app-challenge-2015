@@ -24,5 +24,5 @@ Try adding “Ontario” to the end of your location, sometimes you have to put 
 ### Authors
 ---
 Stephanie Koehl ([@StephanieKoehl](https://github.com/StephanieKoehl)) <br />
-Alexandra Usyk
-Craig Allison
+Alexandra Usyk <br />
+Craig Allison <br />
