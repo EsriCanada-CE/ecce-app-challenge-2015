@@ -1,1 +1,0 @@
-Watermelon - University of Waterloo

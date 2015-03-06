@@ -1,0 +1,362 @@
+{
+  "queries": [
+    {
+      "name": "Infraction By Time and Type",
+      "url": "http://services5.arcgis.com/8anfbSlorqnLZMIe/arcgis/rest/services/Infractions/FeatureServer/0",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [
+          {
+            "fieldObj": {
+              "name": "InspectDat",
+              "label": "InspectDat",
+              "shortType": "date",
+              "type": "esriFieldTypeDate"
+            },
+            "operator": "dateOperatorIsBetween",
+            "valueObj": {
+              "isValid": true,
+              "type": "value",
+              "value1": "Tue Jan 01 2013",
+              "value2": "Thu Dec 31 2015"
+            },
+            "interactiveObj": {
+              "prompt": "Please enter time period",
+              "hint": "DD/MM/YYYY"
+            },
+            "caseSensitive": false,
+            "expr": "InspectDat BETWEEN timestamp '2013-01-01 00:00:00' AND timestamp '2015-12-31 23:59:59'"
+          },
+          {
+            "fieldObj": {
+              "name": "Infraction",
+              "label": "Infraction",
+              "shortType": "string",
+              "type": "esriFieldTypeString"
+            },
+            "operator": "stringOperatorIs",
+            "valueObj": {
+              "isValid": true,
+              "type": "value",
+              "value": "CRITICAL"
+            },
+            "interactiveObj": {
+              "prompt": "Interested infraction type",
+              "hint": "CRITICAL or NON-CRITICAL"
+            },
+            "caseSensitive": false,
+            "expr": "Infraction = 'CRITICAL'"
+          }
+        ],
+        "expr": "(InspectDat BETWEEN timestamp '2013-01-01 00:00:00' AND timestamp '2015-12-31 23:59:59') AND (Infraction = 'CRITICAL')"
+      },
+      "popup": {
+        "title": "Infraction Report",
+        "fields": [
+          {
+            "name": "Name",
+            "alias": "Name",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Tel",
+            "alias": "Tel",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Address",
+            "alias": "Address",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "FacilityTy",
+            "alias": "FacilityTy",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "InspectDat",
+            "alias": "InspectDat",
+            "type": "esriFieldTypeDate",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Type",
+            "alias": "Type",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Infraction",
+            "alias": "Infraction",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Descriptio",
+            "alias": "Descriptio",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          }
+        ]
+      },
+      "resultsSymbol": {
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 12,
+        "type": "esriPMS",
+        "url": "http://static.arcgis.com/images/Symbols/Basic/LightBlueStickpin.png",
+        "imageData": "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",
+        "contentType": "image/png",
+        "width": 18,
+        "height": 18
+      },
+      "objectIdField": "FID"
+    },
+    {
+      "name": "FoodFacility",
+      "url": "http://services5.arcgis.com/8anfbSlorqnLZMIe/arcgis/rest/services/FacilityWaterloo/FeatureServer/0",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [
+          {
+            "fieldObj": {
+              "name": "Name",
+              "label": "Name",
+              "shortType": "string",
+              "type": "esriFieldTypeString"
+            },
+            "operator": "stringOperatorContains",
+            "valueObj": {
+              "isValid": true,
+              "type": "value",
+              "value": "Name"
+            },
+            "interactiveObj": {
+              "prompt": "Food facility name",
+              "hint": "ex. Burger King"
+            },
+            "caseSensitive": false,
+            "expr": "UPPER(Name) LIKE UPPER('%Name%')"
+          }
+        ],
+        "expr": "UPPER(Name) LIKE UPPER('%Name%')"
+      },
+      "popup": {
+        "title": "Food Facilities",
+        "fields": [
+          {
+            "name": "Name",
+            "alias": "Name",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Category",
+            "alias": "Category",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Type",
+            "alias": "Type",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Address",
+            "alias": "Address",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "City",
+            "alias": "City",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Telephone",
+            "alias": "Telephone",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Critical",
+            "alias": "Critical",
+            "type": "esriFieldTypeSmallInteger",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Uncritical",
+            "alias": "Uncritical",
+            "type": "esriFieldTypeSmallInteger",
+            "specialType": "none",
+            "showInInfoWindow": true
+          }
+        ]
+      },
+      "resultsSymbol": {
+        "color": [
+          255,
+          0,
+          0,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            128,
+            128,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      },
+      "objectIdField": "FID"
+    },
+    {
+      "name": "Infraction By Food Facility",
+      "url": "http://services5.arcgis.com/8anfbSlorqnLZMIe/arcgis/rest/services/Infractions/FeatureServer/0",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [
+          {
+            "fieldObj": {
+              "name": "Name",
+              "label": "Name",
+              "shortType": "string",
+              "type": "esriFieldTypeString"
+            },
+            "operator": "stringOperatorContains",
+            "valueObj": {
+              "isValid": true,
+              "type": "value",
+              "value": "Name"
+            },
+            "interactiveObj": {
+              "prompt": "Food Facility Name",
+              "hint": "ex. Burger King"
+            },
+            "caseSensitive": false,
+            "expr": "UPPER(Name) LIKE UPPER('%Name%')"
+          }
+        ],
+        "expr": "UPPER(Name) LIKE UPPER('%Name%')"
+      },
+      "popup": {
+        "title": "Infraction Report",
+        "fields": [
+          {
+            "name": "Name",
+            "alias": "Name",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Tel",
+            "alias": "Tel",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Address",
+            "alias": "Address",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "InspectDat",
+            "alias": "InspectDat",
+            "type": "esriFieldTypeDate",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Type",
+            "alias": "Type",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Infraction",
+            "alias": "Infraction",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Descriptio",
+            "alias": "Descriptio",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Details",
+            "alias": "Details",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          }
+        ]
+      },
+      "resultsSymbol": {
+        "color": [
+          0,
+          0,
+          128,
+          128
+        ],
+        "size": 18,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0,
+        "type": "esriSMS",
+        "style": "esriSMSCircle",
+        "outline": {
+          "color": [
+            0,
+            0,
+            128,
+            255
+          ],
+          "width": 0.75,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        }
+      },
+      "objectIdField": "FID"
+    }
+  ]
+}
