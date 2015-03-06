@@ -18,8 +18,10 @@ The next step is to type in a day of the week that you want to go to the program
 Using the ‘directions’ widget, you can enter in your home address or the address of where you will be departing from. Type the address of the arena you want to go to in the box, and then click “Get Directions.” Directions are provided for you in the pop-up window. 
 
 ## Troubleshooting
->> The directions aren't working what do I do?
-Try adding “Ontario” to the end of your location, sometimes you have to put the full address
+> The directions aren't working what do I do?
+
+Try adding “Ontario” to the end of your location, the full address is usually required to register the location
+
 
 ### Authors
 ---
