@@ -1,7 +1,5 @@
-Skate Swim Gym Hamilton by CASMAC
-==================
-## ECCE App Challenge 2015 submission
-==================
+#Skate Swim Gym Hamilton by CASMAC
+##### ECCE App Challenge 2015 submission
 
 ### Goals:
 Make it simple to find available public recreation programs.
