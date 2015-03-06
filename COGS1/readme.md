@@ -1,4 +1,3 @@
-﻿
 # Welcome to the Let's Walk! App!
 
 Mark Kirby, 
@@ -7,18 +6,27 @@ Katelyn Page
 
 ----
 ## How to download and use the App
-1. Install the provided add-in 
-2. Open the provided MXD
-3. Sign into ArcGIS Online in the MXD using the following information:
+1. Download the folder from GitHub
+2. Double click the LetsWalk.esriaddin
+3. Click 'Install Add-in' 
+4. Open the provided MXD
+5. If the **Let's Walk!** tool bar doesn't appear in the ArcMap Document, right click on grey space and select **Let's Walk** from the list.
+6. Sign into ArcGIS Online in the MXD using the following information:
 
         username: COGS1APP
 		password: esriapp1
 		
-4. If it the **Let's Walk!** tool bar doesn't appear in the ArcMap Document, right click in the tool bar area and make sure there is a check mark beside the **Let's Walk!** tool bar
-5. *HOW TO USE TOOLBAR*
-Once the service is shared, go to [ArcGIS Online](https://www.arcgis.com/home/signin.html) and sign in using the above username and password.
-Click open, then add to new map.
+7. Now you can use the App! You can choose the distance you're willing to drive, how long you want to walk for and an estimate of your walking pace.
+8. Once you have picked these options in the drop down boxes, press the walking button and select your current location.
+		This will produce a buffer of the driving distance you chose and show the walking paths that meet your criteria in red.
+9. When you are happy with your trail selection, press the upload button to share the selected trails as a service to ArcGIS Online.
+10. Once the service is shared, go to [ArcGIS Online](https://www.arcgis.com/home/signin.html) and sign in using the above username and password.
+11. Go to My Content, click the down arrow next to the feature layer and choose 'Add layer to new map'
+12. Select the Corridor_Name for the symbology.
+13. Now you can see your selected trails! 
+*You can change the base map and if you want, use the map to create a web mapping application to access the selected trails from your phone!*
 
+Happy Walking!
 
    
 ----

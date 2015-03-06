@@ -67,7 +67,7 @@ class GetTrailsClass(object):
             # If trails were selected, enable the output map button
             matchcount = int(arcpy.GetCount_management(in_trails).getOutput(0)) 
             if matchcount == 0:
-                pythonaddins.MessageBox('No features matched spatial and attribute criteria', 0)
+                pythonaddins.MessageBox('No features matched spatial and attribute criteria', 'Invalid Selection', 0)
                 mxd = arcpy.mapping.MapDocument("CURRENT")
                 for df in arcpy.mapping.ListDataFrames(mxd):
                     for tbl in arcpy.mapping.ListTableViews(mxd, "", df):
@@ -126,7 +126,7 @@ class UploadAGOLClass(object):
             arcpy.Delete_management(agol_mxd)
             mxd.saveACopy(agol_mxd)
 
-        service_base = 'LetsWalk'
+        service_base = 'YourTrails_'
         service = service_base + system_time
 
         # build paths to data
