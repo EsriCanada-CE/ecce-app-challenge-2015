@@ -1,0 +1,155 @@
+
+<!--#### Utilizes:
+* [ArcGIS API for Javascript](https://developers.arcgis.com/javascript/)
+* [CodyHouse Full-Screen Pop-Out Navigation](http://codyhouse.co/gem/full-screen-pop-out-navigation/)
+* [Firebase ](https://www.firebase.com)--> 
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width, maximum-scale=1.0, user-scalable=no">
+    <!-- meta tags to hide url and minimize status bar to give the web app
+    a native app look this only happens after app is saved to the desktop-->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="translucent-black">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+  <title>Open Wi-Finder</title>
+  
+  <!-- STYLES -->
+  
+  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="http://js.arcgis.com/3.8/js/esri/css/esri.css">
+  
+
+  
+  <!-- OUR STYLES -->
+  <link rel="stylesheet" href="css/style.css" type='text/css'>
+ <link rel="stylesheet" href="css/nav.css" type='text/css'> <!--CodyHouse-->
+   <!-- Details about the Webkit CSS Properties http://css-infos.net/properties/webkit.php
+    and http://www.pointabout.com/category/development-blog/pointabout-dev-help/-->
+
+  <script src="js/modernizr.js"></script> <!-- Modernizr -->
+  
+  <!-- Firebase -->
+   <script src="https://cdn.firebase.com/js/client/2.2.2/firebase.js"></script>
+ 
+  
+</head>
+<body onorientationchange="orientationChanged();"  >
+
+<!--header-->
+   <!--Nav Bar-->
+   <header class="cd-header">
+		<div class="cd-logo"><a href="index.html">Open Wi-Finder: <span id="subtitle">Free Wi-Fi Locator</span></a></div>
+
+		<nav id="navElements">
+			<ul class="cd-secondary-nav">
+				<li><a href="#0">Info</a></li>
+				
+			</ul>
+		</nav> <!-- cd-nav -->
+
+		<a class="cd-primary-nav-trigger" href="#0">
+			<span class="cd-menu-text">Menu</span><span class="cd-menu-icon"></span>
+		</a> <!-- cd-primary-nav-trigger -->
+	</header>
+
+	<nav>
+    <ul class="cd-primary-nav">
+          <div class="navCol">
+              <li class="cd-label">Wi-Finder</li>
+              <li><a href="index.html">Open map</a></li>
+              <li><a href="data.html">Data</a></li>
+              <li><a href="appInfo.html">App info</a></li>
+      </div>
+            <div class="navCol">
+              <li class="cd-label">About us</li>
+              <li><a href="team.html">The team</a></li>
+              <li><a href="challenge.html">Challenge</a></li>
+      </div>
+            <div class="navFooter">
+              <li class="cd-label">Follow us</li>
+              <li class="cd-social cd-facebook"><a href="#0">Facebook</a></li>
+              <li class="cd-social cd-instagram"><a href="#0">LinkedIn</a></li>
+              <li class="cd-social cd-twitter"><a href="#0">Twitter</a></li>
+            </div>
+    </ul>
+	</nav>
+    
+   
+    
+    
+    <!--END Nav-->
+    <div id="bodyWrapper">
+        <!--Map Container-->
+        <div id="map"></div>
+       
+        <div id="LocateButton"></div>
+        <a href="#" id="closestPoint"><img src="img/findNearest.png" alt="Find Closest Hotspot"></a>
+        <a href="#" id="addPointPopup" ><img src="img/addHotspot.png" alt="Add a new Hotspot"></a>
+		
+        <div id="popupDiv">
+        <div id="popupContact">
+<!-- Contact Us Form -->
+          <form action="#" id="form" method="post" name="form">
+         <!-- <img id="close" src="images/3.png" onclick ="div_hide()">-->
+          <h2>Add New Hotspot</h2>
+          
+          	<label style="display:block;" for="ssid">Network Name: </label>
+            <input id="ssid" name="Network Name" placeholder="SSID" type="text">
+          <label style="display:block;" for="auth">Access: </label>
+          <select id="auth" name="Access">
+          		<option value="Free, open access">Free</option>
+                <option value="Free with login">Free with Login</option>
+                <option value="Subscription/Paid">Subscription/Paid</option>
+          </select>
+          <label style="display:block;" for="avail">Availability: </label>
+          <select id="avail" name="Availability">
+          		<option value="24/7">24/7</option>
+                <option value="During Business Hours">During Business Hours</option>
+                <option value="Occasionally">Occasionally</option>
+          </select>
+          <label style="display:block;" for="open">Open from: </label>
+            <input id="openhr" name="Open From" placeholder="Hour" type="number" min="0" max="24">
+            <label style="display:block;" for="close">Until: </label>
+            <input id="closedhr" name="Until" placeholder="Hour" type="number" min="0" max="24">
+          <a href="#" id="submit" class="submit">Send</a>
+          <a href="#" id="closeDiv" class="close">Close</a>
+          </form>
+          </div>
+          
+          <!-- Popup Div Ends Here -->
+          </div>
+          <!-- Display Popup Button -->
+          
+      </div>
+  
+  
+  <script src="//js.arcgis.com/3.12/"></script>
+  
+  <script src="js/map.js"></script>
+  <script src="js/jquery-2.1.1.js"></script>
+<script src="js/main.js"></script> <!-- Resource jQuery -->
+</body>
+</html>

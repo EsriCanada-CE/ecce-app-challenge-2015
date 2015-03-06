@@ -1,0 +1,108 @@
+@charset "UTF-8";
+/* CSS Document */
+#map {
+        height: 90%;
+        margin: 0px;
+        padding: 0px;
+        width: 100%;
+		position: absolute;
+		top:10%;
+		left:0;
+		z-index: 1;
+      }
+
+    #LocateButton {
+      position: absolute;
+      bottom: 17px;
+      left: 10px;
+      z-index: 1;
+	  height: 30px;
+	  width: 30px;
+    }
+	#closestPoint {
+      left: 50px;
+    }
+	
+	#addPointPopup {
+      left: 190px;
+     }
+	
+	
+	#popupDiv {
+		position: absolute;
+		z-index: 100;
+		width: 50%;
+		height: 80%;
+		display: none;
+		left: 25%;
+		top: 15%;
+		background-color:white;
+		border-color: black;
+		border-width: 1px;
+		padding-left: 20px;
+		
+	}
+	
+	.is-visible, label, input {
+		display: block;
+	}
+	 form {
+		width: 40%;
+		margin-left: auto;
+		margin-right: auto; 
+	 }
+	
+	#bodyWrapper #popupDiv a {
+		width: 70px;
+		height: 30px;
+		text-align:center;
+		position:absolute;
+		display:block;
+		z-index:100;
+		 background-color: black;
+	}
+	
+	.submit {
+		bottom: 10%;
+		left: 5%;
+	}
+	
+	.close {
+		bottom: 10%;
+		right: 5%;
+	}
+	
+	#bodyWrapper a {
+	  position: absolute;
+      bottom: 17px;
+      z-index: 1;
+	  width: 129px;
+	  height: 30px;
+	 
+	  -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=50);
+      filter: progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+	  color: white;
+	  text-align:center;
+	  -moz-border-radius: 5px;
+	  -webkit-border-radius: 5px;
+	  border-radius: 5px;
+	}
+	
+	#bodyWrapper a img {
+		width: 129px;
+		height: 30px;
+	}
+	
+	.action.zoomTo{
+	display:none;
+	visibility:hidden;
+	}	
+#subtitle {
+	text-transform:none;
+}
+	
+	
+	#closestPoint img, #addPoint img {
+		height: 100%;
+		width: 100%;
+	}
