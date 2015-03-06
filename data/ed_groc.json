@@ -1,0 +1,629 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53641999017405, 
+          53.55547891854846
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2010, 
+        "PERCENT": 100, 
+        "LAND_USE": "Food Stores", 
+        "ORIG_FID": 58
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49390680576985, 
+          53.46615005422504
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8718
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4935108859135, 
+          53.48654283909556
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8719
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48876101247392, 
+          53.50619946270931
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8720
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.54224483225244, 
+          53.48899336439522
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8721
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.51314055650099, 
+          53.51861870806889
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 68, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8722
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44241850147596, 
+          53.513446620317914
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 64, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8723
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.66958254649494, 
+          53.5243273662641
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8724
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5175817205597, 
+          53.521676983386264
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8725
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53462343783879, 
+          53.54895806964341
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8726
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48918911412382, 
+          53.55036869648015
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8727
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48893259634333, 
+          53.552526207144176
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8728
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4894348737831, 
+          53.550961557966886
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8729
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48972148024515, 
+          53.55890353113924
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8730
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48503051834024, 
+          53.555760373176575
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8731
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.57955978505686, 
+          53.57907812076436
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8732
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.43750605157297, 
+          53.58818306909122
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8733
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.41443364379987, 
+          53.627419225135625
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8734
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.51479123088875, 
+          53.42281175115196
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8735
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42205203517155, 
+          53.453702214001154
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8736
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.56442320184733, 
+          53.45298960598825
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8737
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.56677855057283, 
+          53.455664171769214
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8738
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.62047472089674, 
+          53.5402412966216
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8739
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.51924541915082, 
+          53.54709067009969
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8740
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53541642588475, 
+          53.570849216922696
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8741
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44407665718965, 
+          53.5772592782984
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8742
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42486721107588, 
+          53.598489577756524
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8743
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49451551574232, 
+          53.59882576508009
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8744
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53672702182624, 
+          53.600853945414556
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8745
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49027407715565, 
+          53.61581908666038
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8746
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48215416421998, 
+          53.45234936268893
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8747
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.51030499176996, 
+          53.45482187010259
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8748
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44372273848761, 
+          53.569807205625814
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8749
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4942428712696, 
+          53.570615788973065
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8750
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4793012989974, 
+          53.57014131933119
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8751
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47080341107618, 
+          53.57019358936728
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8752
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.6118342338225, 
+          53.54329518451738
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8753
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53538366057631, 
+          53.54344130212359
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2011, 
+        "PERCENT": 100, 
+        "LAND_USE": "Grocery Store", 
+        "ORIG_FID": 8754
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.41645568854693, 
+          53.57061854857656
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2012, 
+        "PERCENT": 100, 
+        "LAND_USE": "Meat and/or Fish Shop", 
+        "ORIG_FID": 8821
+      }
+    }
+  ]
+}

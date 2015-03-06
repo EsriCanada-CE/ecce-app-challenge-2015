@@ -1,0 +1,634 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47559159807378, 
+          53.42871520134554
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 1, 
+        "ORIG_FID": 732
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50071155229625, 
+          53.454469662345105
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 2, 
+        "ORIG_FID": 733
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.39289832170016, 
+          53.45838838171852
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 3, 
+        "ORIG_FID": 734
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.59088952902852, 
+          53.45931756845107
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 4, 
+        "ORIG_FID": 735
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.43510318786178, 
+          53.459574732288104
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 5, 
+        "ORIG_FID": 736
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53807558911711, 
+          53.477881348045855
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 6, 
+        "ORIG_FID": 737
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.41898373231334, 
+          53.49374358040194
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 7, 
+        "ORIG_FID": 738
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.63030004511097, 
+          53.496674624734226
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 8, 
+        "ORIG_FID": 739
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47614622436873, 
+          53.51731069503262
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 9, 
+        "ORIG_FID": 740
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52196310691181, 
+          53.51253144586957
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 10, 
+        "ORIG_FID": 741
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49422917603562, 
+          53.52858160865435
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 11, 
+        "ORIG_FID": 742
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45745206286239, 
+          53.52433467540499
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 12, 
+        "ORIG_FID": 743
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42900810643891, 
+          53.53832039227234
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 13, 
+        "ORIG_FID": 744
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53461184216275, 
+          53.542187568801296
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 14, 
+        "ORIG_FID": 745
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50421897662443, 
+          53.54360361971135
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 15, 
+        "ORIG_FID": 746
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.62803527340913, 
+          53.54305550720596
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 16, 
+        "ORIG_FID": 747
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48047797807618, 
+          53.56127629166758
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 17, 
+        "ORIG_FID": 748
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49316237054694, 
+          53.56078282916428
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 18, 
+        "ORIG_FID": 749
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.41945513264824, 
+          53.57008650998449
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 19, 
+        "ORIG_FID": 750
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.54238907039922, 
+          53.58127169483288
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 20, 
+        "ORIG_FID": 751
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.38699183980151, 
+          53.60132550356917
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 21, 
+        "ORIG_FID": 752
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49316908668396, 
+          53.585578931222756
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 22, 
+        "ORIG_FID": 753
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.51679247819027, 
+          53.617723528618
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 23, 
+        "ORIG_FID": 754
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45352113249425, 
+          53.606730460542394
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 24, 
+        "ORIG_FID": 755
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.56521662574664, 
+          53.54809135902906
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 25, 
+        "ORIG_FID": 756
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.64789956711132, 
+          53.55236821272291
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 26, 
+        "ORIG_FID": 757
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.64180241005317, 
+          53.55464892940461
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 27, 
+        "ORIG_FID": 758
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.58989406765704, 
+          53.555606725370126
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.25000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Fire Station", 
+        "OBJECTID": 28, 
+        "ORIG_FID": 759
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.6162734981234, 
+          53.43404215472174
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.24000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Police Station", 
+        "OBJECTID": 29, 
+        "ORIG_FID": 1906
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42663268574984, 
+          53.46009184965919
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.24000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Police Station", 
+        "OBJECTID": 30, 
+        "ORIG_FID": 1907
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48014007760247, 
+          53.48877008936819
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.24000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Police Station", 
+        "OBJECTID": 31, 
+        "ORIG_FID": 1908
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49615382593828, 
+          53.51879771324394
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.24000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Police Station", 
+        "OBJECTID": 32, 
+        "ORIG_FID": 1909
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.60689137483706, 
+          53.53862654038261
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.24000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Police Station", 
+        "OBJECTID": 33, 
+        "ORIG_FID": 1910
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4795352565468, 
+          53.543649082239426
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.24000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Police Station", 
+        "OBJECTID": 34, 
+        "ORIG_FID": 1911
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.59251761669464, 
+          53.56929327826225
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.24000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Police Station", 
+        "OBJECTID": 35, 
+        "ORIG_FID": 1912
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48495717833106, 
+          53.5476751437929
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.24000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Police Station", 
+        "OBJECTID": 36, 
+        "ORIG_FID": 1913
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.41677280572037, 
+          53.60490194187116
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.24000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Police Station", 
+        "OBJECTID": 37, 
+        "ORIG_FID": 1914
+      }
+    }
+  ]
+}

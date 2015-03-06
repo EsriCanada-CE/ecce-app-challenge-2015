@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50344634184903, 
+          53.557175465670994
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2142, 
+        "PERCENT": 100, 
+        "LAND_USE": "Dentist/Dental Clinic", 
+        "ORIG_FID": 11
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.37529850598203, 
+          53.6366792120849
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4340, 
+        "PERCENT": 100, 
+        "LAND_USE": "Mental Health Hospital", 
+        "ORIG_FID": 8658
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.35018955045011, 
+          53.48570761213341
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4370, 
+        "PERCENT": 48, 
+        "LAND_USE": "Columbarium", 
+        "ORIG_FID": 13007
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42954072969992, 
+          53.462071710173795
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4310, 
+        "PERCENT": 100, 
+        "LAND_USE": "Active Treatment Hospital", 
+        "ORIG_FID": 39733
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.6120564542287, 
+          53.52173522540434
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4310, 
+        "PERCENT": 100, 
+        "LAND_USE": "Active Treatment Hospital", 
+        "ORIG_FID": 39734
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52310119961506, 
+          53.52038891752428
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4310, 
+        "PERCENT": 100, 
+        "LAND_USE": "Active Treatment Hospital", 
+        "ORIG_FID": 39735
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.51303046082757, 
+          53.539877508547285
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4310, 
+        "PERCENT": 100, 
+        "LAND_USE": "Active Treatment Hospital", 
+        "ORIG_FID": 39736
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49502808916188, 
+          53.55670248687583
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4310, 
+        "PERCENT": 100, 
+        "LAND_USE": "Active Treatment Hospital", 
+        "ORIG_FID": 39737
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53104454782536, 
+          53.518138358045874
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4310, 
+        "PERCENT": 100, 
+        "LAND_USE": "Active Treatment Hospital", 
+        "ORIG_FID": 39738
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52758085070585, 
+          53.518030111997305
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4310, 
+        "PERCENT": 100, 
+        "LAND_USE": "Active Treatment Hospital", 
+        "ORIG_FID": 39739
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52588677935056, 
+          53.51773942038572
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4310, 
+        "PERCENT": 100, 
+        "LAND_USE": "Active Treatment Hospital", 
+        "ORIG_FID": 39740
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49807498256862, 
+          53.55764470162841
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4310, 
+        "PERCENT": 100, 
+        "LAND_USE": "Active Treatment Hospital", 
+        "ORIG_FID": 39741
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52308900655976, 
+          53.5197804521226
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4390, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Medical", 
+        "ORIG_FID": 42160
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5930273876082, 
+          53.540549982089566
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4390, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Medical", 
+        "ORIG_FID": 42161
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52194390942715, 
+          53.548796366623556
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4390, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Medical", 
+        "ORIG_FID": 42162
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4201062001657, 
+          53.59690499037396
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4390, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Medical", 
+        "ORIG_FID": 42163
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52941239557327, 
+          53.5098714333099
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2141, 
+        "PERCENT": 100, 
+        "LAND_USE": "Doctor/Medical Clinic", 
+        "ORIG_FID": 45837
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.51058681319174, 
+          53.48791372565893
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2141, 
+        "PERCENT": 100, 
+        "LAND_USE": "Doctor/Medical Clinic", 
+        "ORIG_FID": 45838
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50238782246439, 
+          53.53825394936131
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2141, 
+        "PERCENT": 100, 
+        "LAND_USE": "Doctor/Medical Clinic", 
+        "ORIG_FID": 45839
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.59133530589529, 
+          53.54054397459571
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2141, 
+        "PERCENT": 100, 
+        "LAND_USE": "Doctor/Medical Clinic", 
+        "ORIG_FID": 45840
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52812955266572, 
+          53.542640765782345
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2141, 
+        "PERCENT": 100, 
+        "LAND_USE": "Doctor/Medical Clinic", 
+        "ORIG_FID": 45841
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48615519722728, 
+          53.551334701124205
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2141, 
+        "PERCENT": 100, 
+        "LAND_USE": "Doctor/Medical Clinic", 
+        "ORIG_FID": 45842
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48994650649541, 
+          53.596491964318616
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2141, 
+        "PERCENT": 100, 
+        "LAND_USE": "Doctor/Medical Clinic", 
+        "ORIG_FID": 45843
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.46507673705574, 
+          53.571670915748605
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2141, 
+        "PERCENT": 100, 
+        "LAND_USE": "Doctor/Medical Clinic", 
+        "ORIG_FID": 45844
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.41732568483505, 
+          53.60408005589771
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 2141, 
+        "PERCENT": 100, 
+        "LAND_USE": "Doctor/Medical Clinic", 
+        "ORIG_FID": 45845
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5060522804579, 
+          53.45982865490692
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4320, 
+        "PERCENT": 100, 
+        "LAND_USE": "Auxiliary Hospital", 
+        "ORIG_FID": 48381
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.54250963228684, 
+          53.49870383919039
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4320, 
+        "PERCENT": 100, 
+        "LAND_USE": "Auxiliary Hospital", 
+        "ORIG_FID": 48382
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47811902435575, 
+          53.50706425614938
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4320, 
+        "PERCENT": 100, 
+        "LAND_USE": "Auxiliary Hospital", 
+        "ORIG_FID": 48383
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.60995066950777, 
+          53.52137156437243
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4320, 
+        "PERCENT": 100, 
+        "LAND_USE": "Auxiliary Hospital", 
+        "ORIG_FID": 48384
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48467964195426, 
+          53.605197551297216
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4320, 
+        "PERCENT": 100, 
+        "LAND_USE": "Auxiliary Hospital", 
+        "ORIG_FID": 48385
+      }
+    }
+  ]
+}

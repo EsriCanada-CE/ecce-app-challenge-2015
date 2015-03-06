@@ -1,0 +1,6023 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.293334, 
+          49.037863
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Abbotsford Youth Health Centre", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90378630000e+001", 
+        "LONGITUDE": "-1.22293334000e+002", 
+        "PHONE_NUMB": "6.04746339200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -133.689945, 
+          59.571484
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Health Support Services", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.95714840000e+001", 
+        "LONGITUDE": "-1.33689945000e+002", 
+        "PHONE_NUMB": "2.50651793500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.835308, 
+          49.175842
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Medical Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91758420000e+001", 
+        "LONGITUDE": "-1.23835308000e+002", 
+        "PHONE_NUMB": "2.50247992200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -131.817065, 
+          53.243312
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Nursing Station", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.32433120000e+001", 
+        "LONGITUDE": "-1.31817065000e+002", 
+        "PHONE_NUMB": "2.50637540300e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.142718, 
+          49.325187
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Park Royal Village Medical Centre", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.93251870000e+001", 
+        "LONGITUDE": "-1.23142718000e+002", 
+        "PHONE_NUMB": "6.04922737200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.330171, 
+          48.429647
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Primary Health Care", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84296470000e+001", 
+        "LONGITUDE": "-1.23330171000e+002", 
+        "PHONE_NUMB": "2.50592344100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -121.73034, 
+          49.255136
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Seabird Island Doctors' Office", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92551360000e+001", 
+        "LONGITUDE": "-1.21730340000e+002", 
+        "PHONE_NUMB": "6.04796216500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.244573, 
+          49.265082
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "UBC Student Health Services", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92650820000e+001", 
+        "LONGITUDE": "-1.23244573000e+002", 
+        "PHONE_NUMB": "6.04822701100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -120.840216, 
+          56.24657
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Unattached Patient Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.62465700000e+001", 
+        "LONGITUDE": "-1.20840216000e+002", 
+        "PHONE_NUMB": "2.50262521000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09433, 
+          49.281238
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Vancouver Native Health Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92812380000e+001", 
+        "LONGITUDE": "-1.23094330000e+002", 
+        "PHONE_NUMB": "6.04255976600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.948266, 
+          49.185576
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91855760000e+001", 
+        "LONGITUDE": "-1.22948266000e+002", 
+        "PHONE_NUMB": "7.78397165500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.84568, 
+          49.149481
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91494810000e+001", 
+        "LONGITUDE": "-1.22845680000e+002", 
+        "PHONE_NUMB": "6.04593549900e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12012, 
+          49.285914
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92859140000e+001", 
+        "LONGITUDE": "-1.23120120000e+002", 
+        "PHONE_NUMB": "6.04683813800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.530368, 
+          49.40658
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.94065800000e+001", 
+        "LONGITUDE": "-1.23530368000e+002", 
+        "PHONE_NUMB": "6.04886286800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.352828, 
+          48.426737
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84267370000e+001", 
+        "LONGITUDE": "-1.23352828000e+002", 
+        "PHONE_NUMB": "2.50592349600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.131466, 
+          49.280813
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92808130000e+001", 
+        "LONGITUDE": "-1.23131466000e+002", 
+        "PHONE_NUMB": "6.04915951700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -124.965, 
+          56.906111
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.69061110000e+001", 
+        "LONGITUDE": "-1.24965000000e+002", 
+        "PHONE_NUMB": "2.50993218100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.804342, 
+          49.188825
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91888250000e+001", 
+        "LONGITUDE": "-1.22804342000e+002", 
+        "PHONE_NUMB": "6.04589384800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.867352, 
+          49.249007
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92490070000e+001", 
+        "LONGITUDE": "-1.22867352000e+002", 
+        "PHONE_NUMB": "6.04937252000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.387382, 
+          48.45081
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84508100000e+001", 
+        "LONGITUDE": "-1.23387382000e+002", 
+        "PHONE_NUMB": "2.50381435300e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.845564, 
+          49.186983
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91869830000e+001", 
+        "LONGITUDE": "-1.22845564000e+002", 
+        "PHONE_NUMB": "6.04572455800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.122335, 
+          49.278383
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92783830000e+001", 
+        "LONGITUDE": "-1.23122335000e+002", 
+        "PHONE_NUMB": "6.04569363200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -120.222749, 
+          55.757051
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.57570510000e+001", 
+        "LONGITUDE": "-1.20222749000e+002", 
+        "PHONE_NUMB": "2.50782110300e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -117.291323, 
+          49.498677
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.94986770000e+001", 
+        "LONGITUDE": "-1.17291323000e+002", 
+        "PHONE_NUMB": "2.50352466600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.072992, 
+          49.323109
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.93231090000e+001", 
+        "LONGITUDE": "-1.23072992000e+002", 
+        "PHONE_NUMB": "6.04904880400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.409936, 
+          48.429952
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84299520000e+001", 
+        "LONGITUDE": "-1.23409936000e+002", 
+        "PHONE_NUMB": "7.78265430500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12848, 
+          49.279513
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92795130000e+001", 
+        "LONGITUDE": "-1.23128480000e+002", 
+        "PHONE_NUMB": "6.04558404400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.094082, 
+          49.133312
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91333120000e+001", 
+        "LONGITUDE": "-1.23094082000e+002", 
+        "PHONE_NUMB": "6.04448959500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09342, 
+          49.184268
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91842680000e+001", 
+        "LONGITUDE": "-1.23093420000e+002", 
+        "PHONE_NUMB": "6.04270983300e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.796051, 
+          49.28314
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92831400000e+001", 
+        "LONGITUDE": "-1.22796051000e+002", 
+        "PHONE_NUMB": "6.04945003200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14079, 
+          49.287962
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92879620000e+001", 
+        "LONGITUDE": "-1.23140790000e+002", 
+        "PHONE_NUMB": "6.04681533800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.039, 
+          49.336367
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.93363670000e+001", 
+        "LONGITUDE": "-1.23039000000e+002", 
+        "PHONE_NUMB": "6.04988538900e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.561484, 
+          49.22069
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92206900000e+001", 
+        "LONGITUDE": "-1.22561484000e+002", 
+        "PHONE_NUMB": "6.04476970500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.887176, 
+          49.161942
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91619420000e+001", 
+        "LONGITUDE": "-1.22887176000e+002", 
+        "PHONE_NUMB": "6.04543088800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.108578, 
+          49.323904
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.93239040000e+001", 
+        "LONGITUDE": "-1.23108578000e+002", 
+        "PHONE_NUMB": "6.04986067700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.099576, 
+          49.283827
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92838270000e+001", 
+        "LONGITUDE": "-1.23099576000e+002", 
+        "PHONE_NUMB": "6.04633123400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -127.169413, 
+          54.780767
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.47807670000e+001", 
+        "LONGITUDE": "-1.27169413000e+002", 
+        "PHONE_NUMB": "2.50847261600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.955637, 
+          49.183609
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91836090000e+001", 
+        "LONGITUDE": "-1.23955637000e+002", 
+        "PHONE_NUMB": "2.50754321800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.867417, 
+          49.13365
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91336500000e+001", 
+        "LONGITUDE": "-1.22867417000e+002", 
+        "PHONE_NUMB": "6.04572816100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.866255, 
+          49.177157
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91771570000e+001", 
+        "LONGITUDE": "-1.22866255000e+002", 
+        "PHONE_NUMB": "6.04584353100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12342, 
+          49.273447
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92734470000e+001", 
+        "LONGITUDE": "-1.23123420000e+002", 
+        "PHONE_NUMB": "6.04633247400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -120.237571, 
+          55.749128
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.57491280000e+001", 
+        "LONGITUDE": "-1.20237571000e+002", 
+        "PHONE_NUMB": "2.50782752500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.677714, 
+          49.601216
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.96012160000e+001", 
+        "LONGITUDE": "-1.19677714000e+002", 
+        "PHONE_NUMB": "2.50404424200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -120.348874, 
+          50.663712
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.06637120000e+001", 
+        "LONGITUDE": "-1.20348874000e+002", 
+        "PHONE_NUMB": "2.50374980000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.607747, 
+          48.710695
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.87106950000e+001", 
+        "LONGITUDE": "-1.23607747000e+002", 
+        "PHONE_NUMB": "2.50743939500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -125.249462, 
+          50.029134
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.00291340000e+001", 
+        "LONGITUDE": "-1.25249462000e+002", 
+        "PHONE_NUMB": "2.50286060100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15461, 
+          49.327367
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.93273670000e+001", 
+        "LONGITUDE": "-1.23154610000e+002", 
+        "PHONE_NUMB": "6.04922242600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.803349, 
+          49.297014
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92970140000e+001", 
+        "LONGITUDE": "-1.22803349000e+002", 
+        "PHONE_NUMB": "6.04468150000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.815324, 
+          49.191481
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91914810000e+001", 
+        "LONGITUDE": "-1.22815324000e+002", 
+        "PHONE_NUMB": "6.04582898500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -125.260091, 
+          50.032952
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.00329520000e+001", 
+        "LONGITUDE": "-1.25260091000e+002", 
+        "PHONE_NUMB": "2.50850450500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.811968, 
+          49.198744
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91987440000e+001", 
+        "LONGITUDE": "-1.22811968000e+002", 
+        "PHONE_NUMB": "6.04582259200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.801946, 
+          49.133691
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91336910000e+001", 
+        "LONGITUDE": "-1.22801946000e+002", 
+        "PHONE_NUMB": "6.04593515600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.069667, 
+          49.271111
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92711110000e+001", 
+        "LONGITUDE": "-1.23069667000e+002", 
+        "PHONE_NUMB": "6.04255592200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.80326, 
+          49.104505
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91045050000e+001", 
+        "LONGITUDE": "-1.22803260000e+002", 
+        "PHONE_NUMB": "6.04574048100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.799217, 
+          49.060094
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90600940000e+001", 
+        "LONGITUDE": "-1.22799217000e+002", 
+        "PHONE_NUMB": "6.04542599000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.799101, 
+          49.126367
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91263670000e+001", 
+        "LONGITUDE": "-1.22799101000e+002", 
+        "PHONE_NUMB": "7.78218410000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.138653, 
+          49.265344
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92653440000e+001", 
+        "LONGITUDE": "-1.23138653000e+002", 
+        "PHONE_NUMB": "6.04738215100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.798056, 
+          49.031121
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90311210000e+001", 
+        "LONGITUDE": "-1.22798056000e+002", 
+        "PHONE_NUMB": "6.04531557500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.798666, 
+          49.104505
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91045050000e+001", 
+        "LONGITUDE": "-1.22798666000e+002", 
+        "PHONE_NUMB": "6.04303634200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.796387, 
+          49.045582
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90455820000e+001", 
+        "LONGITUDE": "-1.22796387000e+002", 
+        "PHONE_NUMB": "6.04531413100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.801178, 
+          49.030207
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90302070000e+001", 
+        "LONGITUDE": "-1.22801178000e+002", 
+        "PHONE_NUMB": "6.04535849600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.794557, 
+          49.029426
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90294260000e+001", 
+        "LONGITUDE": "-1.22794557000e+002", 
+        "PHONE_NUMB": "6.04531559500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.783332, 
+          49.048561
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90485610000e+001", 
+        "LONGITUDE": "-1.22783332000e+002", 
+        "PHONE_NUMB": "6.04542778800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.333124, 
+          48.468573
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84685730000e+001", 
+        "LONGITUDE": "-1.23333124000e+002", 
+        "PHONE_NUMB": "2.50477477700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.781325, 
+          49.198787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91987870000e+001", 
+        "LONGITUDE": "-1.22781325000e+002", 
+        "PHONE_NUMB": "6.04582882000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -127.666667, 
+          55.233333
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.52333330000e+001", 
+        "LONGITUDE": "-1.27666667000e+002", 
+        "PHONE_NUMB": "2.50849523100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.069821, 
+          49.270184
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92701840000e+001", 
+        "LONGITUDE": "-1.23069821000e+002", 
+        "PHONE_NUMB": "6.04254555400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.334374, 
+          48.426478
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84264780000e+001", 
+        "LONGITUDE": "-1.23334374000e+002", 
+        "PHONE_NUMB": "2.50598674400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.334011, 
+          48.445104
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84451040000e+001", 
+        "LONGITUDE": "-1.23334011000e+002", 
+        "PHONE_NUMB": "2.50592421200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.493478, 
+          49.88278
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.98827800000e+001", 
+        "LONGITUDE": "-1.19493478000e+002", 
+        "PHONE_NUMB": "7.78478027700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.738371, 
+          49.10411
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91041100000e+001", 
+        "LONGITUDE": "-1.22738371000e+002", 
+        "PHONE_NUMB": "6.04576770100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.8013, 
+          49.033797
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90337970000e+001", 
+        "LONGITUDE": "-1.22801300000e+002", 
+        "PHONE_NUMB": "6.04535338800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.730256, 
+          49.104124
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91041240000e+001", 
+        "LONGITUDE": "-1.22730256000e+002", 
+        "PHONE_NUMB": "6.04574788300e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.120741, 
+          49.273776
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92737760000e+001", 
+        "LONGITUDE": "-1.23120741000e+002", 
+        "PHONE_NUMB": "6.04669777200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.381659, 
+          48.432654
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84326540000e+001", 
+        "LONGITUDE": "-1.23381659000e+002", 
+        "PHONE_NUMB": "2.50418887800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.146184, 
+          49.263671
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92636710000e+001", 
+        "LONGITUDE": "-1.23146184000e+002", 
+        "PHONE_NUMB": "6.04736188800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.484683, 
+          49.881531
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.98815310000e+001", 
+        "LONGITUDE": "-1.19484683000e+002", 
+        "PHONE_NUMB": "2.50717321100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.583924, 
+          49.478033
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.94780330000e+001", 
+        "LONGITUDE": "-1.19583924000e+002", 
+        "PHONE_NUMB": "2.50493522800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.146961, 
+          49.268173
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92681730000e+001", 
+        "LONGITUDE": "-1.23146961000e+002", 
+        "PHONE_NUMB": "6.04558482500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.703286, 
+          49.124387
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91243870000e+001", 
+        "LONGITUDE": "-1.22703286000e+002", 
+        "PHONE_NUMB": "6.04575050100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.163856, 
+          49.328678
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.93286780000e+001", 
+        "LONGITUDE": "-1.23163856000e+002", 
+        "PHONE_NUMB": "6.04925188400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.470525, 
+          48.441188
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84411880000e+001", 
+        "LONGITUDE": "-1.23470525000e+002", 
+        "PHONE_NUMB": "2.50478883300e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.690953, 
+          49.231619
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92316190000e+001", 
+        "LONGITUDE": "-1.22690953000e+002", 
+        "PHONE_NUMB": "6.04465491100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.708109, 
+          48.785172
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.87851720000e+001", 
+        "LONGITUDE": "-1.23708109000e+002", 
+        "PHONE_NUMB": "2.50597339000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -125.241145, 
+          50.007502
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.00075020000e+001", 
+        "LONGITUDE": "-1.25241145000e+002", 
+        "PHONE_NUMB": "2.50287744100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.314944, 
+          49.053283
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90532830000e+001", 
+        "LONGITUDE": "-1.22314944000e+002", 
+        "PHONE_NUMB": "6.04557177700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.097498, 
+          49.2785
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92785000000e+001", 
+        "LONGITUDE": "-1.23097498000e+002", 
+        "PHONE_NUMB": "6.04605338200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.419181, 
+          48.594581
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.85945810000e+001", 
+        "LONGITUDE": "-1.23419181000e+002", 
+        "PHONE_NUMB": "2.50652204100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.453794, 
+          49.882804
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.98828040000e+001", 
+        "LONGITUDE": "-1.19453794000e+002", 
+        "PHONE_NUMB": "2.50860990900e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.071945, 
+          49.327193
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.93271930000e+001", 
+        "LONGITUDE": "-1.23071945000e+002", 
+        "PHONE_NUMB": "6.04987334700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.682887, 
+          49.115268
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91152680000e+001", 
+        "LONGITUDE": "-1.22682887000e+002", 
+        "PHONE_NUMB": "6.04533505100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.678664, 
+          49.115513
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91155130000e+001", 
+        "LONGITUDE": "-1.22678664000e+002", 
+        "PHONE_NUMB": "6.04530133300e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.67235, 
+          49.224039
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92240390000e+001", 
+        "LONGITUDE": "-1.22672350000e+002", 
+        "PHONE_NUMB": "6.04465918800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.673359, 
+          49.11821
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91182100000e+001", 
+        "LONGITUDE": "-1.22673359000e+002", 
+        "PHONE_NUMB": "6.04534928400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.443356, 
+          49.877565
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.98775650000e+001", 
+        "LONGITUDE": "-1.19443356000e+002", 
+        "PHONE_NUMB": "2.50861323500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.287604, 
+          50.699561
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.06995610000e+001", 
+        "LONGITUDE": "-1.19287604000e+002", 
+        "PHONE_NUMB": "2.50833199000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.662595, 
+          49.122595
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91225950000e+001", 
+        "LONGITUDE": "-1.22662595000e+002", 
+        "PHONE_NUMB": "6.04514880000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.151159, 
+          49.263854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92638540000e+001", 
+        "LONGITUDE": "-1.23151159000e+002", 
+        "PHONE_NUMB": "6.04730976900e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.064712, 
+          49.244943
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92449430000e+001", 
+        "LONGITUDE": "-1.23064712000e+002", 
+        "PHONE_NUMB": "6.04874555500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.827313, 
+          49.282469
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92824690000e+001", 
+        "LONGITUDE": "-1.22827313000e+002", 
+        "PHONE_NUMB": "6.04461001600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.269714, 
+          49.038729
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90387290000e+001", 
+        "LONGITUDE": "-1.22269714000e+002", 
+        "PHONE_NUMB": "6.04504714500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.154106, 
+          49.233569
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92335690000e+001", 
+        "LONGITUDE": "-1.23154106000e+002", 
+        "PHONE_NUMB": "6.04261949400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.583878, 
+          49.472813
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.94728130000e+001", 
+        "LONGITUDE": "-1.19583878000e+002", 
+        "PHONE_NUMB": "2.50276505000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.633882, 
+          49.162361
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91623610000e+001", 
+        "LONGITUDE": "-1.22633882000e+002", 
+        "PHONE_NUMB": "6.04882125000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.115169, 
+          49.278333
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92783330000e+001", 
+        "LONGITUDE": "-1.23115169000e+002", 
+        "PHONE_NUMB": "6.04558012300e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.612518, 
+          49.840231
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.98402310000e+001", 
+        "LONGITUDE": "-1.19612518000e+002", 
+        "PHONE_NUMB": "2.50768765600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.739462, 
+          49.253528
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92535280000e+001", 
+        "LONGITUDE": "-1.22739462000e+002", 
+        "PHONE_NUMB": "7.78216182200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.242117, 
+          49.266463
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92664630000e+001", 
+        "LONGITUDE": "-1.23242117000e+002", 
+        "PHONE_NUMB": "6.04222227300e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.769326, 
+          53.887457
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.38874570000e+001", 
+        "LONGITUDE": "-1.22769326000e+002", 
+        "PHONE_NUMB": "2.50614000700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -118.98931, 
+          50.836895
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.08368950000e+001", 
+        "LONGITUDE": "-1.18989310000e+002", 
+        "PHONE_NUMB": "2.50836281700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -125.129046, 
+          49.869856
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.98698560000e+001", 
+        "LONGITUDE": "-1.25129046000e+002", 
+        "PHONE_NUMB": "7.78420020000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -121.443439, 
+          49.378762
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.93787620000e+001", 
+        "LONGITUDE": "-1.21443439000e+002", 
+        "PHONE_NUMB": "6.04869996600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.610073, 
+          49.841992
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.98419920000e+001", 
+        "LONGITUDE": "-1.19610073000e+002", 
+        "PHONE_NUMB": "2.50768698500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.432217, 
+          49.881085
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.98810850000e+001", 
+        "LONGITUDE": "-1.19432217000e+002", 
+        "PHONE_NUMB": "2.50862499600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.586928, 
+          49.212942
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92129420000e+001", 
+        "LONGITUDE": "-1.22586928000e+002", 
+        "PHONE_NUMB": "6.04466576700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.356852, 
+          48.413923
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84139230000e+001", 
+        "LONGITUDE": "-1.23356852000e+002", 
+        "PHONE_NUMB": "2.50220999900e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.373591, 
+          48.415986
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84159860000e+001", 
+        "LONGITUDE": "-1.23373591000e+002", 
+        "PHONE_NUMB": "2.50388993400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.401503, 
+          48.647652
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.86476520000e+001", 
+        "LONGITUDE": "-1.23401503000e+002", 
+        "PHONE_NUMB": "2.50656417700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -131.159248, 
+          57.903448
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.79034480000e+001", 
+        "LONGITUDE": "-1.31159248000e+002", 
+        "PHONE_NUMB": "2.50771557700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.399438, 
+          48.647645
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.86476450000e+001", 
+        "LONGITUDE": "-1.23399438000e+002", 
+        "PHONE_NUMB": "2.50656116400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.630867, 
+          49.828422
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.98284220000e+001", 
+        "LONGITUDE": "-1.19630867000e+002", 
+        "PHONE_NUMB": "2.50768831500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.2936, 
+          49.047192
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90471920000e+001", 
+        "LONGITUDE": "-1.22293600000e+002", 
+        "PHONE_NUMB": "6.04852227900e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.069626, 
+          49.26194
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92619400000e+001", 
+        "LONGITUDE": "-1.23069626000e+002", 
+        "PHONE_NUMB": "6.04872537700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.138565, 
+          49.262912
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92629120000e+001", 
+        "LONGITUDE": "-1.23138565000e+002", 
+        "PHONE_NUMB": "6.04733470000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.069778, 
+          49.261542
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92615420000e+001", 
+        "LONGITUDE": "-1.23069778000e+002", 
+        "PHONE_NUMB": "6.04871153500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.165712, 
+          49.263958
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92639580000e+001", 
+        "LONGITUDE": "-1.23165712000e+002", 
+        "PHONE_NUMB": "6.04737269900e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.166009, 
+          49.264068
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92640680000e+001", 
+        "LONGITUDE": "-1.23166009000e+002", 
+        "PHONE_NUMB": "6.04731918700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.474845, 
+          49.058206
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90582060000e+001", 
+        "LONGITUDE": "-1.22474845000e+002", 
+        "PHONE_NUMB": "6.04856171700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.319815, 
+          49.051728
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90517280000e+001", 
+        "LONGITUDE": "-1.22319815000e+002", 
+        "PHONE_NUMB": "6.04850689300e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.272648, 
+          50.261416
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.02614160000e+001", 
+        "LONGITUDE": "-1.19272648000e+002", 
+        "PHONE_NUMB": "2.50545833200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.359411, 
+          49.054179
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90541790000e+001", 
+        "LONGITUDE": "-1.22359411000e+002", 
+        "PHONE_NUMB": "6.04746470000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.379944, 
+          49.059738
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90597380000e+001", 
+        "LONGITUDE": "-1.22379944000e+002", 
+        "PHONE_NUMB": "6.04381410200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.356393, 
+          48.414889
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84148890000e+001", 
+        "LONGITUDE": "-1.23356393000e+002", 
+        "PHONE_NUMB": "2.50383021500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.036662, 
+          49.258207
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92582070000e+001", 
+        "LONGITUDE": "-1.23036662000e+002", 
+        "PHONE_NUMB": "6.04434222200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.339066, 
+          49.048977
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90489770000e+001", 
+        "LONGITUDE": "-1.22339066000e+002", 
+        "PHONE_NUMB": "6.04864908200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.333229, 
+          48.448582
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84485820000e+001", 
+        "LONGITUDE": "-1.23333229000e+002", 
+        "PHONE_NUMB": "2.50592848500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.335643, 
+          49.13291
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91329100000e+001", 
+        "LONGITUDE": "-1.22335643000e+002", 
+        "PHONE_NUMB": "6.04826799600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.327389, 
+          49.133045
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91330450000e+001", 
+        "LONGITUDE": "-1.22327389000e+002", 
+        "PHONE_NUMB": "6.04820767600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.32576, 
+          49.055069
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90550690000e+001", 
+        "LONGITUDE": "-1.22325760000e+002", 
+        "PHONE_NUMB": "6.04853666700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.32574, 
+          49.133002
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91330020000e+001", 
+        "LONGITUDE": "-1.22325740000e+002", 
+        "PHONE_NUMB": "6.04826775100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.317578, 
+          49.051131
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90511310000e+001", 
+        "LONGITUDE": "-1.22317578000e+002", 
+        "PHONE_NUMB": "6.04557993800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.703697, 
+          48.774708
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.87747080000e+001", 
+        "LONGITUDE": "-1.23703697000e+002", 
+        "PHONE_NUMB": "7.78422399900e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.316098, 
+          49.055803
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90558030000e+001", 
+        "LONGITUDE": "-1.22316098000e+002", 
+        "PHONE_NUMB": "6.04851567700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.793127, 
+          49.274338
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92743380000e+001", 
+        "LONGITUDE": "-1.22793127000e+002", 
+        "PHONE_NUMB": "6.04464034500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.892883, 
+          49.225627
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92256270000e+001", 
+        "LONGITUDE": "-1.22892883000e+002", 
+        "PHONE_NUMB": "6.04522736300e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.61148, 
+          49.840972
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.98409720000e+001", 
+        "LONGITUDE": "-1.19611480000e+002", 
+        "PHONE_NUMB": "2.50768995900e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -127.573156, 
+          50.614018
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.06140180000e+001", 
+        "LONGITUDE": "-1.27573156000e+002", 
+        "PHONE_NUMB": "2.50949716100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.447316, 
+          49.913808
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.99138080000e+001", 
+        "LONGITUDE": "-1.19447316000e+002", 
+        "PHONE_NUMB": "2.50860581100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.136564, 
+          49.181851
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91818510000e+001", 
+        "LONGITUDE": "-1.23136564000e+002", 
+        "PHONE_NUMB": "6.04273989900e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.275414, 
+          50.277483
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.02774830000e+001", 
+        "LONGITUDE": "-1.19275414000e+002", 
+        "PHONE_NUMB": "2.50545911200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.005129, 
+          49.231407
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92314070000e+001", 
+        "LONGITUDE": "-1.23005129000e+002", 
+        "PHONE_NUMB": "6.04431658500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.004605, 
+          49.280804
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92808040000e+001", 
+        "LONGITUDE": "-1.23004605000e+002", 
+        "PHONE_NUMB": "6.04298449100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.004778, 
+          49.230165
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92301650000e+001", 
+        "LONGITUDE": "-1.23004778000e+002", 
+        "PHONE_NUMB": "6.04436123100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.782207, 
+          53.919256
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.39192560000e+001", 
+        "LONGITUDE": "-1.22782207000e+002", 
+        "PHONE_NUMB": "2.50563339900e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -120.517596, 
+          49.456013
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.94560130000e+001", 
+        "LONGITUDE": "-1.20517596000e+002", 
+        "PHONE_NUMB": "2.50295009100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.381439, 
+          48.498368
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84983680000e+001", 
+        "LONGITUDE": "-1.23381439000e+002", 
+        "PHONE_NUMB": "2.50479714700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.121299, 
+          49.263344
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92633440000e+001", 
+        "LONGITUDE": "-1.23121299000e+002", 
+        "PHONE_NUMB": "6.04734825200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.489935, 
+          49.855356
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.98553560000e+001", 
+        "LONGITUDE": "-1.19489935000e+002", 
+        "PHONE_NUMB": "2.50868822200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04047, 
+          49.308678
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.93086780000e+001", 
+        "LONGITUDE": "-1.23040470000e+002", 
+        "PHONE_NUMB": "6.04983244200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.024409, 
+          49.311582
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.93115820000e+001", 
+        "LONGITUDE": "-1.23024409000e+002", 
+        "PHONE_NUMB": "6.04904771200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.301058, 
+          49.049861
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90498610000e+001", 
+        "LONGITUDE": "-1.22301058000e+002", 
+        "PHONE_NUMB": "6.04853985300e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.942254, 
+          49.168455
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91684550000e+001", 
+        "LONGITUDE": "-1.23942254000e+002", 
+        "PHONE_NUMB": "2.50753320200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.374313, 
+          48.454041
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84540410000e+001", 
+        "LONGITUDE": "-1.23374313000e+002", 
+        "PHONE_NUMB": "2.50590837500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.357844, 
+          48.454832
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84548320000e+001", 
+        "LONGITUDE": "-1.23357844000e+002", 
+        "PHONE_NUMB": "2.50386616100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.100212, 
+          49.210671
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92106710000e+001", 
+        "LONGITUDE": "-1.23100212000e+002", 
+        "PHONE_NUMB": "6.04323007700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.374168, 
+          48.456348
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84563480000e+001", 
+        "LONGITUDE": "-1.23374168000e+002", 
+        "PHONE_NUMB": "2.50475110100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -120.357904, 
+          50.688881
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.06888810000e+001", 
+        "LONGITUDE": "-1.20357904000e+002", 
+        "PHONE_NUMB": "2.50376959500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -124.792035, 
+          49.263571
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92635710000e+001", 
+        "LONGITUDE": "-1.24792035000e+002", 
+        "PHONE_NUMB": "7.78421121900e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.48849, 
+          49.840904
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.98409040000e+001", 
+        "LONGITUDE": "-1.19488490000e+002", 
+        "PHONE_NUMB": "2.50764887800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.132852, 
+          49.736349
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.97363490000e+001", 
+        "LONGITUDE": "-1.23132852000e+002", 
+        "PHONE_NUMB": "6.04898555500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.115332, 
+          49.249511
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92495110000e+001", 
+        "LONGITUDE": "-1.23115332000e+002", 
+        "PHONE_NUMB": "6.04874406000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13327, 
+          49.183708
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91837080000e+001", 
+        "LONGITUDE": "-1.23133270000e+002", 
+        "PHONE_NUMB": "6.04233006800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.185184, 
+          49.249189
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92491890000e+001", 
+        "LONGITUDE": "-1.23185184000e+002", 
+        "PHONE_NUMB": "6.04739988100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.905839, 
+          49.204289
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92042890000e+001", 
+        "LONGITUDE": "-1.22905839000e+002", 
+        "PHONE_NUMB": "6.04522220600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.011697, 
+          49.264467
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92644670000e+001", 
+        "LONGITUDE": "-1.23011697000e+002", 
+        "PHONE_NUMB": "6.04563662200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.955944, 
+          50.117232
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.01172320000e+001", 
+        "LONGITUDE": "-1.22955944000e+002", 
+        "PHONE_NUMB": "6.04905708900e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.956058, 
+          50.12038
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.01203800000e+001", 
+        "LONGITUDE": "-1.22956058000e+002", 
+        "PHONE_NUMB": "6.04905513000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.00166, 
+          49.266485
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92664850000e+001", 
+        "LONGITUDE": "-1.23001660000e+002", 
+        "PHONE_NUMB": "6.04294854000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.497053, 
+          52.98001
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.29800100000e+001", 
+        "LONGITUDE": "-1.22497053000e+002", 
+        "PHONE_NUMB": "2.50992600600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.994703, 
+          49.226886
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92268860000e+001", 
+        "LONGITUDE": "-1.22994703000e+002", 
+        "PHONE_NUMB": "6.04433334100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.338866, 
+          49.379712
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.93797120000e+001", 
+        "LONGITUDE": "-1.23338866000e+002", 
+        "PHONE_NUMB": "6.04947983000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.085306, 
+          49.09232
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90923200000e+001", 
+        "LONGITUDE": "-1.23085306000e+002", 
+        "PHONE_NUMB": "6.04946766100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.270357, 
+          50.28729
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.02872900000e+001", 
+        "LONGITUDE": "-1.19270357000e+002", 
+        "PHONE_NUMB": "2.50545833800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.892904, 
+          49.258876
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92588760000e+001", 
+        "LONGITUDE": "-1.22892904000e+002", 
+        "PHONE_NUMB": "6.04939883100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.115352, 
+          49.263314
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92633140000e+001", 
+        "LONGITUDE": "-1.23115352000e+002", 
+        "PHONE_NUMB": "6.04568722900e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -121.633385, 
+          55.700364
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.57003640000e+001", 
+        "LONGITUDE": "-1.21633385000e+002", 
+        "PHONE_NUMB": "2.50788323400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.081298, 
+          49.090239
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90902390000e+001", 
+        "LONGITUDE": "-1.23081298000e+002", 
+        "PHONE_NUMB": "6.04940091700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.03206, 
+          49.237824
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92378240000e+001", 
+        "LONGITUDE": "-1.23032060000e+002", 
+        "PHONE_NUMB": "6.04436080000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -117.295034, 
+          49.493749
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.94937490000e+001", 
+        "LONGITUDE": "-1.17295034000e+002", 
+        "PHONE_NUMB": "2.50352525900e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.69551, 
+          58.80795
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.88079500000e+001", 
+        "LONGITUDE": "-1.22695510000e+002", 
+        "PHONE_NUMB": "2.50774783800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.891292, 
+          49.260577
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92605770000e+001", 
+        "LONGITUDE": "-1.22891292000e+002", 
+        "PHONE_NUMB": "6.04936987400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.253557, 
+          49.347323
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.93473230000e+001", 
+        "LONGITUDE": "-1.23253557000e+002", 
+        "PHONE_NUMB": "6.04922154400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.369298, 
+          48.426827
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84268270000e+001", 
+        "LONGITUDE": "-1.23369298000e+002", 
+        "PHONE_NUMB": "2.50383355200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.074992, 
+          49.024708
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90247080000e+001", 
+        "LONGITUDE": "-1.23074992000e+002", 
+        "PHONE_NUMB": "6.04943114800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.370756, 
+          48.417044
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84170440000e+001", 
+        "LONGITUDE": "-1.23370756000e+002", 
+        "PHONE_NUMB": "2.50388784100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.11848, 
+          49.285956
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92859560000e+001", 
+        "LONGITUDE": "-1.23118480000e+002", 
+        "PHONE_NUMB": "6.04688592400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.656498, 
+          49.104198
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91041980000e+001", 
+        "LONGITUDE": "-1.22656498000e+002", 
+        "PHONE_NUMB": "6.04539174400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.155556, 
+          49.235586
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92355860000e+001", 
+        "LONGITUDE": "-1.23155556000e+002", 
+        "PHONE_NUMB": "6.04558463300e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -121.297963, 
+          51.638639
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.16386390000e+001", 
+        "LONGITUDE": "-1.21297963000e+002", 
+        "PHONE_NUMB": "2.50395401000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.65072, 
+          49.108106
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91081060000e+001", 
+        "LONGITUDE": "-1.22650720000e+002", 
+        "PHONE_NUMB": "6.04530323300e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.278208, 
+          50.703316
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.07033160000e+001", 
+        "LONGITUDE": "-1.19278208000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.487199, 
+          48.446762
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84467620000e+001", 
+        "LONGITUDE": "-1.23487199000e+002", 
+        "PHONE_NUMB": "2.50478624200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.737277, 
+          49.772639
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.97726390000e+001", 
+        "LONGITUDE": "-1.19737277000e+002", 
+        "PHONE_NUMB": "2.50767343200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.375518, 
+          49.888568
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.98885680000e+001", 
+        "LONGITUDE": "-1.19375518000e+002", 
+        "PHONE_NUMB": "2.50862591500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -124.026347, 
+          49.234503
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92345030000e+001", 
+        "LONGITUDE": "-1.24026347000e+002", 
+        "PHONE_NUMB": "2.50390520000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.090632, 
+          49.2286
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92286000000e+001", 
+        "LONGITUDE": "-1.23090632000e+002", 
+        "PHONE_NUMB": "6.04301995500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.004463, 
+          49.227868
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92278680000e+001", 
+        "LONGITUDE": "-1.23004463000e+002", 
+        "PHONE_NUMB": "6.04438828800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.366963, 
+          48.42349
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84234900000e+001", 
+        "LONGITUDE": "-1.23366963000e+002", 
+        "PHONE_NUMB": "2.50380221000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.890471, 
+          49.118166
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91181660000e+001", 
+        "LONGITUDE": "-1.22890471000e+002", 
+        "PHONE_NUMB": "6.04599940100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.890172, 
+          49.118235
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91182350000e+001", 
+        "LONGITUDE": "-1.22890172000e+002", 
+        "PHONE_NUMB": "6.04591630000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.968475, 
+          49.280337
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92803370000e+001", 
+        "LONGITUDE": "-1.22968475000e+002", 
+        "PHONE_NUMB": "6.04299976900e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -121.959141, 
+          49.124465
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91244650000e+001", 
+        "LONGITUDE": "-1.21959141000e+002", 
+        "PHONE_NUMB": "6.04858872200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.721702, 
+          48.378506
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.83785060000e+001", 
+        "LONGITUDE": "-1.23721702000e+002", 
+        "PHONE_NUMB": "2.50642423300e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.147326, 
+          49.170178
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91701780000e+001", 
+        "LONGITUDE": "-1.23147326000e+002", 
+        "PHONE_NUMB": "6.04270600400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -121.7675, 
+          49.2385
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92385000000e+001", 
+        "LONGITUDE": "-1.21767500000e+002", 
+        "PHONE_NUMB": "6.04703203000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.890314, 
+          49.133387
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91333870000e+001", 
+        "LONGITUDE": "-1.22890314000e+002", 
+        "PHONE_NUMB": "6.04590581100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.955384, 
+          49.218204
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92182040000e+001", 
+        "LONGITUDE": "-1.22955384000e+002", 
+        "PHONE_NUMB": "6.04777910100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.950948, 
+          49.218824
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92188240000e+001", 
+        "LONGITUDE": "-1.22950948000e+002", 
+        "PHONE_NUMB": "6.04519376700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.844733, 
+          49.137337
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91373370000e+001", 
+        "LONGITUDE": "-1.22844733000e+002", 
+        "PHONE_NUMB": "6.04594771100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.916095, 
+          49.201215
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92012150000e+001", 
+        "LONGITUDE": "-1.22916095000e+002", 
+        "PHONE_NUMB": "6.04526330800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.845528, 
+          49.139977
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91399770000e+001", 
+        "LONGITUDE": "-1.22845528000e+002", 
+        "PHONE_NUMB": "6.04598988000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -124.988837, 
+          49.698026
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.96980260000e+001", 
+        "LONGITUDE": "-1.24988837000e+002", 
+        "PHONE_NUMB": "2.50334924100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -121.97908, 
+          49.151848
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91518480000e+001", 
+        "LONGITUDE": "-1.21979080000e+002", 
+        "PHONE_NUMB": "6.04792848200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.133093, 
+          49.172051
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91720510000e+001", 
+        "LONGITUDE": "-1.23133093000e+002", 
+        "PHONE_NUMB": "6.04582898500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.132903, 
+          49.173975
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91739750000e+001", 
+        "LONGITUDE": "-1.23132903000e+002", 
+        "PHONE_NUMB": "6.04276955000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.504841, 
+          48.441407
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84414070000e+001", 
+        "LONGITUDE": "-1.23504841000e+002", 
+        "PHONE_NUMB": "2.50391030000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.890373, 
+          49.15231
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91523100000e+001", 
+        "LONGITUDE": "-1.22890373000e+002", 
+        "PHONE_NUMB": "6.04594999000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.778903, 
+          49.158715
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91587150000e+001", 
+        "LONGITUDE": "-1.22778903000e+002", 
+        "PHONE_NUMB": "6.04543971900e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.181303, 
+          49.149648
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91496480000e+001", 
+        "LONGITUDE": "-1.23181303000e+002", 
+        "PHONE_NUMB": "6.04275515500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.662253, 
+          49.166667
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91666670000e+001", 
+        "LONGITUDE": "-1.22662253000e+002", 
+        "PHONE_NUMB": "6.04888447200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.801301, 
+          49.165793
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91657930000e+001", 
+        "LONGITUDE": "-1.22801301000e+002", 
+        "PHONE_NUMB": "6.04588818100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.801215, 
+          49.166461
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91664610000e+001", 
+        "LONGITUDE": "-1.22801215000e+002", 
+        "PHONE_NUMB": "6.04581355000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.927954, 
+          49.219204
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92192040000e+001", 
+        "LONGITUDE": "-1.22927954000e+002", 
+        "PHONE_NUMB": "6.04526130300e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.136592, 
+          49.170249
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91702490000e+001", 
+        "LONGITUDE": "-1.23136592000e+002", 
+        "PHONE_NUMB": "7.78297470000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -125.245769, 
+          49.973673
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.99736730000e+001", 
+        "LONGITUDE": "-1.25245769000e+002", 
+        "PHONE_NUMB": "7.78418388800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13489, 
+          49.166534
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91665340000e+001", 
+        "LONGITUDE": "-1.23134890000e+002", 
+        "PHONE_NUMB": "6.04231192400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.134308, 
+          49.166544
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91665440000e+001", 
+        "LONGITUDE": "-1.23134308000e+002", 
+        "PHONE_NUMB": "6.04279194200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.158086, 
+          49.154552
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91545520000e+001", 
+        "LONGITUDE": "-1.23158086000e+002", 
+        "PHONE_NUMB": "6.04241891100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -124.254818, 
+          54.438881
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.44388810000e+001", 
+        "LONGITUDE": "-1.24254818000e+002", 
+        "PHONE_NUMB": "2.50996717100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.580914, 
+          52.941811
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.29418110000e+001", 
+        "LONGITUDE": "-1.23580914000e+002", 
+        "PHONE_NUMB": "2.50249027500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -120.356233, 
+          50.669103
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.06691030000e+001", 
+        "LONGITUDE": "-1.20356233000e+002", 
+        "PHONE_NUMB": "2.50371490500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.014784, 
+          49.067373
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90673730000e+001", 
+        "LONGITUDE": "-1.22014784000e+002", 
+        "PHONE_NUMB": "6.04392088100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.358744, 
+          48.42563
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84256300000e+001", 
+        "LONGITUDE": "-1.23358744000e+002", 
+        "PHONE_NUMB": "2.50388308000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.401585, 
+          48.430075
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84300750000e+001", 
+        "LONGITUDE": "-1.23401585000e+002", 
+        "PHONE_NUMB": "2.50382429600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.120938, 
+          49.279298
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92792980000e+001", 
+        "LONGITUDE": "-1.23120938000e+002", 
+        "PHONE_NUMB": "6.04731918700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -121.297302, 
+          51.673407
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.16734070000e+001", 
+        "LONGITUDE": "-1.21297302000e+002", 
+        "PHONE_NUMB": "2.50395114300e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -120.52934, 
+          49.453001
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.94530010000e+001", 
+        "LONGITUDE": "-1.20529340000e+002", 
+        "PHONE_NUMB": "2.50295448200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.89547, 
+          49.25118
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92511800000e+001", 
+        "LONGITUDE": "-1.22895470000e+002", 
+        "PHONE_NUMB": "6.04421255500e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.89547, 
+          49.25118
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92511800000e+001", 
+        "LONGITUDE": "-1.22895470000e+002", 
+        "PHONE_NUMB": "6.04422848200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.405559, 
+          50.025931
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.00259310000e+001", 
+        "LONGITUDE": "-1.19405559000e+002", 
+        "PHONE_NUMB": "2.50766393800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -133.68988, 
+          59.571723
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.95717230000e+001", 
+        "LONGITUDE": "-1.33689880000e+002", 
+        "PHONE_NUMB": "2.50651767700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -126.762576, 
+          52.372895
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.23728950000e+001", 
+        "LONGITUDE": "-1.26762576000e+002", 
+        "PHONE_NUMB": "2.50799534200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.800408, 
+          49.277083
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92770830000e+001", 
+        "LONGITUDE": "-1.22800408000e+002", 
+        "PHONE_NUMB": "6.04468120200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -120.794635, 
+          56.493183
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.64931830000e+001", 
+        "LONGITUDE": "-1.20794635000e+002", 
+        "PHONE_NUMB": "2.50827377600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.801701, 
+          49.191435
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91914350000e+001", 
+        "LONGITUDE": "-1.22801701000e+002", 
+        "PHONE_NUMB": "6.04588876400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -132.17507, 
+          54.033859
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.40338590000e+001", 
+        "LONGITUDE": "-1.32175070000e+002", 
+        "PHONE_NUMB": "2.50626391100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -129.253507, 
+          53.423977
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.34239770000e+001", 
+        "LONGITUDE": "-1.29253507000e+002", 
+        "PHONE_NUMB": "2.50841255600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -129.983333, 
+          57.833333
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.78333330000e+001", 
+        "LONGITUDE": "-1.29983333000e+002", 
+        "PHONE_NUMB": "2.50234351100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -130.432456, 
+          53.794162
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.37941620000e+001", 
+        "LONGITUDE": "-1.30432456000e+002", 
+        "PHONE_NUMB": "2.50848225400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -132.151708, 
+          54.012317
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.40123170000e+001", 
+        "LONGITUDE": "-1.32151708000e+002", 
+        "PHONE_NUMB": "2.50626472700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -127.336847, 
+          55.040862
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.50408620000e+001", 
+        "LONGITUDE": "-1.27336847000e+002", 
+        "PHONE_NUMB": "2.50847932800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.137619, 
+          49.327653
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.93276530000e+001", 
+        "LONGITUDE": "-1.23137619000e+002", 
+        "PHONE_NUMB": "6.04922739000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -129.999378, 
+          58.43741
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.84374100000e+001", 
+        "LONGITUDE": "-1.29999378000e+002", 
+        "PHONE_NUMB": "2.50771557700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.934996, 
+          49.163972
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91639720000e+001", 
+        "LONGITUDE": "-1.23934996000e+002", 
+        "PHONE_NUMB": "2.50753343100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -130.438013, 
+          54.548708
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.45487080000e+001", 
+        "LONGITUDE": "-1.30438013000e+002", 
+        "PHONE_NUMB": "2.50625333100e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -128.143874, 
+          52.160187
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.21601870000e+001", 
+        "LONGITUDE": "-1.28143874000e+002", 
+        "PHONE_NUMB": "2.50957235600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -124.009552, 
+          54.029957
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.40299570000e+001", 
+        "LONGITUDE": "-1.24009552000e+002", 
+        "PHONE_NUMB": "2.50567977300e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -125.7625, 
+          54.229167
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.42291670000e+001", 
+        "LONGITUDE": "-1.25762500000e+002", 
+        "PHONE_NUMB": "2.50694327000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.39404, 
+          48.453374
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84533740000e+001", 
+        "LONGITUDE": "-1.23394040000e+002", 
+        "PHONE_NUMB": "2.50381811200e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -124.254341, 
+          54.444841
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.44448410000e+001", 
+        "LONGITUDE": "-1.24254341000e+002", 
+        "PHONE_NUMB": "2.50648335000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.808631, 
+          53.889353
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.38893530000e+001", 
+        "LONGITUDE": "-1.22808631000e+002", 
+        "PHONE_NUMB": "2.50960637000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.270254, 
+          52.83206
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.28320600000e+001", 
+        "LONGITUDE": "-1.19270254000e+002", 
+        "PHONE_NUMB": "2.50566913800e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.176251, 
+          49.194605
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91946050000e+001", 
+        "LONGITUDE": "-1.23176251000e+002", 
+        "PHONE_NUMB": "6.04207690000e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.919692, 
+          49.21262
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-in Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92126200000e+001", 
+        "LONGITUDE": "-1.22919692000e+002", 
+        "PHONE_NUMB": "6.04523116600e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.954906, 
+          50.120463
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.01204630000e+001", 
+        "LONGITUDE": "-1.22954906000e+002", 
+        "PHONE_NUMB": "6.04932397700e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -127.651295, 
+          55.259655
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "Walk-In Clinic", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.52596550000e+001", 
+        "LONGITUDE": "-1.27651295000e+002", 
+        "PHONE_NUMB": "2.50842523400e+009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.3116950015192, 
+          49.0366719965527
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90366720000e+001", 
+        "LONGITUDE": "-1.22311695000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.01555400576434, 
+          49.24961200042368
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92496120000e+001", 
+        "LONGITUDE": "-1.23015554000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -121.96350399404115, 
+          49.16674499557142
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91667450000e+001", 
+        "LONGITUDE": "-1.21963504000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06172899413464, 
+          49.08578800422387
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90857880000e+001", 
+        "LONGITUDE": "-1.23061729000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.8236249945659, 
+          49.28547800329998
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92854780000e+001", 
+        "LONGITUDE": "-1.22823625000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -121.42389599662877, 
+          49.37725400296233
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.93772540000e+001", 
+        "LONGITUDE": "-1.21423896000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.61095599561365, 
+          49.09489200070212
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90948920000e+001", 
+        "LONGITUDE": "-1.22610956000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.33083700517791, 
+          49.135097995962006
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91350980000e+001", 
+        "LONGITUDE": "-1.22330837000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.7922809963052, 
+          49.029982995592555
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90299830000e+001", 
+        "LONGITUDE": "-1.22792281000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.6297019964913, 
+          49.215971998711446
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92159720000e+001", 
+        "LONGITUDE": "-1.22629702000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.89150600283004, 
+          49.22639599879095
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92263960000e+001", 
+        "LONGITUDE": "-1.22891506000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.8421149974717, 
+          49.17596299677288
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91759630000e+001", 
+        "LONGITUDE": "-1.22842115000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -121.29221400368681, 
+          51.6387110054996
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.16387110000e+001", 
+        "LONGITUDE": "-1.21292214000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -117.79502700183865, 
+          50.23876399938308
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.02387640000e+001", 
+        "LONGITUDE": "-1.17795027000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -118.46865300551366, 
+          49.02968800480151
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90296880000e+001", 
+        "LONGITUDE": "-1.18468653000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.1441320064074, 
+          52.13753800235581
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.21375380000e+001", 
+        "LONGITUDE": "-1.22144132000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -116.5076719924152, 
+          49.098388007124115
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.90983880000e+001", 
+        "LONGITUDE": "-1.16507672000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -120.01788599717463, 
+          51.646782998803616
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.16467830000e+001", 
+        "LONGITUDE": "-1.20017886000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -115.7494130012232, 
+          49.51274301041053
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.95127430000e+001", 
+        "LONGITUDE": "-1.15749413000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -115.05619699532109, 
+          49.51362101739334
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.95136210000e+001", 
+        "LONGITUDE": "-1.15056197000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -116.96655100365545, 
+          51.29722599837053
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.12972260000e+001", 
+        "LONGITUDE": "-1.16966551000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -116.03356299931252, 
+          50.50675700951225
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.05067570000e+001", 
+        "LONGITUDE": "-1.16033563000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.49302299378789, 
+          49.87342099611618
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.98734210000e+001", 
+        "LONGITUDE": "-1.19493023000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -117.70166200598082, 
+          49.103282000576236
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91032820000e+001", 
+        "LONGITUDE": "-1.17701662000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -117.28497000008596, 
+          49.495119003296956
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.94951190000e+001", 
+        "LONGITUDE": "-1.17284970000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -121.9392320030079, 
+          50.689386001313174
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.06893860000e+001", 
+        "LONGITUDE": "-1.21939232000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -120.77306900040588, 
+          50.12185400406392
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.01218540000e+001", 
+        "LONGITUDE": "-1.20773069000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.5778780069949, 
+          49.48193099727322
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.94819310000e+001", 
+        "LONGITUDE": "-1.19577878000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -120.5271720058464, 
+          49.45374700218064
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.94537470000e+001", 
+        "LONGITUDE": "-1.20527172000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -118.19054700435684, 
+          50.97754999873278
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.09775500000e+001", 
+        "LONGITUDE": "-1.18190547000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -120.33449900189594, 
+          50.670303999624466
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.06703040000e+001", 
+        "LONGITUDE": "-1.20334499000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.2745129991834, 
+          50.704360997446564
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.07043610000e+001", 
+        "LONGITUDE": "-1.19274513000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.53901399539409, 
+          49.183771004197304
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91837710000e+001", 
+        "LONGITUDE": "-1.19539014000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -119.27256800274844, 
+          50.25721500030717
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.02572150000e+001", 
+        "LONGITUDE": "-1.19272568000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -125.2428957628828, 
+          50.010445967454686
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.00104460000e+001", 
+        "LONGITUDE": "-1.25242896000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -126.94314804856089, 
+          50.593906219912135
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.05939060000e+001", 
+        "LONGITUDE": "-1.26943148000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.722777281218, 
+          48.7857007417672
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.87857010000e+001", 
+        "LONGITUDE": "-1.23722777000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.50867295519606, 
+          48.86185342602939
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.88618530000e+001", 
+        "LONGITUDE": "-1.23508673000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.9699547832838, 
+          49.18515141417606
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91851510000e+001", 
+        "LONGITUDE": "-1.23969955000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -127.50307599985456, 
+          50.72010199694788
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.07201020000e+001", 
+        "LONGITUDE": "-1.27503076000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -127.06685118466575, 
+          50.581485424798544
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.05814850000e+001", 
+        "LONGITUDE": "-1.27066851000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.32728036675209, 
+          48.433404359279216
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84334040000e+001", 
+        "LONGITUDE": "-1.23327280000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.40970287149506, 
+          48.59551452979413
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.85955150000e+001", 
+        "LONGITUDE": "-1.23409703000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -124.94151178675916, 
+          49.67473771903623
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.96747380000e+001", 
+        "LONGITUDE": "-1.24941512000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -125.90803663296137, 
+          49.151832138684775
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91518320000e+001", 
+        "LONGITUDE": "-1.25908037000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.43260956174647, 
+          48.46672123695811
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.84667210000e+001", 
+        "LONGITUDE": "-1.23432610000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -124.78273828665249, 
+          49.248667299915155
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92486670000e+001", 
+        "LONGITUDE": "-1.24782738000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14776500525113, 
+          49.16908500057448
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.91690850000e+001", 
+        "LONGITUDE": "-1.23147765000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09608300411116, 
+          49.257816997684984
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92578170000e+001", 
+        "LONGITUDE": "-1.23096083000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12316399376893, 
+          49.26114900331291
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92611490000e+001", 
+        "LONGITUDE": "-1.23123164000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.24585799346801, 
+          49.26419000353993
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92641900000e+001", 
+        "LONGITUDE": "-1.23245858000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12772899493328, 
+          49.28042499938166
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92804250000e+001", 
+        "LONGITUDE": "-1.23127729000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.0682350007675, 
+          49.321712002975254
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.93217120000e+001", 
+        "LONGITUDE": "-1.23068235000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.74902100191865, 
+          49.475383000310956
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.94753830000e+001", 
+        "LONGITUDE": "-1.23749021000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14043300383852, 
+          49.69904499837861
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.96990450000e+001", 
+        "LONGITUDE": "-1.23140433000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -124.51832400157107, 
+          49.851981999216555
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.98519820000e+001", 
+        "LONGITUDE": "-1.24518324000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -128.1460000054051, 
+          52.16262499929435
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.21626250000e+001", 
+        "LONGITUDE": "-1.28146000000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -126.75741000593561, 
+          52.37338600103148
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.23733860000e+001", 
+        "LONGITUDE": "-1.26757410000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -120.84267600499088, 
+          56.24685099964294
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.62468510000e+001", 
+        "LONGITUDE": "-1.20842676000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -124.01102399730271, 
+          54.02841400361494
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.40284140000e+001", 
+        "LONGITUDE": "-1.24011024000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.76483100713295, 
+          53.91177399781615
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.39117740000e+001", 
+        "LONGITUDE": "-1.22764831000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -120.23589099509992, 
+          55.74944799797268
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.57494480000e+001", 
+        "LONGITUDE": "-1.20235891000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.49954100776814, 
+          52.98133599609895
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.29813360000e+001", 
+        "LONGITUDE": "-1.22499541000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -125.76126500214609, 
+          54.23547899963482
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.42354790000e+001", 
+        "LONGITUDE": "-1.25761265000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -120.16110700319679, 
+          53.300960996754675
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.33009610000e+001", 
+        "LONGITUDE": "-1.20161107000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.70507199448515, 
+          58.80896100323851
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.88089610000e+001", 
+        "LONGITUDE": "-1.22705072000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10067900302376, 
+          55.33744000051655
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.53374400000e+001", 
+        "LONGITUDE": "-1.23100679000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -121.64445299538836, 
+          55.696344996098844
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.56963450000e+001", 
+        "LONGITUDE": "-1.21644453000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -124.24194799344814, 
+          54.44040200206829
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.44404020000e+001", 
+        "LONGITUDE": "-1.24241948000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -127.65140499514528, 
+          55.259477001385534
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.52594770000e+001", 
+        "LONGITUDE": "-1.27651405000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -130.33158300125572, 
+          54.30444300843472
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.43044430000e+001", 
+        "LONGITUDE": "-1.30331583000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -127.16287399379799, 
+          54.78492000098574
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.47849200000e+001", 
+        "LONGITUDE": "-1.27162874000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -132.0709500090514, 
+          53.25499902808972
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.32549990000e+001", 
+        "LONGITUDE": "-1.32070950000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -129.99033999601915, 
+          55.94002500290315
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.59400250000e+001", 
+        "LONGITUDE": "-1.29990340000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -128.5960449993691, 
+          54.51037000173108
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.45103700000e+001", 
+        "LONGITUDE": "-1.28596045000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -128.6501009941799, 
+          54.049070997024074
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.40490710000e+001", 
+        "LONGITUDE": "-1.28650101000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -132.15676000498772, 
+          54.01943302746605
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "5.40194330000e+001", 
+        "LONGITUDE": "-1.32156760000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12586600275912, 
+          49.24481899991566
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SV_NAME": "                                                                                                                                                                                                                                                              ", 
+        "PROVINCE": "BC", 
+        "LATITUDE": "4.92448190000e+001", 
+        "LONGITUDE": "-1.23125866000e+002", 
+        "PHONE_NUMB": "0.00000000000e+000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            490864.1915908791, 
+            5456222.526478354
+          ], 
+          [
+            490776.35940997954, 
+            5456224.818152081
+          ], 
+          [
+            490601.8009789493, 
+            5456229.371707715
+          ], 
+          [
+            490600.4623978855, 
+            5456178.233933931
+          ], 
+          [
+            490599.12392177805, 
+            5456127.122950029
+          ], 
+          [
+            490599.1239217892, 
+            5456127.1219500415
+          ], 
+          [
+            490521.3782744026, 
+            5456129.1663370915
+          ], 
+          [
+            490510.9812812675, 
+            5456129.43974941
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SACCODE": "933", 
+        "FacilityID": 100, 
+        "CMANAME": "Vancouver", 
+        "CMAPUID": "59933", 
+        "CTUID": "9330039.02", 
+        "CTNAME": "0039.02", 
+        "FacilityCu": 1, 
+        "ORIG_FID": 0, 
+        "DAUID": "59150647", 
+        "CMAUID": "933", 
+        "SACTYPE": "1", 
+        "UID": 1, 
+        "CDNAME": "Greater Vancouver", 
+        "CCSUID": "5915022", 
+        "PRNAME": "British Columbia / Colombie-Britannique", 
+        "CMATYPE": "B", 
+        "Total_Leng": "4.53174394412e+002", 
+        "FacilityRa": 1, 
+        "CSDUID": "5915022", 
+        "IncidentID": 1104, 
+        "Name": "Location 1 - L'Ecole Bilingue Elem.", 
+        "CSDTYPE": "CY", 
+        "CSDNAME": "Vancouver", 
+        "CDUID": "5915", 
+        "ERNAME": "Lower Mainland--Southwest / Lower Mainland--Sud-ouest", 
+        "FID_": 0, 
+        "ObjectID": 1, 
+        "CCSNAME": "Vancouver", 
+        "ERUID": "5920", 
+        "PRUID": "59", 
+        "CDTYPE": "RD", 
+        "IncidentCu": 2
+      }
+    }
+  ]
+}
