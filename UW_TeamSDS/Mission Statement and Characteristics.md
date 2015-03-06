@@ -27,7 +27,7 @@ Currently, Region of Waterloo is developing a rapid transit (RT) line connecting
 #Statement of Characteristics
 
 
-**Unique Functionality**
+***Unique Functionality***
 
 
 **GTFS Back End**
@@ -35,8 +35,7 @@ Currently, Region of Waterloo is developing a rapid transit (RT) line connecting
 PredictION used customized scripts and models to 1) automatically generate GTFS-formatted public transit data using hypothetical time windows and schedules and, 2) create routing query and service area analysis layer based on both realistic and hypothetical public transit schedules. 
 
 
-
-Routing using Present and Proposed Transit Service
+**Routing using Present and Proposed Transit Service**
 
 PredictION allows users to search for trip times on current transit services as well as proposed transit services. Users can compare both services simultaneously because PredictION supports visualization of multiple route queries at the same time.
 
@@ -47,7 +46,7 @@ PredictION supports service area analysis of current and proposed transit servic
 
 
 
-**Location and Scope**
+***Location and Scope***
 
 The initial build of PredictION has been developed for Phase 1 of the ION Rapid Transit project in the Region of Waterloo. Due to the exploratory nature of the application, stops have been limited to points of interest in the Region of Waterloo and times have been limited to one hour intervals throughout the day. 
 
@@ -57,9 +56,9 @@ oo, the City of Waterloo, the Province of Ontario and the City of Kitchener. Spe
 
 
 
-**Design and Development**
+***Design and Development***
 
-PredictION was developed using a workflow that took advantage of ArcMap, Python, ArcGIS Server and ArcGIS WebApp builder. 
+PredictION was developed using a workflow that took advantage of ArcMap, Python, ArcGIS Server and ArcGIS Web AppBuilder. 
 
 ArcMap was used to take advantage of the network analyst extension and python was used to automate data processing tasks. 
 
@@ -67,7 +66,7 @@ ArcGIS Web AppBuilder was used because it allowed our team to quickly setup and 
 
 
 
-**Creating the Data**
+***Creating the Data***
 
 Creating and manipulating GTFS data was a major challenge throughout this project. The Ion GTFS dataset was created using a customized python script and an ArcGIS toolbox developed by Melinda Morang from ESRI was used to import the data into ArcMap. 
 
