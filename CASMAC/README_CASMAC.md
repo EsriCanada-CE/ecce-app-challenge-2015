@@ -22,9 +22,8 @@ Using the ‘directions’ widget, you can enter in your home address or the add
 
 Try adding “Ontario” to the end of your location, the full address is usually required to register the location
 
-
-#### Authors
 ---
+#### Authors
 Stephanie Koehl ([@StephanieKoehl](https://github.com/StephanieKoehl)) <br />
 Alexandra Usyk <br />
 Craig Allison <br />
