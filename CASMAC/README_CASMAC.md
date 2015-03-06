@@ -1,6 +1,8 @@
 #Skate Swim Gym Hamilton by CASMAC
 ##### ECCE App Challenge 2015 submission
 
+--
+
 ### Goals:
 Make it simple to find available public recreation programs.
 Display the data as a map so that users can consider arena/pool/community centre locations (i.e. geography) when deciding where to attend.
