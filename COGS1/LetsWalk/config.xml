@@ -1,0 +1,16 @@
+<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Name>Python Addin</Name><AddInID>{3c77380f-51a8-4ec4-a3d7-2fa243457ecf}</AddInID><Description>New Addin</Description><Version>0.1</Version><Image /><Author>Untitled</Author><Company>Untitled</Company><Date>03/06/2015</Date><Targets><Target name="Desktop" version="10.2" /></Targets><AddIn language="PYTHON" library="LetsWalk_addin.py" namespace="LetsWalk_addin"><ArcMap>
+    <Commands>
+        <ComboBox caption="Drive Distance" category="Python Addin" class="DriveDistClass" id="LetsWalk_addin.DriveDist" itemSizeString="WWWWWW" message="How far you will drive to a walking trail" rows="4" sizeString="WWWWWW" tip="Drive Distance"><Help heading="" /></ComboBox>
+        <ComboBox caption="Walk Duration" category="Python Addin" class="WalkDurClass" id="LetsWalk_addin.WalkDur" itemSizeString="WWWWWW" message="How much time you want to spend on a walk" rows="4" sizeString="WWWWWW" tip="Walk Duration"><Help heading="" /></ComboBox>
+        <ComboBox caption="Walking Pace" category="Python Addin" class="WalkPaceClass" id="LetsWalk_addin.WalkPace" itemSizeString="WWWWWW" message="Your walking pace. Regular = 3 km/h, Athletic = 5 km/h" rows="4" sizeString="WWWWWW" tip="Walking Pace"><Help heading="" /></ComboBox>
+        <Tool caption="Find Trails" category="Python Addin" class="GetTrailsClass" id="LetsWalk_addin.GetTrails" image="Images\24601.png" message="Finds the trails that meet your inputs" tip="Find Trails"><Help heading="" /></Tool>
+        <Button caption="UploadAGOL" category="Python Addin" class="UploadAGOLClass" id="LetsWalk_addin.UploadAGOL" image="Images\12458.png" message="Uploades the selected trails to your ArcGIS Online account" tip="Upload to ArcGIS Online"><Help heading="" /></Button>
+        </Commands>
+    <Extensions>
+        </Extensions>
+    <Toolbars>
+        <Toolbar caption="LetsWalk" category="Python Addin" id="LetsWalk_addin.toolbar" showInitially="true"><Items><ComboBox refID="LetsWalk_addin.DriveDist" /><ComboBox refID="LetsWalk_addin.WalkDur" /><ComboBox refID="LetsWalk_addin.WalkPace" /><Tool refID="LetsWalk_addin.GetTrails" /><Button refID="LetsWalk_addin.UploadAGOL" /></Items></Toolbar>
+        </Toolbars>
+    <Menus>
+        </Menus>
+    </ArcMap></AddIn></ESRI.Configuration>
