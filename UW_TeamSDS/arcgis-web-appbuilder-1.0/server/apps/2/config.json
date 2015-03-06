@@ -12,7 +12,7 @@
     "version": "1.1"
   },
   "portalUrl": "http://uw-teamsds.maps.arcgis.com",
-  "title": "ECCE App Challenge 2015",
+  "title": "PredictION",
   "subtitle": "by UW Team SDS",
   "logo": "images/app-logo.png",
   "geometryService": "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer",
@@ -231,66 +231,57 @@
         "id": "widgets/About/Widget_43"
       },
       {
-        "name": "Directions",
-        "label": "Driving Directions",
-        "version": "1.1",
-        "uri": "widgets/Directions/Widget",
-        "config": "configs/Directions/config_Driving Directions.json",
-        "index": 3,
-        "id": "widgets/Directions/Widget_42"
-      },
-      {
         "name": "Geoprocessing",
-        "label": "Routing - GRT Buses",
+        "label": "Routing: GRT",
         "version": "1.1",
         "uri": "widgets/Geoprocessing/Widget",
-        "config": "configs/Geoprocessing/config_Routing - GRT Buses.json",
-        "index": 4,
+        "config": "configs/Geoprocessing/config_Routing: GRT.json",
+        "index": 3,
         "id": "widgets/Geoprocessing/Widget_44"
       },
       {
         "name": "Geoprocessing",
-        "label": "Routing - GRT Buses + ION",
+        "label": "Routing: GRT + ION",
         "version": "1.1",
         "uri": "widgets/Geoprocessing/Widget",
-        "config": "configs/Geoprocessing/config_Routing - GRT Buses + ION.json",
-        "index": 5,
+        "config": "configs/Geoprocessing/config_Routing: GRT + ION.json",
+        "index": 4,
         "id": "widgets/Geoprocessing/Widget_45"
       },
       {
         "name": "Geoprocessing",
-        "label": "Service Areas - GRT Buses",
+        "label": "Service Areas: GRT",
         "version": "1.1",
         "uri": "widgets/Geoprocessing/Widget",
-        "config": "configs/Geoprocessing/config_Service Areas - GRT Buses.json",
-        "index": 6,
+        "config": "configs/Geoprocessing/config_Service Areas: GRT.json",
+        "index": 5,
         "id": "widgets/Geoprocessing/Widget_46"
       },
       {
         "name": "Geoprocessing",
-        "label": "Service Areas - GRT Buses + ION",
+        "label": "Service Areas: GRT + ION",
         "version": "1.1",
         "uri": "widgets/Geoprocessing/Widget",
-        "index": 7,
+        "index": 6,
         "id": "widgets/Geoprocessing/Widget_47",
-        "config": "configs/Geoprocessing/config_Service Areas - GRT Buses + ION.json"
+        "config": "configs/Geoprocessing/config_Service Areas: GRT + ION.json"
       },
       {
         "name": "Geoprocessing",
-        "label": "Points of Interest - GRT Buses",
+        "label": "Points of Interest: GRT",
         "version": "1.1",
         "uri": "widgets/Geoprocessing/Widget",
-        "config": "configs/Geoprocessing/config_Points of Interest - GRT Buses.json",
-        "index": 8,
+        "config": "configs/Geoprocessing/config_Points of Interest: GRT.json",
+        "index": 7,
         "id": "widgets/Geoprocessing/Widget_48"
       },
       {
         "name": "Geoprocessing",
-        "label": "Points of Interest - GRT Buses + ION",
+        "label": "Points of Interest: GRT + ION",
         "version": "1.1",
         "uri": "widgets/Geoprocessing/Widget",
-        "config": "configs/Geoprocessing/config_Points of Interest - GRT Buses + ION.json",
-        "index": 10,
+        "config": "configs/Geoprocessing/config_Points of Interest: GRT + ION.json",
+        "index": 8,
         "id": "widgets/Geoprocessing/Widget_49"
       }
     ],

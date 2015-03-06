@@ -1,14 +1,24 @@
+PredictION
 UW Team SDS &ndash; ECCE App Challenge
 ==================
 
-Majuratan(Maju) Sadagopan
+**Team members:**
+
+Majuratan (Maju) Sadagopan
 
 Jonathan Van Dusen
 
 Shanqi Zhang
 
 
-**NOTE:** *This app, in its current state, only provides simulated results for the ION rapid transit network, based on a hypothetical schedule we created ourselves. The app serves to demonstrate how these transit changes could be visualized and demonstrated to the public, and therefore should not currently be relied upon for accurate ION routing.*
+**NOTE:** *This app, in its current state, only provides simulated results for the ION rapid transit network, based on a hypothetical schedule we created ourselves. The app serves to demonstrate how these transit changes could be visualized and demonstrated to the public, and therefore should not currently be relied upon for accurate ION routing. (See "Assumptions" section below.)*
+
+Reference to Melinda Morang's website
+
+## Limitations and Known Issues:
+
+* Transit routes are displayed using straight, "as-the-crow-flies" lines between bus stops. This is a limitation of the routing provided by the experiemental Esri "Add GTFS to Network Dataset" add-in.
+* The transit times include any waiting time required after leaving at the designated start time. For example, if you select a start time of 9:30, it takes you one minute to walk to the nearest bus stop, and the earliest bus leaves at 9:40, the travel time will start counting at 9:30 instead of 9:39. This will often cause travel times to be inflated by some amount (in this case, nine minutes).
 
 
 ## Assumptions:
@@ -29,6 +39,21 @@ You can download the GTFS data for our hypothetical schedule [here].
 
 ## Data sources:
 
+* Points of interest:
+    * Kitchener: Contains information licensed under the Open Government Licence – The Corporation of the City of Kitchener
+	    * [Arenas](http://app.kitchener.ca/opendata/ds_detail.aspx?dsid=43)
+		* [Hospitals](http://app.kitchener.ca/opendata/ds_detail.aspx?dsid=54)
+		* [Libraries](http://app.kitchener.ca/opendata/ds_detail.aspx?dsid=55)
+		* [Museums](http://app.kitchener.ca/opendata/ds_detail.aspx?dsid=58)
+		* [Places of Worship](http://app.kitchener.ca/opendata/ds_detail.aspx?dsid=62)
+		* [Points of Interest](http://app.kitchener.ca/opendata/ds_detail.aspx?dsid=65)
+		* [Schools - Elementary and Secondary](http://app.kitchener.ca/opendata/ds_detail.aspx?dsid=111)
+		* [Schools - Post Secondary Education Facilities](http://app.kitchener.ca/opendata/ds_detail.aspx?dsid=95)
+	* Waterloo: Contains information provided by the City of Waterloo under licence
+		* [Facilities](http://cityofwaterlooopendata.cloudapp.net/DataBrowser/DownloadShape?container=CityOfWaterlooOpenData&entitySet=Facilities&filter=NOFILTER)
+		* [Parks](http://cityofwaterlooopendata.cloudapp.net/DataBrowser/DownloadShape?container=CityOfWaterlooOpenData&entitySet=Parks&filter=NOFILTER)
+		* [Places of Worship](http://cityofwaterlooopendata.cloudapp.net/DataBrowser/DownloadShape?container=CityOfWaterlooOpenData&entitySet=PlacesofWorship&filter=NOFILTER)
+		* [Points of Interest](http://cityofwaterlooopendata.cloudapp.net/DataBrowser/DownloadShape?container=CityOfWaterlooOpenData&entitySet=PointsofInterest&filter=NOFILTER)
 * Road network (used in network analysis layers): [National Road Network - Ontario](http://open.canada.ca/data/en/dataset/c0d1f299-179c-47b2-bcd8-da1ba68a8032), from Government of Canada. Contains information licensed under the [Open Government Licence – Canada](http://open.canada.ca/en/open-government-licence-canada).
 * Regional boundary (for clipping the above road network): [Regional Municipality of Waterloo Regional Boundary](http://www.regionofwaterloo.ca/en/regionalGovernment/RegionalBoundary.asp)
 * GRT bus network: [Regional Municipality of Waterloo GTFS Data](http://www.regionofwaterloo.ca/en/regionalGovernment/GRT_GTFSdata.asp) (GRT_Merged_GTFS.zip)

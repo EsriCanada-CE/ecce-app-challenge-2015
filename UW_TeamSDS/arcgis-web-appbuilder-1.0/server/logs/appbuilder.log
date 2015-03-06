@@ -96,3 +96,48 @@
 [2015-03-05 00:46:27.245] [INFO] app - remove widget Legend from app 2
 [2015-03-05 00:52:32.933] [INFO] server - redirect  /webappbuilder/stemapp/index.html?id=2 to /webappbuilder/apps/2
 [2015-03-05 01:02:43.612] [DEBUG] app - getApp successfully.
+[2015-03-05 10:52:41.105] [INFO] repo - watch repository change:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-03-05 10:52:42.935] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-03-05 10:52:42.938] [INFO] repo - watch repository change:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-03-05 10:52:42.940] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-03-05 12:05:14.687] [INFO] repo - watch repository change:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-03-05 12:05:14.696] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-03-05 12:05:14.698] [INFO] repo - watch repository change:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-03-05 12:05:14.699] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-03-05 15:54:18.710] [INFO] repo - watch repository change:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-03-05 15:54:18.716] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\themes\
+[2015-03-05 15:54:18.717] [INFO] repo - watch repository change:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-03-05 15:54:18.718] [DEBUG] repo - watch dir:  C:\Users\Jonathan\Documents\GitHub\ecce-app-challenge-2015\UW_TeamSDS\arcgis-web-appbuilder-1.0\client\stemapp\widgets\
+[2015-03-05 15:54:32.217] [INFO] server - redirect  /webappbuilder/stemapp/index.html?id=2 to /webappbuilder/apps/2
+[2015-03-05 16:37:24.300] [DEBUG] app - getApp successfully.
+[2015-03-05 19:24:48.927] [INFO] app - remove widget config config_Points of Interest - GRT Buses + ION.json from app configs folder apps\2\
+[2015-03-05 19:24:49.061] [INFO] app - remove widget config config_Points of Interest - GRT Buses.json from app configs folder apps\2\
+[2015-03-05 19:24:49.063] [INFO] app - remove widget config config_Routing - GRT Buses + ION.json from app configs folder apps\2\
+[2015-03-05 19:24:49.064] [INFO] app - remove widget config config_Routing - GRT Buses.json from app configs folder apps\2\
+[2015-03-05 19:24:49.066] [INFO] app - remove widget config config_Service Areas - GRT Buses + ION.json from app configs folder apps\2\
+[2015-03-05 19:24:49.068] [INFO] app - remove widget config config_Service Areas - GRT Buses.json from app configs folder apps\2\
+[2015-03-05 20:25:24.494] [INFO] server - No portal URL is set, redirect /webappbuilder/ to /webappbuilder/?action=setportalurl
+[2015-03-05 20:26:05.933] [INFO] server - redirect  /webappbuilder/stemapp/index.html?id=2 to /webappbuilder/apps/2
+[2015-03-05 20:33:33.244] [INFO] app - remove widget config config_Points of Interest from app configs folder apps\2\
+[2015-03-05 20:33:33.246] [INFO] app - remove widget config config_Routing from app configs folder apps\2\
+[2015-03-05 20:33:33.247] [INFO] app - remove widget config config_Service Areas from app configs folder apps\2\
+[2015-03-05 20:42:52.470] [INFO] app - remove widget config config_Points of Interest from app configs folder apps\2\
+[2015-03-05 20:42:52.471] [INFO] app - remove widget config config_Routing from app configs folder apps\2\
+[2015-03-05 20:42:52.473] [INFO] app - remove widget config config_Service Areas from app configs folder apps\2\
+[2015-03-05 21:05:41.670] [INFO] app - remove widget config config_Points of Interest from app configs folder apps\2\
+[2015-03-05 21:05:41.671] [INFO] app - remove widget config config_Routing from app configs folder apps\2\
+[2015-03-05 21:05:41.674] [INFO] app - remove widget config config_Service Areas from app configs folder apps\2\
+[2015-03-05 21:25:08.519] [INFO] app - remove widget Directions from app 2
+[2015-03-05 21:25:08.534] [INFO] app - remove widget config config_Points of Interest from app configs folder apps\2\
+[2015-03-05 21:25:08.537] [INFO] app - remove widget config config_Routing from app configs folder apps\2\
+[2015-03-05 21:25:08.539] [INFO] app - remove widget config config_Service Areas from app configs folder apps\2\
+[2015-03-05 21:57:32.200] [INFO] app - remove widget config config_Points of Interest from app configs folder apps\2\
+[2015-03-05 21:57:32.220] [INFO] app - remove widget config config_Routing from app configs folder apps\2\
+[2015-03-05 21:57:32.235] [INFO] app - remove widget config config_Service Areas from app configs folder apps\2\
+[2015-03-05 22:37:59.690] [DEBUG] app - getApp successfully.
+[2015-03-05 22:41:49.168] [DEBUG] app - getApp successfully.
+[2015-03-05 23:15:33.594] [INFO] app - copy widget Query to app 2
+[2015-03-05 23:47:18.586] [INFO] app - remove widget config config_Points of Interest from app configs folder apps\2\
+[2015-03-05 23:47:18.588] [INFO] app - remove widget config config_Routing from app configs folder apps\2\
+[2015-03-05 23:47:18.590] [INFO] app - remove widget config config_Service Areas from app configs folder apps\2\
+[2015-03-05 23:47:18.786] [INFO] app - remove widget Query from app 2
