@@ -50,9 +50,7 @@ PredictION supports service area analysis of current and proposed transit servic
 
 The initial build of PredictION has been developed for Phase 1 of the ION Rapid Transit project in the Region of Waterloo. Due to the exploratory nature of the application, stops have been limited to points of interest in the Region of Waterloo and times have been limited to one hour intervals throughout the day. 
 
-The datasets used to develop this application were acquired from open data portals provided by the Region of Waterl
-
-oo, the City of Waterloo, the Province of Ontario and the City of Kitchener. Specific details of each datasets are available in the GitHUB readme for this application.  
+The datasets used to develop this application were acquired from open data portals provided by the Region of Waterloo, the City of Waterloo, the Province of Ontario and the City of Kitchener. Specific details of each datasets are available in the GitHUB readme for this application.  
 
 
 
@@ -68,7 +66,7 @@ ArcGIS Web AppBuilder was used because it allowed our team to quickly setup and 
 
 ***Creating the Data***
 
-Creating and manipulating GTFS data was a major challenge throughout this project. The Ion GTFS dataset was created using a customized python script and an ArcGIS toolbox developed by Melinda Morang from ESRI was used to import the data into ArcMap. 
+Creating and manipulating GTFS data was a major challenge throughout this project. The ION GTFS dataset was created using a customized python script and an ArcGIS toolbox developed by Melinda Morang from ESRI was used to import the data into ArcMap. 
 
 ArcGIS model builder and python was used to publish GTFS data as a service.
 
