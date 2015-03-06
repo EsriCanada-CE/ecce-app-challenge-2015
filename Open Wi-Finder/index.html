@@ -115,25 +115,31 @@
           <form action="#" id="form" method="post" name="form">
          <!-- <img id="close" src="images/3.png" onclick ="div_hide()">-->
           <h2>Add New Hotspot</h2>
-          
-          	<label style="display:block;" for="ssid">Network Name: </label>
+            	<div class="block">
+          	<label for="ssid">Network Name: </label>
             <input id="ssid" name="Network Name" placeholder="SSID" type="text">
-          <label style="display:block;" for="auth">Access: </label>
+            </div>
+            <div class="block">
+          <label for="auth">Access: </label>
           <select id="auth" name="Access">
           		<option value="Free, open access">Free</option>
                 <option value="Free with login">Free with Login</option>
                 <option value="Subscription/Paid">Subscription/Paid</option>
           </select>
-          <label style="display:block;" for="avail">Availability: </label>
+          <div class="block">
+          <label for="avail">Availability: </label>
           <select id="avail" name="Availability">
           		<option value="24/7">24/7</option>
                 <option value="During Business Hours">During Business Hours</option>
                 <option value="Occasionally">Occasionally</option>
           </select>
-          <label style="display:block;" for="open">Open from: </label>
-            <input id="openhr" name="Open From" placeholder="Hour" type="number" min="0" max="24">
-            <label style="display:block;" for="close">Until: </label>
-            <input id="closedhr" name="Until" placeholder="Hour" type="number" min="0" max="24">
+          </div>
+          <div class="block">
+          <label for="open">Open at: </label>
+            <input width="80px" id="openhr" name="Open From" placeholder="Hour" type="number" min="0" max="24">
+            <label for="close">Close at: </label>
+            <input width="80px" id="closedhr" name="Until" placeholder="Hour" type="number" min="0" max="24">
+            </div>
           <a href="#" id="submit" class="submit">Send</a>
           <a href="#" id="closeDiv" class="close">Close</a>
           </form>
