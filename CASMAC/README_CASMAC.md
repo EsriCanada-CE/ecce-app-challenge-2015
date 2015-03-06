@@ -31,3 +31,9 @@ Its an acronym for our names -- Craig, Alex, Stephanie and MAC for McMaster Univ
 Stephanie Koehl ([@StephanieKoehl](https://github.com/StephanieKoehl)) <br />
 Alexandra Usyk <br />
 Craig Allison <br />
+
+([Look at our faces here](http://i.imgur.com/5Qsysev.jpg))
+
+
+##link to video
+https://vimeo.com/casmac
