@@ -18,7 +18,10 @@ If you are the designated person on your team, follow these steps to get ready:
 * Underneath this newly-created directory create a file called README.md, put the name of your team in there (you'll edit this over time and add more content)
 * Add your project files, and do an initial commit of only the files you want to share on GitHub using your Git client
 * Click the "Sync" button in your Git client
-* Code away, add new files etc., and commit and sync often
+* After making changes to your app, you will see an "Uncommitted changes" section visible in the Github client app. Click the "Show" dropdown button at the right of the Uncommitted changes section, type a brief summary of your changes, and then click "Commit to master"
+* Code away, add new files etc., and commit and sync after every commit
+* When you have finished your app and have committed/synced all changes, click the "Create Pull Request" button located to the left of the "Sync" button
+* For "from master into...", select "EsriCanada-CE/master", and then click "Send pull request"
 
 Happy hacking,
 Cam
