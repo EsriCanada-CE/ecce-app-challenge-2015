@@ -6,7 +6,7 @@ Katelyn Page
 
 ----
 ## How to download and use the App
-1. Download the folder from GitHub
+1. Download the repo from GitHub
 2. Double click the LetsWalk.esriaddin
 3. Click 'Install Add-in' 
 4. Open the provided MXD
