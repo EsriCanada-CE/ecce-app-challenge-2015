@@ -32,7 +32,7 @@ Stephanie Koehl ([@StephanieKoehl](https://github.com/StephanieKoehl)) <br />
 Alexandra Usyk <br />
 Craig Allison <br />
 
-([Look at our faces here](http://i.imgur.com/5Qsysev.jpg))
+[Look at our faces here](http://i.imgur.com/5Qsysev.jpg)
 
 
 ##link to video
