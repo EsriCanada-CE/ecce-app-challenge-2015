@@ -1,9 +1,10 @@
 Skate Swim Gym Hamilton by CASMAC
 ==================
-For the ECCE App Challenge 2015
-==================
-
-
+### Authors
+---
+Alexandra Usyk <br />
+Craig Allison <br />
+Stephanie Koehl ([@StephanieKoehl](https://github.com/StephanieKoehl)) <br />
 
 ## Goals:
 Make it simple to find available public recreation programs.
