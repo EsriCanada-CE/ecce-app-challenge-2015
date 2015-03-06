@@ -1,5 +1,5 @@
 Watermelon - University of Waterloo
-Food-In
+Food Inspection
 
 Food Inspection in the City of Waterloo is an open source web map application to provide information about food safety of the food facilities in the City Waterloo. It allows users to view the brief description of the inspection results carried out by Public Health Inspectors in the City of Waterloo on a map. This app can be used by consumers who are concerned about food safety and want to make wise choices of food facilities. 
 
@@ -26,3 +26,6 @@ Chen Chen   c226chen@uwaterloo.ca
 
 Report Issues
 To report any issues encountered using the app, please send an email to any of the contributors listed above. 
+
+Pitch Video:
+https://www.youtube.com/watch?v=B3Jyuljh4cc
