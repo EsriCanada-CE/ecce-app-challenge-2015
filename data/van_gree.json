@@ -1,0 +1,3099 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.02729342988286, 
+          49.234672449865634
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Aberdeen Park", 
+        "ADDRESS": "3525 Foster Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.02551973740903, 
+          49.276233153315616
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Adanac Park", 
+        "ADDRESS": "1025 Boundary Road"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1421788080876, 
+          49.285404287157014
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Alexandra Park", 
+        "ADDRESS": "1755 Beach Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.07413614400589, 
+          49.269002742497584
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Alice Townley Park", 
+        "ADDRESS": "1775 Woodland Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1856407091919, 
+          49.2613932574103
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Almond Park", 
+        "ADDRESS": "3600 W 12th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10342544175663, 
+          49.278416117175105
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Andy Livingstone Park", 
+        "ADDRESS": "89 Expo Boulevard"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14370982385547, 
+          49.25375010809991
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Angus Park", 
+        "ADDRESS": "3600 Angus Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1548477166496, 
+          49.262102215292686
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Arbutus Greenway Park", 
+        "ADDRESS": "W 11th Av Between Vine St And Arbutus St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15509260352837, 
+          49.216409371829364
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Arbutus Park", 
+        "ADDRESS": "7601 Arbutus St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15501050071282, 
+          49.25072275321469
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Arbutus Village Park", 
+        "ADDRESS": "4202 Valley Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1202806938329, 
+          49.28564764686116
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Art Phillips Park", 
+        "ADDRESS": "625 Burrard St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.11951597374133, 
+          49.21027483059166
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Ash Park", 
+        "ADDRESS": "8288 Ash St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.17577316692339, 
+          49.245005972926826
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Balaclava Park", 
+        "ADDRESS": "4594 Balaclava St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1320910928942, 
+          49.2872173773468
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Barclay Heritage Square", 
+        "ADDRESS": "1433 Barclay St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.02491451866209, 
+          49.29172250045676
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Bates Park", 
+        "ADDRESS": "669 Fellowes St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.05078686139042, 
+          49.255503279977276
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Beaconsfield Park", 
+        "ADDRESS": "3215 Slocan St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.05731822083773, 
+          49.214968535136336
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Bobolink Park", 
+        "ADDRESS": "2510 Hoylake Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12350234091959, 
+          49.24755610412542
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Braemar Park", 
+        "ADDRESS": "895 W 27th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06636882015958, 
+          49.247261111452566
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Brewers Park", 
+        "ADDRESS": "4175 Victoria Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.05051214967283, 
+          49.29080951170804
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Burrard View Park", 
+        "ADDRESS": "650 North Penticton St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04514770422593, 
+          49.28613413204614
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Callister Park", 
+        "ADDRESS": "2875 Oxford St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.11774454262964, 
+          49.22128839423469
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Cambie Park", 
+        "ADDRESS": "500 W 54th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06157114971782, 
+          49.28621316520573
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Cambridge Park", 
+        "ADDRESS": "2099 Wall St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.20094972123961, 
+          49.25717862036741
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Camosun", 
+        "ADDRESS": "4102 W 16th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.03444423727693, 
+          49.218271101220466
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Captain Cook Park", 
+        "ADDRESS": "3398 E 54th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12794803819986, 
+          49.291806087163
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Cardero Park", 
+        "ADDRESS": "1601 Bayshore Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.02916689454769, 
+          49.244084557087895
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Cariboo Park", 
+        "ADDRESS": "3450 E 29th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.03044609366356, 
+          49.24198466766743
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Carleton Park", 
+        "ADDRESS": "3450 Price St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1715014254929, 
+          49.25658443146659
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Carnarvon Park", 
+        "ADDRESS": "2995 W 19th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09088443783872, 
+          49.266333611726274
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Carolina Park", 
+        "ADDRESS": "2100 Carolina St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09752697685899, 
+          49.237610764829085
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Cartier Park", 
+        "ADDRESS": "390 E 36th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1137046197545, 
+          49.28248964426011
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Cathedral Square", 
+        "ADDRESS": "566 Richards St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.07662185124477, 
+          49.26081488708355
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Cedar Cottage Park", 
+        "ADDRESS": "2650 Clark Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.19221607792555, 
+          49.24895643439107
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Chaldecott Park", 
+        "ADDRESS": "4175 Wallace St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.03267570792913, 
+          49.2164968343431
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Champlain Heights Park", 
+        "ADDRESS": "3351 Maquinna Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.02891642992523, 
+          49.273545619228116
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Charles Park", 
+        "ADDRESS": "3400 Charles St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12390544321876, 
+          49.266823607922056
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Charleson Park", 
+        "ADDRESS": "999 Charleson"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.08284543617538, 
+          49.26491061259389
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "China Creek North Park", 
+        "ADDRESS": "1001 E 7th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.07898843470485, 
+          49.26174161289877
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "China Creek South Park", 
+        "ADDRESS": "1255 E 10th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12868344363224, 
+          49.26554760731145
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Choklit Park", 
+        "ADDRESS": "W 7th Av And Spruce St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.07204643233626, 
+          49.25706561349323
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Clark Park", 
+        "ADDRESS": "1500 E 14th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.05030943247974, 
+          49.27039061660846
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Clinton Park", 
+        "ADDRESS": "2690 Grant St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12513544968367, 
+          49.28997460881177
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Coal Harbour Park", 
+        "ADDRESS": "500 Broughton St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.0367254213104, 
+          49.23705961668338
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Collingwood Park", 
+        "ADDRESS": "5275 Mckinnon St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.11200343176918, 
+          49.23145160771929
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Columbia Park", 
+        "ADDRESS": "5908 Alberta St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15974844758543, 
+          49.26193760355051
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Connaught Park", 
+        "ADDRESS": "2390 W 10th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.11309159252836, 
+          49.27349836294389
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Coopers' Park", 
+        "ADDRESS": "1020 Marinaside Crescent"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10125344445042, 
+          49.284667611344
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Crab Park at Portside", 
+        "ADDRESS": "101 E Waterfront Road"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10284544179387, 
+          49.273922610679584
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Creekside Park", 
+        "ADDRESS": "1455 Quebec St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.03699743521821, 
+          49.28834161895601
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Creekway Park", 
+        "ADDRESS": "2957 Bridgeway Street"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12418905697531, 
+          49.272430752336675
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "David Lam Park", 
+        "ADDRESS": "1300 Pacific Boulevard"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.18531998127762, 
+          49.21824885837934
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Deering Island Park", 
+        "ADDRESS": "3530 Deering Island Place"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15264931927396, 
+          49.26582051786917
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Delamont Park", 
+        "ADDRESS": "2091 W 7th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13577235146923, 
+          49.29422097667478
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Devonian Harbour Park", 
+        "ADDRESS": "1929 W Georgia St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13289666237512, 
+          49.244818011520145
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Devonshire Park", 
+        "ADDRESS": "1250 Devonshire Crescent"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12129286122624, 
+          49.252922854580824
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Douglas Park", 
+        "ADDRESS": "801 W 22nd Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04873348901934, 
+          49.292340811425696
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Dusty Greenwell Park", 
+        "ADDRESS": "2799 Wall St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.0476959942103, 
+          49.23349883204662
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Earles Park", 
+        "ADDRESS": "2801 E 41st Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13196242791261, 
+          49.20540260424307
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Ebisu Park", 
+        "ADDRESS": "8810 Olser St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12919777838066, 
+          49.206548285097824
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Eburne Park", 
+        "ADDRESS": "950 W 71st Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16350113809452, 
+          49.23375094317472
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Elm Park", 
+        "ADDRESS": "5800 Elm St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12408642809474, 
+          49.27638558654847
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Emery Barnes Park", 
+        "ADDRESS": "Davie St And Richards St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14384339753822, 
+          49.286224857374116
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "English Bay Beach Park", 
+        "ADDRESS": "1700 Beach Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.038091810391, 
+          49.21111714726144
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Everett Crowley Park", 
+        "ADDRESS": "8200 Kerr St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.02966471093556, 
+          49.25504200966693
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Falaise Park", 
+        "ADDRESS": "3434 Falaise Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.02874942980499, 
+          49.23387256114445
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Foster Park", 
+        "ADDRESS": "5501 Aberdeen St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1518559988078, 
+          49.20828174346582
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Fraser River Park", 
+        "ADDRESS": "8705 Angus Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13587742717587, 
+          49.20036260356442
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Fraser River Trail", 
+        "ADDRESS": "Hudson Street on the Fraser River"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04830266866702, 
+          49.21188804469174
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Fraserview Golf Course", 
+        "ADDRESS": "7800 Vivian Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06738885224742, 
+          49.2153718415006
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Fraserview Park", 
+        "ADDRESS": "7595 Victoria Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.05904298168429, 
+          49.268168983651755
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Garden Park", 
+        "ADDRESS": "1851 Garden Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.03120534871626, 
+          49.2362371910732
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Gaston Park", 
+        "ADDRESS": "3470 Crowley Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.05860568708684, 
+          49.24460499547442
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "General Brock Park", 
+        "ADDRESS": "2301 Brock St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09417322910112, 
+          49.21245501080791
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "George Park", 
+        "ADDRESS": "500 E 63rd Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12935948544879, 
+          49.27249481730057
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "George Wainborn Park", 
+        "ADDRESS": "450 Beach Crescent"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06240568552624, 
+          49.20568628960832
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Gladstone-Riverside Park", 
+        "ADDRESS": "2500 E Kent Av South"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.0828911659184, 
+          49.24961785217445
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Glen Park", 
+        "ADDRESS": "3999 Glen Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.07046939863359, 
+          49.22348465771157
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Gordon Park", 
+        "ADDRESS": "6675 Commercial St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.0705539615845, 
+          49.27352483174172
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Grandview Park", 
+        "ADDRESS": "1657 Charles St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13502783397156, 
+          49.26962333809856
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Granville Island Water Park", 
+        "ADDRESS": "False Creek Community Centre, Granville Island"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1373519488798, 
+          49.26739275170526
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Granville Loop Park", 
+        "ADDRESS": "1435 W 5th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14169751319862, 
+          49.2584038509984
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Granville Park", 
+        "ADDRESS": "3001 Fir St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.08506817633702, 
+          49.240986180186276
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Grays Park", 
+        "ADDRESS": "4850 St. Catherines St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10201272413761, 
+          49.253911744110326
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Grimmett Park", 
+        "ADDRESS": "169 E 19th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09642934759852, 
+          49.26411273777702
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Guelph Park", 
+        "ADDRESS": "2390 Brunswick St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.11080644259707, 
+          49.27221560968076
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Habitat Island", 
+        "ADDRESS": "South East False Creek"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14753982202195, 
+          49.27875054360595
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Hadden Park", 
+        "ADDRESS": "1905 Ogden Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14616844969628, 
+          49.27769460582615
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Hadden/Vanier Park", 
+        "ADDRESS": "900 Chestnut Street"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12288851283843, 
+          49.2907077337555
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Harbour Green Park", 
+        "ADDRESS": "1199 W Cordova St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.0406543257252, 
+          49.27988154411999
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Hastings Community Park", 
+        "ADDRESS": "3000 E Pender St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.18665504325074, 
+          49.272782131950805
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Hastings Mill Park", 
+        "ADDRESS": "1575 Alma St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04277823592754, 
+          49.288187391316384
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Hastings Park", 
+        "ADDRESS": "2901 E Hastings St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12115345205774, 
+          49.25477477738062
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Heather Park", 
+        "ADDRESS": "702 W 18th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1198291646734, 
+          49.275070408002364
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Helmcken Park", 
+        "ADDRESS": "1103 Pacific Boulevard"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10821243758375, 
+          49.2447789854785
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Hillcrest Park", 
+        "ADDRESS": "4501 Clancy Loranger Way"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.0633243759124, 
+          49.218727348370656
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Humm Park", 
+        "ADDRESS": "7250 Humm St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.17927268989078, 
+          49.271918515961495
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Jean Beaty Park", 
+        "ADDRESS": "3393 Point Grey Road"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.19966584995143, 
+          49.26978873990442
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Jericho Beach Park", 
+        "ADDRESS": "3941 Point Grey Road"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06217449595108, 
+          49.255625167039526
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "John Hendry (Trout Lake) Park", 
+        "ADDRESS": "3300 Victoria Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10820039654385, 
+          49.26434001230722
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Jonathan Rogers Park", 
+        "ADDRESS": "110 W 7th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06714461211335, 
+          49.236003804670844
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Jones Park", 
+        "ADDRESS": "5350 Commercial St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04593780539031, 
+          49.26412627768896
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Kaslo Park", 
+        "ADDRESS": "2851 E 7th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.07549561086306, 
+          49.23848716819887
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Kensington Park", 
+        "ADDRESS": "5175 Dumfries St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15804743953176, 
+          49.233139602464014
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Kerrisdale Centennial Park", 
+        "ADDRESS": "5898 Yew St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15347876124723, 
+          49.23589834334084
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Kerrisdale Park", 
+        "ADDRESS": "5670 East Boulevard"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04167841946624, 
+          49.22730061567099
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Killarney Park", 
+        "ADDRESS": "6205 Kerr St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.07479263703935, 
+          49.24749301508059
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Kingcrest Park", 
+        "ADDRESS": "4150 Knight St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.03617312862869, 
+          49.207572221560426
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Kinross Ravine Park", 
+        "ADDRESS": "3350 Se Marine Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15463344997933, 
+          49.27377960467051
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Kitsilano Beach Park", 
+        "ADDRESS": "1499 Arbutus St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1115826731903, 
+          49.22095135885464
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Langara Golf Course", 
+        "ADDRESS": "6706 Alberta St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1108484300376, 
+          49.22571460759605
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Langara Park", 
+        "ADDRESS": "W 49th Av And Columbia St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.124309442985, 
+          49.26572260782612
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Laurel Landbridge Park", 
+        "ADDRESS": "2200 Laurel Street"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.2071213900081, 
+          49.274979433126354
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Locarno Park", 
+        "ADDRESS": "4445 Nw Marine Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09845310310263, 
+          49.229628759902546
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "MacDonald Park", 
+        "ADDRESS": "300 E 44th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.08846081785097, 
+          49.278821324586886
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "MacLean Park", 
+        "ADDRESS": "710 Keefer St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10727209861119, 
+          49.26155553234073
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Major Matthews Park", 
+        "ADDRESS": "2627 Manitoba St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1769492582312, 
+          49.2319299413129
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Malkin Park", 
+        "ADDRESS": "6001 Balaclava St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16023088469692, 
+          49.22373730249957
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Maple Grove Park", 
+        "ADDRESS": "6875 Yew St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16770770633286, 
+          49.27205018608416
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Margaret Pigott Park", 
+        "ADDRESS": "2743 Point Grey Road"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13108880257157, 
+          49.29247689668203
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Marina Square", 
+        "ADDRESS": "1675 Bayshore Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15926443550113, 
+          49.21748950162446
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Marine Drive Golf Club (Privat", 
+        "ADDRESS": "7425 Yew Street"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13854484835664, 
+          49.205442670316465
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Marpole Park", 
+        "ADDRESS": "1410 W 72nd Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13205585066859, 
+          49.27517862157899
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "May & Lorne Brown Park", 
+        "ADDRESS": "801 Beach Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.17868590376467, 
+          49.26808807026341
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "McBride Park", 
+        "ADDRESS": "3350 W 4th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.17065885137383, 
+          49.21875639873599
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "McCleery Golf Course", 
+        "ADDRESS": "7188 Macdonald St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16411664783801, 
+          49.226809358809604
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "McCleery Park", 
+        "ADDRESS": "6501 Marine Crescent"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.05714543846993, 
+          49.28849761662798
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "McGill Park", 
+        "ADDRESS": "2305 Mcgill St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06664471099322, 
+          49.26628339036038
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "McSpadden Park", 
+        "ADDRESS": "2125 Victoria Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.02897915487631, 
+          49.23642136511528
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Melbourne Park", 
+        "ADDRESS": "3530 Vanness Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.08570605330227, 
+          49.230309088887516
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Memorial South Park", 
+        "ADDRESS": "5950 Prince Albert St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.18826740764054, 
+          49.24282102572283
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Memorial West Park", 
+        "ADDRESS": "4701 Dunbar St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.08657515733181, 
+          49.21559416893262
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Moberly Park", 
+        "ADDRESS": "7646 Prince Albert St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13047333468808, 
+          49.230830808447536
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Montgomery Park", 
+        "ADDRESS": "1040 W 43rd Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14199101947155, 
+          49.2876690484935
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Morton Park", 
+        "ADDRESS": "1800 Morton Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.07414707560075, 
+          49.27331973561082
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Mosaic Creek Park", 
+        "ADDRESS": "1475 Charles St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10626901784315, 
+          49.25713418857876
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Mount Pleasant Park", 
+        "ADDRESS": "3161 Ontario St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1953766822021, 
+          49.23222587245021
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Musqueam Park", 
+        "ADDRESS": "4000 Sw Marine Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.05764585031974, 
+          49.22773057017771
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Nanaimo Park", 
+        "ADDRESS": "2390 E 46th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10683615017702, 
+          49.24293879466439
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Nat Bailey Stadium", 
+        "ADDRESS": "4601 Ontario St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12963341103321, 
+          49.282579219375926
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Nelson Park", 
+        "ADDRESS": "1030 Bute St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.03765727567679, 
+          49.28964651893807
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "New Brighton Park", 
+        "ADDRESS": "500 N Windermere St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.05115070805796, 
+          49.23725506000708
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Norquay Park", 
+        "ADDRESS": "5050 Wales St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1258217768854, 
+          49.23844089753517
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Oak Meadows Park", 
+        "ADDRESS": "899 W 37th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12871701463375, 
+          49.21624318205892
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Oak Park", 
+        "ADDRESS": "900 W 59th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.0943623257551, 
+          49.28264568133132
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Oppenheimer Park", 
+        "ADDRESS": "400 Powell St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06221839840366, 
+          49.28549603458021
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Oxford Park", 
+        "ADDRESS": "2050 Wall St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.19514145030995, 
+          49.251271598974384
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Pacific Spirit Park", 
+        "ADDRESS": "4000 W King Edward Avenue"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.0581960570553, 
+          49.28254565374442
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Pandora Park", 
+        "ADDRESS": "2325 Franklin St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1105484421931, 
+          49.27087460965077
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Park Site at Southe East False", 
+        "ADDRESS": "215 W 1st Avenue"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.17893162888527, 
+          49.255581113479884
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Park Site on Blenheim", 
+        "ADDRESS": "3500 Quadra St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16821018606569, 
+          49.247729330164496
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Park Site on Puget Drive", 
+        "ADDRESS": "4309 Puget Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16995508227394, 
+          49.24760946368031
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Park Site on Quesnel Drive", 
+        "ADDRESS": "4301 Quesnel Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12570445564795, 
+          49.201818291803164
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Park Site on Shaughnessy Stree", 
+        "ADDRESS": "Shaughnessy St And Fraser River"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1651602090757, 
+          49.244449485020795
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Park Site on Trafalgar Street", 
+        "ADDRESS": "4600 Trafalgar St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.05947590228499, 
+          49.28956425443492
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Park Site on Trinity Street", 
+        "ADDRESS": "2303 Wall St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10460128618695, 
+          49.28170413977663
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Pioneer Place (Pigeon Park)", 
+        "ADDRESS": "399 Carrall St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.18016044210047, 
+          49.229672499748744
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Point Grey Golf and Country Cl", 
+        "ADDRESS": "3350 SW Marine Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16628745144558, 
+          49.272367603256626
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Point Grey Park Site at Stephe", 
+        "ADDRESS": "2699 Point Grey Road"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16466675431508, 
+          49.27324116207258
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Point Grey Park Site at Trafal", 
+        "ADDRESS": "2601 Point Grey Road"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.17617845282165, 
+          49.271657602078356
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Point Grey Park Site at Trutch", 
+        "ADDRESS": "3215 Point Grey Road"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.119155651325, 
+          49.288042328334946
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Portal Park", 
+        "ADDRESS": "1099 W Hastings St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.02446677621671, 
+          49.24013156656222
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Price Park", 
+        "ADDRESS": "3650 Price St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09766329750234, 
+          49.25149196775117
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Prince Edward Park", 
+        "ADDRESS": "3773 Prince Edward St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15692265403872, 
+          49.2440432388096
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Prince of Wales Park", 
+        "ADDRESS": "4780 Haggart St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.18065040024489, 
+          49.25712362203008
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Quadra West Park", 
+        "ADDRESS": "3250 Quadra St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.11330633429448, 
+          49.24099372731599
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Queen Elizabeth Park", 
+        "ADDRESS": "4600 Cambie St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1489223929809, 
+          49.24373657263808
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Quilchena Park", 
+        "ADDRESS": "4590 Magnolia St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15554247336429, 
+          49.24185404833803
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Ravine Park", 
+        "ADDRESS": "2159 W 36th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04297348518998, 
+          49.25243052351506
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Renfrew Community Park", 
+        "ADDRESS": "2929 E 22nd Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04345215715927, 
+          49.2491214287813
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Renfrew Ravine Park", 
+        "ADDRESS": "3900 Renfrew St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10430705096203, 
+          49.24169787406929
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Riley Park", 
+        "ADDRESS": "50 E 30th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.05078790650468, 
+          49.2057297241943
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Riverfront Park", 
+        "ADDRESS": "2750 E Kent Av South"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14726035296226, 
+          49.2123739773697
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Riverview Park", 
+        "ADDRESS": "1751 W 66th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09231853691901, 
+          49.257737676132244
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Robson Park", 
+        "ADDRESS": "599 Kingsway"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1566374471477, 
+          49.26214360392023
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Rosemary Brown Park", 
+        "ADDRESS": "W 11th Av And Yew St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.03900427653768, 
+          49.21576167630309
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Rosemont Park", 
+        "ADDRESS": "3101 Rosemont Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.08304342336635, 
+          49.21735961043857
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Ross Park", 
+        "ADDRESS": "7402 Ross St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12176260024, 
+          49.2733139717666
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Roundhouse Turntable Plaza", 
+        "ADDRESS": "181 Roundhouse Mews"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.03322289152838, 
+          49.2720296608189
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Rupert Park", 
+        "ADDRESS": "1600 Rupert St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.0888364368698, 
+          49.263955611857114
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Sahalli Park", 
+        "ADDRESS": "E 7th Av And Fraser St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06794823004303, 
+          49.27727585975493
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Salsbury Park", 
+        "ADDRESS": "1806 Adanac St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14607208349476, 
+          49.271541252581706
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Seaforth Peace Park", 
+        "ADDRESS": "1620 Chestnut St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14255262279929, 
+          49.21545481480457
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Shannon Park", 
+        "ADDRESS": "1575 W 62nd Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.20926444782936, 
+          49.23382039656251
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Shaughnessy Golf Course (Priva", 
+        "ADDRESS": "4300 SW Marine Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13514163560227, 
+          49.255664454277756
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Shaughnessy Park", 
+        "ADDRESS": "1300 The Crescent"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04628612248365, 
+          49.243563889559915
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Slocan Park", 
+        "ADDRESS": "2750 E 29th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.2192120766915, 
+          49.277644702597506
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Spanish Banks Beach Park", 
+        "ADDRESS": "4801 Nw Marine Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.02933779664224, 
+          49.22027659171825
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Sparwood Park", 
+        "ADDRESS": "6998 Arlington St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12760012227567, 
+          49.2980910288874
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Stanley Park", 
+        "ADDRESS": "2000 W Georgia St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.08769753790664, 
+          49.27680852841046
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Strathcona Linear Park", 
+        "ADDRESS": "787 Prior St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.0834004042221, 
+          49.27394146178208
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Strathcona Park", 
+        "ADDRESS": "857 Malkin Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10329771190486, 
+          49.279555610878795
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Sun Yat-Sen Gardens", 
+        "ADDRESS": "578 Carrall St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.0807739887993, 
+          49.25493743206883
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Sunnyside Park", 
+        "ADDRESS": "1100 E 17th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.03520064126954, 
+          49.266694937346415
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Sunrise Park", 
+        "ADDRESS": "1950 Windermere St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13770218878484, 
+          49.27891479071102
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Sunset Beach Park", 
+        "ADDRESS": "1204 Beach Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09667542078401, 
+          49.22276705589246
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Sunset Park", 
+        "ADDRESS": "404 E 51st Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1348574454587, 
+          49.2686746067354
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Sutcliffe Park", 
+        "ADDRESS": "1318 Cartwright St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16963512336415, 
+          49.27006926053224
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Tatlow Park", 
+        "ADDRESS": "2845 W 3rd Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09876811277675, 
+          49.257218059374075
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Tea Swamp Park", 
+        "ADDRESS": "266 E 15th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06993571134728, 
+          49.22977058134916
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Tecumseh Park", 
+        "ADDRESS": "1751 E 45th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.05885270358026, 
+          49.27854331010652
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Templeton Park", 
+        "ADDRESS": "700 Templeton Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09927531052331, 
+          49.273951898469235
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Thornton Park", 
+        "ADDRESS": "1166 Main St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.02909137135505, 
+          49.26892074164717
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Thunderbird Park", 
+        "ADDRESS": "3485 E 2nd Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.11931633032601, 
+          49.22734440963695
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Tisdall Park", 
+        "ADDRESS": "6210 Tisdall St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16464051861857, 
+          49.251405480109
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Trafalgar Park", 
+        "ADDRESS": "2610 W 23rd Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09313144054678, 
+          49.2750206118544
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Trillium Park Site", 
+        "ADDRESS": "National Avenue & Thornton Street"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1764896706514, 
+          49.25243519867759
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Valdez Park", 
+        "ADDRESS": "3210 W 22nd Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13461947077361, 
+          49.23907311046031
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "VanDusen Botanical Gardens", 
+        "ADDRESS": "5251 Oak St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14312206034406, 
+          49.27594177980696
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Vanier Park", 
+        "ADDRESS": "1000 Chestnut St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.0667456454024, 
+          49.27152172475513
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Victoria Park", 
+        "ADDRESS": "1415 Victoria Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.11025961387124, 
+          49.282183910880434
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Victory Square", 
+        "ADDRESS": "200 W Hastings St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16926915203784, 
+          49.27163050468758
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Volunteer Park", 
+        "ADDRESS": "2855 Point Grey Road"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.07294493837942, 
+          49.2630321891694
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "W.C. Shelley Park", 
+        "ADDRESS": "1500 E 8th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.0995924440772, 
+          49.28426461151856
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Wendy Poole Park", 
+        "ADDRESS": "199 Alexander St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.20516780516469, 
+          49.26676713553995
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "West Point Grey Park", 
+        "ADDRESS": "2250 Trimble St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.21443728160878, 
+          49.27185007388343
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Westmount Park", 
+        "ADDRESS": "4651 W 2nd Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14249349232412, 
+          49.20683847559921
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "William Mackie Park", 
+        "ADDRESS": "1592 W 71st Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1220688426849, 
+          49.26483836952667
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Willow Park", 
+        "ADDRESS": "802 W 7th Av"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.11336127055417, 
+          49.21598014086715
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Winona Park", 
+        "ADDRESS": "7575 Columbia St"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.07347538065044, 
+          49.278512630223126
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Woodland Park", 
+        "ADDRESS": "705 Woodland Drive"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.11852869586616, 
+          49.27785270609834
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PARK_NAME": "Yaletown Park", 
+        "ADDRESS": "901 Mainland St"
+      }
+    }
+  ]
+}

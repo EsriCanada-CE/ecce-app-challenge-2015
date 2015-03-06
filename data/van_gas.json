@@ -1,0 +1,2045 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.18511699999999, 
+          49.23467800000003
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Shell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14000299999998, 
+          49.23494900000003
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Shell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.20347399999997, 
+          49.263656000000026
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Shell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15345599999995, 
+          49.26418400000006
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Shell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10122999999999, 
+          49.26940900000005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Shell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12710299999998, 
+          49.248763000000054
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Shell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.07763999999997, 
+          49.23235200000005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Shell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14021299999996, 
+          49.20746800000006
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Shell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13925599999999, 
+          49.233911000000035
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Esso"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12881699999997, 
+          49.22611900000004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Esso"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15300299999996, 
+          49.25727200000006
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Esso"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14541799999995, 
+          49.26402500000006
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Esso"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13566299999997, 
+          49.26337900000004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Esso"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12988899999999, 
+          49.27924100000007
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Esso"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.08998599999995, 
+          49.24892600000004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Esso"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06479599999994, 
+          49.245487000000026
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Esso"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14795199999998, 
+          49.26805000000007
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Petrocanada"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16868199999999, 
+          49.263761000000045
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Petro-Canada"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12710299999998, 
+          49.248763000000054
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Shell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.08998599999995, 
+          49.24892600000004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Esso"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.11499099999997, 
+          49.25684700000005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Chevron"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06201599999997, 
+          49.259479000000056
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Grandview Husky"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13566299999997, 
+          49.26337900000004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Esso"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.94107599999995, 
+          49.22439500000007
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Husky Gas Station"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06201599999997, 
+          49.259479000000056
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Grandview Husky"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06432399999994, 
+          49.28496400000006
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Husky Gas"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.88326099999995, 
+          49.24083800000005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Lougheed Husky"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04094899999996, 
+          49.21994500000005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Petro-Canada"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04523299999994, 
+          49.23599100000007
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Metro Town Pantry"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.08998599999995, 
+          49.24892600000004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Esso"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04444899999999, 
+          49.25077200000004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "P & D Automotive Ltd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06201599999997, 
+          49.259479000000056
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Grandview Husky"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.01141199999995, 
+          49.23268000000007
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Shell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.00610999999998, 
+          49.23022300000008
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Esso"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.91282799999999, 
+          49.22248700000006
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Shell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.968234, 
+          49.21913600000005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Super Save Gas Station"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.98275799999999, 
+          49.22283200000004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Super Save Gas Station"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.93543999999997, 
+          49.225036000000046
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Super Save Gas Station"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.07763999999997, 
+          49.23235200000005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Shell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.08998599999995, 
+          49.24892600000004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Esso"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.11499099999997, 
+          49.25684700000005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Chevron"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10072899999994, 
+          49.26048300000008
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Chevron"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10122999999999, 
+          49.26940900000005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Shell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06201599999997, 
+          49.259479000000056
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Grandview Husky"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.05664499999995, 
+          49.269416000000035
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Petro-Canada"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04444899999999, 
+          49.25077200000004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "P & D Automotive Ltd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04523299999994, 
+          49.23599100000007
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Metro Town Pantry"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09097199999997, 
+          49.21092300000004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Petro-Canada"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.07711099999995, 
+          49.21804600000007
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Chevron"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.07763999999997, 
+          49.23235200000005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Shell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.05473699999999, 
+          49.224838000000034
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Chevron"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04094899999996, 
+          49.21994500000005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Petro-Canada"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04523299999994, 
+          49.23599100000007
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Metro Town Pantry"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04444899999999, 
+          49.25077200000004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "P & D Automotive Ltd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06201599999997, 
+          49.259479000000056
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Grandview Husky"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15300299999996, 
+          49.25727200000006
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Esso"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.08998599999995, 
+          49.24892600000004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Esso"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15334999999999, 
+          49.24508800000007
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Chevron"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15300299999996, 
+          49.25727200000006
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Esso"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16868199999999, 
+          49.263761000000045
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Petro-Canada"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12895199999997, 
+          49.233929000000046
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Chevron"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.07763999999997, 
+          49.23235200000005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Shell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13925599999999, 
+          49.233911000000035
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Esso"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.18450499999994, 
+          49.234750000000076
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "41st & Dunbar Shell Self-Serve"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13989399999997, 
+          49.21243400000003
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Petro-Canada"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.20347399999997, 
+          49.263656000000026
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "Untitled layer", 
+        "Name": "Shell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.18523997863747, 
+          49.24616089710785
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.17576302694849, 
+          49.239465694307995
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.17585834319038, 
+          49.227405397856415
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.180124236469, 
+          49.22009626172238
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.18607288898357, 
+          49.22152393832588
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.18162926866754, 
+          49.270342686614335
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.18771767007931, 
+          49.26525759854608
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.19078304696522, 
+          49.25649338929079
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1936238732988, 
+          49.24620008607751
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.19093025878237, 
+          49.238589093103926
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.17011275448907, 
+          49.2518784031007
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16571824680912, 
+          49.238471688188845
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16833506997577, 
+          49.22150217624869
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15735919423557, 
+          49.21957486006419
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15508887055093, 
+          49.22715210246302
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16423554956226, 
+          49.232850781267786
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14921413950441, 
+          49.23447959245564
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.17047536094287, 
+          49.249987384226884
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16336206241544, 
+          49.245012206624416
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16491114675466, 
+          49.25764340224132
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15563715309393, 
+          49.254432290309666
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.16071745700337, 
+          49.25178740801617
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13914655814077, 
+          49.24544098880038
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.15085557183788, 
+          49.254486289753274
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14615744746958, 
+          49.24750840552022
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.14127823565242, 
+          49.257093685527394
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13442317716128, 
+          49.25183879496768
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.11600245601561, 
+          49.233590181650186
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.11636405998867, 
+          49.22606658402888
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1203902492308, 
+          49.21909219080717
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10610607486888, 
+          49.21772058421575
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09078957647077, 
+          49.22451208613889
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09698376883424, 
+          49.23804498724897
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10272358225293, 
+          49.24052338180249
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10661437856712, 
+          49.240773787241736
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.11385624745662, 
+          49.24055962637252
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12061939323758, 
+          49.24116298784591
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12480176808344, 
+          49.23865605756786
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.1322950472646, 
+          49.241604698178236
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.11839632044578, 
+          49.249101496233585
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10994586554295, 
+          49.25000857621429
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.10092196224863, 
+          49.25270289204867
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09404556542849, 
+          49.24868070443235
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09495836104372, 
+          49.260665576001614
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12602244355297, 
+          49.28118909368488
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13545102740225, 
+          49.28729148850626
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.13628823724078, 
+          49.28370638776292
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12955454060932, 
+          49.286292791867005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.11790133116654, 
+          49.283151978376885
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.12108156146711, 
+          49.284403497968775
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09044737827818, 
+          49.23654469955955
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.05876608549654, 
+          49.23587898292259
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.08917055221708, 
+          49.25972948937304
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.05380865126725, 
+          49.243355475012855
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.08911916548246, 
+          49.262476385244156
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.0441512739867, 
+          49.272281181595694
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.07800655639758, 
+          49.25083169347872
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.03953058262437, 
+          49.23563549670761
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.08241200010495, 
+          49.23821389055457
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04413958983291, 
+          49.2247276767319
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.09880766889387, 
+          49.24045419635218
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.06581597995329, 
+          49.222614694334574
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.080034486961, 
+          49.225325699857834
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.03373727976302, 
+          49.249651483406524
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.05463464227516, 
+          49.228017707798
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.03138366662913, 
+          49.277424491885775
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.08653847088377, 
+          49.26620699977821
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.04668546020265, 
+          49.28477018932913
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.08714694875978, 
+          49.28108657918318
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.03349961247952, 
+          49.21377398299489
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "OID_": 0, 
+        "FolderPath": "                                                                                                                                                                                                                                                              ", 
+        "Name": "                                                                                                                                                                                                                                                              "
+      }
+    }
+  ]
+}

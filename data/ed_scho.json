@@ -1,0 +1,5845 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.40590225438325, 
+          53.44157238117223
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 132
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42834229353689, 
+          53.44176138159475
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 133
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44950792663299, 
+          53.44328103556148
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 134
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52575079197184, 
+          53.44246184220111
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 86, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 135
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52796365093846, 
+          53.458453382426555
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 136
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.57703790908965, 
+          53.46031272582291
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 137
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.38478459102058, 
+          53.47984880754706
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 138
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.40674011460557, 
+          53.47839411519196
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 139
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.63776218671795, 
+          53.49825314524949
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 140
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.62571133694577, 
+          53.49906956834379
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 141
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.54536665044388, 
+          53.4992177496994
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 142
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5069643416786, 
+          53.49963520874392
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 143
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44910924773087, 
+          53.51132611612022
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 144
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50490211249681, 
+          53.51359305755133
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 145
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.60458498672804, 
+          53.51586013620193
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 146
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.59422775205762, 
+          53.514835074183395
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 147
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.63686920045218, 
+          53.52574563282385
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 148
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.63379283898361, 
+          53.5257429285346
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 149
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42459853923934, 
+          53.568709178748236
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 150
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.40062370077054, 
+          53.56908383225425
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 151
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45858805845386, 
+          53.59028603787111
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 152
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47459477260875, 
+          53.5915558064664
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 153
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.37971452321054, 
+          53.60481841794563
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 154
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.38855039242681, 
+          53.60409243050058
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 155
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5062107838108, 
+          53.63190785078339
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 156
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50295682499089, 
+          53.63190511582708
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 157
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48126918172119, 
+          53.63545168344176
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 158
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.57511304935775, 
+          53.44946158125596
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 159
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.40127521423831, 
+          53.44922770597928
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 160
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45473513587639, 
+          53.45578554934002
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 161
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.40060611963922, 
+          53.462613326483115
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 162
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52691270111144, 
+          53.462896204909114
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 163
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.40710096282255, 
+          53.46805758522579
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 164
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50662019313883, 
+          53.47170632482516
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 165
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42746904286965, 
+          53.475642448339435
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 166
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53036147221985, 
+          53.48449798590583
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 167
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50957825435992, 
+          53.48710415958567
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 168
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.64979876155967, 
+          53.48930150781217
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 169
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.62419546963321, 
+          53.49427816467727
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 170
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50365089757197, 
+          53.49553763886891
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 171
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47796279566353, 
+          53.504192875133725
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 172
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.64612521246477, 
+          53.50651333464416
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 173
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48444022544246, 
+          53.50736971830657
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 174
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.60385112514048, 
+          53.51120063828688
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 175
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53250925491206, 
+          53.509700836317066
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 176
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.58776398919032, 
+          53.51625595466645
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 177
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.6349061440885, 
+          53.518294133867485
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 178
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48997680202993, 
+          53.521381785532924
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 179
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.43444900171971, 
+          53.52335760733545
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 180
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.60880543482199, 
+          53.52689931027078
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 181
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44904699124484, 
+          53.531494773741535
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 182
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.646157224907, 
+          53.5323329242816
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 183
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.43923635799032, 
+          53.53422865531679
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 184
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.59997408595211, 
+          53.53672851004375
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 185
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.43522554414831, 
+          53.53958018143222
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 186
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.60404392136968, 
+          53.545709378481625
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 187
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.41421220089717, 
+          53.55012519480628
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 188
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.59565329695576, 
+          53.554659530092515
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 189
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47617348262709, 
+          53.552105031160366
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 190
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42333354465238, 
+          53.55506271238302
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 191
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.58639960348823, 
+          53.55693264496403
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 192
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48791903041786, 
+          53.560424637736105
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 193
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.54201862267776, 
+          53.56330470974969
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 194
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5602985240831, 
+          53.56717061101928
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 195
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44917854334837, 
+          53.56794112764644
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 196
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4352184119441, 
+          53.572495669136494
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 197
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.39271662035246, 
+          53.57416961995697
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 198
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.41300563236852, 
+          53.575526661277664
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 199
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.56237145450905, 
+          53.57651955815735
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 200
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53945174428061, 
+          53.57851638677905
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 201
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.54579812644432, 
+          53.58834446746032
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 202
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50532055788936, 
+          53.59034327092101
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 203
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45669800161448, 
+          53.593072830925124
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 204
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.39269751243694, 
+          53.59343284226454
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 205
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.38349620282845, 
+          53.59465069538383
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 206
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.54970640038262, 
+          53.59717455517536
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 207
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.43373495820325, 
+          53.60144796183582
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 208
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48412251978364, 
+          53.604072479446685
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 209
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.39319877098714, 
+          53.603729183165235
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 210
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52399658804657, 
+          53.60581032081517
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 211
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52746030342996, 
+          53.612143445506156
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 212
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.43178020422579, 
+          53.62020014614967
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 213
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50829215915687, 
+          53.622049646110376
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 214
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50212148784756, 
+          53.62417159927299
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 215
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53391252781063, 
+          53.47751877336568
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 216
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53696030996262, 
+          53.477166130626
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 217
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45599680146601, 
+          53.477624340626505
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 218
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5056244551482, 
+          53.47811491337733
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 219
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.54419878558257, 
+          53.48708795017311
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 220
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.63542489448713, 
+          53.50632569850893
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 221
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.62271846259893, 
+          53.50867173213323
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 222
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.58685476301143, 
+          53.50873099065623
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 223
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.56693332699048, 
+          53.51622102913394
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 224
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48127557878556, 
+          53.515417088286334
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 225
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48127276961345, 
+          53.515829467093276
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 226
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.6215131270154, 
+          53.51696008854472
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 227
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.40224005940726, 
+          53.57272329397497
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 228
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42687616077092, 
+          53.57596310491966
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 229
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47878531137174, 
+          53.57590731194315
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 230
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52621476752942, 
+          53.621612931372034
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 231
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52722784325037, 
+          53.623708788787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 232
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45579244666328, 
+          53.44574363119757
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 233
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45905399715186, 
+          53.446790980521406
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 234
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44915840226071, 
+          53.446137006175555
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 235
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44135316869438, 
+          53.448803836983345
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 236
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.41413747783112, 
+          53.46048301094257
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 237
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50675415610687, 
+          53.46389499976165
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 238
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5253234659997, 
+          53.47246072605892
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 239
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45165855366861, 
+          53.47467593269815
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 240
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52245376178209, 
+          53.48900385280503
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 241
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.57411105941222, 
+          53.49434065907446
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 242
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.46880704417842, 
+          53.522413445922155
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 243
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.58418651309505, 
+          53.5225917887931
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 244
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.46656629723432, 
+          53.522456672195304
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 245
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45281170842479, 
+          53.52251649264545
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 246
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.59577194717153, 
+          53.525793188599145
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 247
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5882991180147, 
+          53.524162781920595
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 248
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53563092831132, 
+          53.52415041086709
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 249
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.58417640476101, 
+          53.532390324894756
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 250
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.56784089496257, 
+          53.544987174153476
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 251
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.59299770228121, 
+          53.54731532476981
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 252
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42956822182761, 
+          53.54794596543476
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 253
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4883250297088, 
+          53.5544320975748
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 254
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5598855830256, 
+          53.55510924864044
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 255
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53967380726813, 
+          53.56592238622002
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 256
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.39130447449887, 
+          53.56242278963015
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 257
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.41200449367425, 
+          53.586895592827226
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 258
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.40924052228436, 
+          53.585466709815364
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 259
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52595207939844, 
+          53.58896373914472
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 260
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.40845680058128, 
+          53.593439661443874
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 261
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45686575266471, 
+          53.60608959915921
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 262
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52707009181191, 
+          53.60939581328866
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 263
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48396550872809, 
+          53.61002495604194
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 264
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45636458998031, 
+          53.60779644231143
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 265
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.43116736763916, 
+          53.6106882642869
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 266
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.56741751709248, 
+          53.555595875463226
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 267
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.54249338845146, 
+          53.55471987865007
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 268
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.51470929000261, 
+          53.55587640469656
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 269
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44847106060114, 
+          53.5607175876111
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 270
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44981172010485, 
+          53.56060128879343
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 271
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48322091333497, 
+          53.58775796088505
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 272
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50243509068042, 
+          53.588040102903506
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 273
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42799717982443, 
+          53.44689123969377
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 274
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.41166641015016, 
+          53.448651030742006
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 275
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4034941040148, 
+          53.446657110725226
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 276
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.40576115453057, 
+          53.44788361382162
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 277
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44988962777987, 
+          53.45994547639114
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 278
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44176591186151, 
+          53.460693074056564
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 279
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45717294119682, 
+          53.462571157462285
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 280
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.51122458927541, 
+          53.53676867472506
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 281
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.59331015942662, 
+          53.536838952717254
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 282
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.46823334330792, 
+          53.543264026844525
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 283
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.55547931458376, 
+          53.54383444270568
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 284
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52812744473134, 
+          53.543648135329335
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 285
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.58841633444419, 
+          53.548884952099534
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 286
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.56053128099713, 
+          53.548571470989025
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 287
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44378177710455, 
+          53.5475368758767
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 288
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.43513881862151, 
+          53.59453174328476
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 289
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42794048625964, 
+          53.4499202404599
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 290
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47809902950684, 
+          53.604293919002956
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 291
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4848930657803, 
+          53.5955667112718
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 292
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50357157231686, 
+          53.59617443714038
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 293
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52848143622475, 
+          53.59573048607019
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 294
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45522630603045, 
+          53.5958400792534
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 295
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.46141776922914, 
+          53.61246221526134
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 296
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4505965395514, 
+          53.60950263736238
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 297
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42739286332996, 
+          53.47003240651112
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 298
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4462642001909, 
+          53.4706930971918
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 299
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45787299668524, 
+          53.46995511311391
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 300
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45166138474647, 
+          53.46904764627068
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 301
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.56931421563665, 
+          53.49199003917547
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 302
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.57393056405782, 
+          53.49150863787456
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 303
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4532606585479, 
+          53.54472782034473
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 304
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.58607581957861, 
+          53.475109632859706
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 305
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.58347370175079, 
+          53.47331184737282
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 306
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50638779468993, 
+          53.47388699153859
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 307
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52482202729982, 
+          53.47487298745434
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 308
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.54002251976041, 
+          53.47568912364501
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 309
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47634112749559, 
+          53.54610885575413
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4020, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary School (1 to 6 grades)", 
+        "ORIG_FID": 310
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44072555621672, 
+          53.42673480092899
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8001
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.41503696013682, 
+          53.46245385318556
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8002
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50663833504177, 
+          53.476528341655005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8003
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.40157332300265, 
+          53.47621251092678
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8004
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.63730741771539, 
+          53.490489103333516
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8005
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48130952924753, 
+          53.510641002942606
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8006
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.60441599350034, 
+          53.514401902863085
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8007
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49267963148263, 
+          53.521389694868844
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8008
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5841878424162, 
+          53.520039138142735
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8009
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.56858691095563, 
+          53.55534012760253
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8010
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.54706888853588, 
+          53.55969353386166
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8011
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4045580664528, 
+          53.56858279025504
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8012
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.43466980562049, 
+          53.569493540452825
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8013
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47553919142166, 
+          53.60723716163262
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8014
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44891340317086, 
+          53.606274895374405
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8015
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.57401020913265, 
+          53.47343965162287
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8016
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.36113991533968, 
+          53.46966085963637
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8017
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.56845191059047, 
+          53.52608531773046
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8018
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42510172222148, 
+          53.54538908899582
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8019
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.55516664204313, 
+          53.590816634011034
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8020
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.43911852296586, 
+          53.57134622190735
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8021
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.55081498545974, 
+          53.595531031109374
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8022
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.37358024051782, 
+          53.611837453587796
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8023
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4312680985382, 
+          53.60850310052311
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8024
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50648166297083, 
+          53.62414253698455
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8025
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.54096186634006, 
+          53.47350276071579
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8026
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45597615179184, 
+          53.47426947951142
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8027
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.38920641027264, 
+          53.61226890675302
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8028
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4498445787288, 
+          53.59110390792236
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8029
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.54273927043977, 
+          53.59110973467951
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8030
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48206203769726, 
+          53.59140856077903
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8031
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47773228630909, 
+          53.59276161649382
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8032
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.60895578138758, 
+          53.53271123446368
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8033
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.60763483886274, 
+          53.53396520488264
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8034
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.51523039288077, 
+          53.593548562138906
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4030, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior High School (7 to 9 grades)", 
+        "ORIG_FID": 8035
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5182030633511, 
+          53.479420021873025
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8088
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50094577924142, 
+          53.483908317383175
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8089
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4522195691129, 
+          53.499364962162
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8090
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.629628033364, 
+          53.50397081537462
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8091
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4991246420005, 
+          53.509021355071866
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8092
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50196261894722, 
+          53.519755611533405
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8093
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4469029718439, 
+          53.568131184453385
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8094
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48756458556949, 
+          53.591256333599716
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8095
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47443486150252, 
+          53.59313045669365
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8096
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44459864730727, 
+          53.60595210673753
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8097
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4428702961196, 
+          53.45730459776231
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8098
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.60508998481575, 
+          53.52529048914222
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8099
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42553542035495, 
+          53.53562145235102
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8100
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50160832634485, 
+          53.53909091024644
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8101
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.59783762718553, 
+          53.547208181488806
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8102
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45896860434028, 
+          53.54856600391355
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8103
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.56799271758248, 
+          53.553085974774405
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8104
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5575022737653, 
+          53.5597293654346
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8105
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.58304878433417, 
+          53.45924506017552
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8106
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4468111728749, 
+          53.45661906841916
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8107
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.57953967147726, 
+          53.45738183381275
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8108
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45332199317505, 
+          53.52437926025969
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8109
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.59457998633312, 
+          53.54691680653755
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8110
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47428501659847, 
+          53.52484975217423
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8111
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50937799133231, 
+          53.553806159755034
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4040, 
+        "PERCENT": 100, 
+        "LAND_USE": "Senior High School (10 to 12 grades)", 
+        "ORIG_FID": 8112
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.46170404270744, 
+          53.41457778188854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12089
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52053173295212, 
+          53.41719834052861
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12090
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53428494657626, 
+          53.41991338236816
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12091
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.57352942182033, 
+          53.446186292466116
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12092
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50252153050346, 
+          53.45006253313837
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12093
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.40000422546436, 
+          53.46034192664114
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12094
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5690878008572, 
+          53.521448882289036
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12095
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.51357009877296, 
+          53.52241476898945
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12096
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45571495114008, 
+          53.53980139248165
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12097
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5240576284058, 
+          53.543817661558755
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12098
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.55837345435818, 
+          53.54698346546328
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12099
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.58233260208631, 
+          53.546789244914144
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12100
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42365761976691, 
+          53.551078386707516
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12101
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.40915875601783, 
+          53.549613369074024
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12102
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48480567635796, 
+          53.55300919145886
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12103
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48500759550201, 
+          53.55337726284749
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12104
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49645984500773, 
+          53.566872787324776
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12105
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.55410740021814, 
+          53.567684537536984
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12106
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53857463661664, 
+          53.607474843655304
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12107
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49695858420823, 
+          53.607364306916345
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12108
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.34233333388832, 
+          53.65674719729124
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12109
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48607506402311, 
+          53.63574194300083
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12110
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.37855506537949, 
+          53.47173172661001
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12111
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.463190704583, 
+          53.475145695441
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 65, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12112
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.40778587427685, 
+          53.483128622900374
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12113
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.67067508294384, 
+          53.48663997341073
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12114
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.68535607783575, 
+          53.49163943569017
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12115
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50352043343483, 
+          53.50121133432188
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12116
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.51834263297452, 
+          53.50403388903207
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12117
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45636768566149, 
+          53.51419193687011
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12118
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.60821035266663, 
+          53.51488089671363
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12119
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42500352715807, 
+          53.52947182574069
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12120
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.68678534674964, 
+          53.534548081151804
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12121
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.59565584856954, 
+          53.55552571428218
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12122
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49737455021167, 
+          53.56499520408751
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12123
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.3981263309008, 
+          53.56724887483954
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12124
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47287599487308, 
+          53.56811559281439
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12125
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.54841872719186, 
+          53.57633224364012
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12126
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.46464363730792, 
+          53.57459012827755
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12127
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.3968066079872, 
+          53.595334048144174
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12128
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.55914458292675, 
+          53.62032375958473
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12129
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47132526075256, 
+          53.627328992705536
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12130
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42125914564855, 
+          53.62283115517859
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12131
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.46641742598887, 
+          53.56811791765739
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12132
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47223163292999, 
+          53.56811579167707
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12133
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48964608491953, 
+          53.57474976337756
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12134
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45736697033405, 
+          53.62176675072601
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12135
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5770577145527, 
+          53.49305934555879
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12136
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5023024832728, 
+          53.51277449222567
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12137
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45982698710728, 
+          53.514391518956714
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12138
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.43743394382092, 
+          53.53141396931307
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12139
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.46264147699057, 
+          53.53079363612565
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12140
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49610710191082, 
+          53.55388845250153
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12141
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.54385945510002, 
+          53.57751150134941
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12142
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44399460388709, 
+          53.58889110162408
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12143
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5253216829205, 
+          53.59051304510825
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12144
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45137219823368, 
+          53.47386626527367
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12145
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5238043729973, 
+          53.513022175553274
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12146
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52340675982946, 
+          53.49144700754343
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12147
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.57649028124392, 
+          53.490969767138594
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12148
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.57096006965969, 
+          53.53415388746345
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12149
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.57005402540405, 
+          53.55574291492458
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12150
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50567671377787, 
+          53.55565573915828
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12151
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50940516626964, 
+          53.555649922387545
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4072, 
+        "PERCENT": 100, 
+        "LAND_USE": "Elementary and Junior High School", 
+        "ORIG_FID": 12152
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44398367032467, 
+          53.45940026271289
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13503
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52996263472015, 
+          53.50608656556823
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13504
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52334585963978, 
+          53.51766877368863
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13505
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.51990599230967, 
+          53.51937380904452
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13506
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44631438866456, 
+          53.560671106105715
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 95, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13507
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5230388407255, 
+          53.52225922811152
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13508
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.41728464690797, 
+          53.5242206105182
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13509
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49251800694672, 
+          53.5400319891657
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13510
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.58883583516163, 
+          53.540995883591336
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13511
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50762386124876, 
+          53.547041947542326
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13512
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50605689295013, 
+          53.54381158067444
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13513
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.57980087345403, 
+          53.5753054676841
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13514
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52825536393573, 
+          53.519901808230436
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13515
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50527589502008, 
+          53.543467151319575
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13516
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50343886890981, 
+          53.54367176570916
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13517
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.41663263434921, 
+          53.525745555678554
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 85, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13518
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.58940771455637, 
+          53.54005287923574
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13519
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5051510920244, 
+          53.568181553465955
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13520
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49850243671169, 
+          53.575907997992765
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13521
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50043186416175, 
+          53.56899866835271
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13522
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52472575107784, 
+          53.524473439519085
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 81, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13523
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52478915608826, 
+          53.52622740434436
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4060, 
+        "PERCENT": 100, 
+        "LAND_USE": "University, College, and Technical", 
+        "ORIG_FID": 13524
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52275490855929, 
+          53.47969836725691
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4071, 
+        "PERCENT": 100, 
+        "LAND_USE": "Junior and Senior High School", 
+        "ORIG_FID": 14412
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.68590165387455, 
+          53.47008458391941
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18376
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.60418105409782, 
+          53.45993554097133
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18377
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4267580699609, 
+          53.47479844965843
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18378
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.64020588252502, 
+          53.49088734652983
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18379
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52807585887847, 
+          53.50306882908329
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18380
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42838925068327, 
+          53.50535726994673
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18381
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48587087748244, 
+          53.5078570597398
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18382
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45978955833858, 
+          53.53936730764028
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18383
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52199900816011, 
+          53.54797833509003
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18384
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5850029383787, 
+          53.5636171489573
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18385
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.43421549023465, 
+          53.569839325271474
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18386
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.43494988024412, 
+          53.605826388333945
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18387
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45410902190358, 
+          53.523684127709906
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18388
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.6050120312651, 
+          53.52977509809934
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18389
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47071639572685, 
+          53.536834798576855
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18390
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53684640804805, 
+          53.57994039545943
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18391
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52142592278615, 
+          53.52840209837159
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18392
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.46997384587861, 
+          53.58061897245668
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18393
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4893142829476, 
+          53.57406978211114
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18394
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48998107377174, 
+          53.57404654312314
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4090, 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Education", 
+        "ORIG_FID": 18395
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.38826870852385, 
+          53.581563003196464
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4010, 
+        "PERCENT": 100, 
+        "LAND_USE": "Pre-Elementary School", 
+        "ORIG_FID": 42088
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48017692051796, 
+          53.57564317580803
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4010, 
+        "PERCENT": 100, 
+        "LAND_USE": "Pre-Elementary School", 
+        "ORIG_FID": 42089
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52520304712611, 
+          53.49984336496007
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4050, 
+        "PERCENT": 100, 
+        "LAND_USE": "Special Schools", 
+        "ORIG_FID": 44328
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.46832978707653, 
+          53.4690992349027
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4050, 
+        "PERCENT": 100, 
+        "LAND_USE": "Special Schools", 
+        "ORIG_FID": 44329
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49528076674358, 
+          53.509347827047335
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4050, 
+        "PERCENT": 100, 
+        "LAND_USE": "Special Schools", 
+        "ORIG_FID": 44330
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52433873950831, 
+          53.510364604070965
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4050, 
+        "PERCENT": 100, 
+        "LAND_USE": "Special Schools", 
+        "ORIG_FID": 44331
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49897394240608, 
+          53.51955076734378
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4050, 
+        "PERCENT": 100, 
+        "LAND_USE": "Special Schools", 
+        "ORIG_FID": 44332
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45558954248355, 
+          53.51351401629631
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4050, 
+        "PERCENT": 100, 
+        "LAND_USE": "Special Schools", 
+        "ORIG_FID": 44333
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4287032138711, 
+          53.53127715030595
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4050, 
+        "PERCENT": 100, 
+        "LAND_USE": "Special Schools", 
+        "ORIG_FID": 44334
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50025860941744, 
+          53.53673693575977
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4050, 
+        "PERCENT": 100, 
+        "LAND_USE": "Special Schools", 
+        "ORIG_FID": 44335
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5505959224511, 
+          53.549978037394524
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4050, 
+        "PERCENT": 100, 
+        "LAND_USE": "Special Schools", 
+        "ORIG_FID": 44336
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.6223781847771, 
+          53.54473262554536
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4050, 
+        "PERCENT": 100, 
+        "LAND_USE": "Special Schools", 
+        "ORIG_FID": 44337
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.56464409381665, 
+          53.55348122025013
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4050, 
+        "PERCENT": 100, 
+        "LAND_USE": "Special Schools", 
+        "ORIG_FID": 44338
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.54838361487347, 
+          53.559698968960284
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4050, 
+        "PERCENT": 100, 
+        "LAND_USE": "Special Schools", 
+        "ORIG_FID": 44339
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.58275344651953, 
+          53.563952623567566
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4050, 
+        "PERCENT": 100, 
+        "LAND_USE": "Special Schools", 
+        "ORIG_FID": 44340
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49316740670027, 
+          53.561371654417236
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4050, 
+        "PERCENT": 100, 
+        "LAND_USE": "Special Schools", 
+        "ORIG_FID": 44341
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.55605475865522, 
+          53.57291502363597
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4050, 
+        "PERCENT": 100, 
+        "LAND_USE": "Special Schools", 
+        "ORIG_FID": 44342
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44529713013719, 
+          53.588197753171194
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4050, 
+        "PERCENT": 100, 
+        "LAND_USE": "Special Schools", 
+        "ORIG_FID": 44343
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.56779115583434, 
+          53.59512255467027
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": 4050, 
+        "PERCENT": 100, 
+        "LAND_USE": "Special Schools", 
+        "ORIG_FID": 44344
+      }
+    }
+  ]
+}

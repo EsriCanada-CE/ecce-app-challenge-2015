@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+		<meta name="author" content="Flux User">
+		<meta name="description" content="My Website">
+		<meta name="keywords" content="Flux, Mac">
+		<link href="main.css" rel="stylesheet" media="screen" type="text/css">
+		<link rel="stylesheet" href="http://js.arcgis.com/3.12/esri/css/esri.css">
+		<title>Vancouver Community Portal</title>
+		
+		<script src="http://js.arcgis.com/3.12/"></script>
+	    <script>
+	      var map;
+	
+	      require(["esri/map", "dojo/domReady!"], function(Map) {
+	        map = new Map("mapdiv", {
+	          basemap: "topo",
+	          center: [-123.12, 49.29], // longitude, latitude
+	          zoom: 13
+	        });
+	      });
+	    </script>	
+	</head>
+<body>
+	<div id="toparea" style="position:absolute;top:6px;left:1px;width:1150px;height:100px; background: #f1f1f1" >
+	
+	<h2 style="position:relative;left:0px;top:-1px">Jin, You are useless!</h2>
+	<p>say hi to Vancouver!!!</p>
+	</div>
+	
+	
+	<div id="user_search" style="position:absolute;top:113px;left:1px;width:250px;height:174px" >
+		<div class="check_box">
+	    <input type="checkbox" /> Housing <br />
+	    <input type="checkbox" /> Health <br />
+	    <input type="checkbox" /> Parks & Recreation<br />
+	    <input type="checkbox" /> Education <br />
+	    <input type="checkbox" /> Transportation<br />
+	    <input type="checkbox" /> Public Services <br />
+	    <input type="checkbox" /> Emergency Management <br />
+	    </div>
+	</div>
+	
+	
+
+	<div id="mapdiv" style="position:absolute;top:113px;left:260px;width:600px;height:600px" >
+	</div>
+	
+	
+	<div id="user_input" style="position:absolute;top:113px;left:870px;width:180px;height:174px" >
+		<h3>Please Contribute Your Info:</h3>
+		<form action='tempconvert.asmx/CelsiusToFahrenheit' method="post" target="_blank">
+		<table>
+		<tr>
+		    <td>Category:</td>
+		    
+		    <td>
+		    <select>
+			  <option value="Housing">Housing</option>
+			  <option value="Health">Health</option>
+			  <option value="Park&Recreation">Park & Recreation</option>
+			  <option value="Education">Education</option>
+			  <option value="Transportation">Transportation</option>
+			  <option value="PublicService">Public Service</option>
+			  <option value="EmergencyManagement">Emergency Management</option>
+			</select>
+			</td>
+		    <td>
+		    <input class="frmInput" type="text" size="30" name="Celsius"> </br>
+		    </td>
+		  </tr>
+
+		  <tr>
+		    <td>Value:</td>
+		    <td>
+		    <input class="frmInput" type="text" size="30" name="Celsius"> </br>
+		    </td>
+		  </tr>
+		  <tr>
+		    <td></td>
+		    <td align="right">
+		    <input type="submit" value="GO!" class="button"> </br>
+		    </td>
+		  </tr>
+		</table>
+		</form>
+	</div>
+</body>
+</html>

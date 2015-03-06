@@ -1,0 +1,225 @@
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title>Feature Collection Parsing</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src="//cdn.jsdelivr.net/leaflet/0.7.3/leaflet.js"></script>
+<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="./js/esri-leaflet.js"></script>
+<script src="./js/jquery-sidebar.js"></script>
+<script src="./js/esri-leaflet-geocoder.js"></script>
+
+
+<script type="text/javascript" src="./lib/bootstrap/js/bootstrap.min.js"></script>
+
+
+<script type="text/javascript" src="./lib/jsts/javascript.util.js"></script>
+<script type="text/javascript" src="./lib/jsts/jsts.js"></script>
+<script type="text/javascript" src="./lib/date.format.js"></script>
+<script type="text/javascript" src="./lib/geohash.js"></script>
+
+<script type="text/javascript" src="/js/leaflet-dvf.js"></script>
+
+
+<!-- Load Leaflet from CDN-->
+<link rel="stylesheet" type="text/css" href="./css/esri-leaflet-geocoder.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/leaflet/0.7.3/leaflet.css" />
+<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+<link href="./lib/bootstrap/css/bootstrap.css" rel="stylesheet">
+
+<link rel="stylesheet" href="./css/ol3-sidebar.css" />
+<link rel="stylesheet" href="./css/dvf.css" type="text/css" media="screen" />
+  <style>
+    body {margin:0;padding:0;overflow: hidden;}
+    #map {position: absolute;top:0;bottom:0;right:0;left:0;}
+	@page { margin: 0.79in }
+		p { margin-bottom: 0.1in; line-height: 120% }
+		td p { margin-bottom: 0in }
+		a:link { so-language: zxx }
+
+
+.leaflet-popup-content {
+overflow: auto;
+max-height: 300px;
+}
+
+	.lorem {
+		    font-style: bold;
+		    color: #AAA;
+		}
+	.info {
+	    padding: 6px 8px;
+	    font: 14px/16px Arial, Helvetica, sans-serif;
+	    background: white;
+	    background: rgba(255,255,255,0.8);
+	    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+	    border-radius: 5px;
+	}
+
+	.info h4 {
+	    margin: 0 0 5px;
+	    color: #777;}
+	.legend {
+	    line-height: 18px;
+	    color: #555;
+	}
+	.legend i {
+	    width: 18px;
+	    height: 18px;
+	    float: left;
+	    margin-right: 8px;
+	    opacity: 0.7;
+	}
+
+</style>
+</head>
+<body>
+<div id="sidebar" class="sidebar collapsed">
+        <!-- Nav tabs -->
+        <ul class="sidebar-tabs" role="tablist">
+            <li><a href="#home" role="tab"><i class="fa fa-bars"></i></a></li>
+            <li><a href="#profile" role="tab"><i class="fa fa-user"></i></a></li>
+            <li><a href="#messages" role="tab"><i class="fa fa-envelope"></i></a></li>
+            <li><a href="#settings" role="tab"><i class="fa fa-gear"></i></a></li>
+        </ul>
+
+        <!-- Tab panes -->
+        <div class="sidebar-content active">
+            <div class="sidebar-pane" id="home">
+                <h1>sidebar-v2</h1>
+
+               <h4 style="text-align: center;"><strong>Welcome to Community Open Data Engage (CODE)!</strong></h4>
+<p style="text-align: justify;">You will be able to interact with several open data-sets that can help give you insights on the conditions of your local community.</p>
+<p style="text-align: justify;">CODE is an application designed to help facilitate a better understanding of the neighbourhoods we live in through open-data. It provides a tool for citizens to explore and make sense of their community through comprehensive neighborhood profiles. It also provides a platform for citizens to engage with each other through social media and voluneteered content.</p>
+<p style="text-align: justify;">CODE consists of three core components: an interactive visualization to explore spatial data; a community feedback tool to share comments and critical input with fellow citizens and cities; and a social media plug-in to participate in real-time community based Twitter discussions.</p>
+            </div>
+            <div class="sidebar-pane" id="profile"><h1>Meet the Neighbors</h1>
+<p class="lorem">Lots of people are on social media these days and with CODE you can find people in your local area. Here we have a search around your area for people on Twitter. You can see how many followers they have and send them a message by clicking the link. Give it a try and meet someone!</p>
+<table width="100%" cellpadding="4" cellspacing="0">
+	<col width="85*">
+	<col width="85*">
+	<col width="85*">
+	<tr>
+		<td width="33%" style="border-top: 1px dotted #000000; border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
+			<p align="center"><font face="helvetica, sans-serif"><font size="4" style="font-size: 14pt"><b>Local
+			User</b></font></font></p>
+		</td>
+		<td width="33%" style="border-top: 1px dotted #000000; border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
+			<p align="center"><font face="helvetica, sans-serif"><font size="4" style="font-size: 14pt"><b>Number of Followers
+			</b></p>
+		</td>
+		<td width="33%" style="border: 1px dotted #000000; padding: 0.04in">
+			<p align="center"><font face="helvetica, sans-serif"><font size="4" style="font-size: 14pt"><b>Send a Message
+			</b></font></font>
+			</p>
+			
+		</td>
+	</tr>
+	<tr>
+		<td width="33%" height="53" style="border-top: none; border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; border-right: none; padding-top: 0.1in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
+			<p align="center" style="margin-bottom: 0in"><img src="https://pbs.twimg.com/profile_images/537836138187071490/T8f_hu6s.jpeg" name="Image2" align="center" width="75" height="75" border="0"/>
+<br/></p>
+			<p align="center"><font face="helvetica, sans-serif"><font size="2" style="font-size: 11pt">Aman Dhanji</font></font></p>
+		</td>
+
+		<td width="33%" style="border-top: none; border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
+			<p align="center"><font face="helvetica, sans-serif"><font size="4" style="font-size: 14pt">43</font></font></p>
+		</td>
+
+		<td width="33%" style="border-top: none; border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; border-right: 1px dotted #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
+			<p align="center"><a href="https://twitter.com/amanmama" target="_blank"><img src="./img/envelope.png" name="Image1" align="center" width="55" height="32" border="0"/>
+<br/>
+
+			</p>
+		</td>
+	</tr>
+	
+	<tr>
+		<td width="33%" height="53" style="border-top: none; border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; border-right: none; padding-top: 0.1in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
+			<p align="center" style="margin-bottom: 0in"><img src="https://pbs.twimg.com/profile_images/1635845275/Friday_fishing.jpg" name="Image2" align="center" width="75" height="75" border="0"/>
+<br/></p>
+			<p align="center"><font face="helvetica, sans-serif"><font size="2" style="font-size: 11pt">Bill Cooper</font></font></p>
+		</td>
+
+		<td width="33%" style="border-top: none; border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
+			<p align="center"><font face="helvetica, sans-serif"><font size="4" style="font-size: 14pt">489</font></font></p>
+		</td>
+
+		<td width="33%" style="border-top: none; border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; border-right: 1px dotted #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
+			<p align="center"><a href="https://twitter.com/wjgcooper" target="_blank"><img src="./img/envelope.png" name="Image1" align="center" width="55" height="32" border="0"/>
+<br/>
+
+			</p>
+		</td>
+	</tr>
+	
+	
+	<tr>
+		<td width="33%" height="53" style="border-top: none; border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; border-right: none; padding-top: 0.1in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
+			<p align="center" style="margin-bottom: 0in"><img src="https://pbs.twimg.com/profile_images/526526333287804928/lw0X-c-5.jpeg" name="Image2" align="center" width="75" height="75" border="0"/>
+<br/></p>
+			<p align="center"><font face="helvetica, sans-serif"><font size="2" style="font-size: 11pt">Jay Holtslander</font></font></p>
+		</td>
+
+		<td width="33%" style="border-top: none; border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
+			<p align="center"><font face="helvetica, sans-serif"><font size="4" style="font-size: 14pt">1310</font></font></p>
+		</td>
+
+		<td width="33%" style="border-top: none; border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; border-right: 1px dotted #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
+			<p align="center"><a href=https://twitter.com/j_holtslander" target="_blank"><img src="./img/envelope.png" name="Image1" align="center" width="55" height="32" border="0"/>
+<br/>
+
+			</p>
+		</td>
+	</tr>
+	
+<tr>
+		<td width="33%" height="53" style="border-top: none; border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; border-right: none; padding-top: 0.1in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
+			<p align="center" style="margin-bottom: 0in"><img src="https://pbs.twimg.com/profile_images/572251529944391680/ce6b61kE.jpeg" name="Image2" align="center" width="75" height="75" border="0"/>
+<br/></p>
+			<p align="center"><font face="helvetica, sans-serif"><font size="2" style="font-size: 11pt">Ginny Monaco</font></font></p>
+		</td>
+
+		<td width="33%" style="border-top: none; border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
+			<p align="center"><font face="helvetica, sans-serif"><font size="4" style="font-size: 14pt">1106</font></font></p>
+		</td>
+
+		<td width="33%" style="border-top: none; border-bottom: 1px dotted #000000; border-left: 1px dotted #000000; border-right: 1px dotted #000000; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
+			<p align="center"><a href="https://twitter.com/ginnymonaco" target="_blank"><img src="./img/envelope.png" name="Image1" align="center" width="55" height="32" border="0"/>
+<br/>
+
+			</p>
+		</td>
+	</tr>
+	
+</table>
+
+</div>
+            <div class="sidebar-pane" id="messages"><h1>Messages</h1>
+
+
+
+
+</div>
+            <div class="sidebar-pane" id="settings"><h1>Settings</h1>
+              
+            
+              
+            
+              
+            </div>
+        </div>
+    </div>
+<div id="map" class="sidebar-map"></div>
+
+
+<script type="text/javascript" src="/js/edmon_data_complete.js"></script>
+<script type="text/javascript" src="/js/map.js"></script>
+
+</body>
+</html>
+
+

@@ -1,0 +1,277 @@
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title>I am good</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src="//cdn.jsdelivr.net/leaflet/0.7.3/leaflet.js"></script>
+<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="./js/esri-leaflet.js"></script>
+<script src="./js/jquery-sidebar.js"></script>
+<script src="./js/esri-leaflet-geocoder.js"></script>
+<link rel="stylesheet" type="text/css" href="./css/esri-leaflet-geocoder.css">
+
+<!-- Load Leaflet from CDN-->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/leaflet/0.7.3/leaflet.css" />
+<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="./css/ol3-sidebar.css" />
+
+  <style>
+    body {margin:0;padding:0;overflow: hidden;}
+    #map {position: absolute;top:0;bottom:0;right:0;left:0;}
+
+
+	.lorem {
+		    font-style: italic;
+		    color: #AAA;
+		}
+	.info {
+	    padding: 6px 8px;
+	    font: 14px/16px Arial, Helvetica, sans-serif;
+	    background: white;
+	    background: rgba(255,255,255,0.8);
+	    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+	    border-radius: 5px;
+	}
+
+	.info h4 {
+	    margin: 0 0 5px;
+	    color: #777;
+</style>
+</head>
+<body>
+<div id="sidebar" class="sidebar collapsed">
+        <!-- Nav tabs -->
+        <ul class="sidebar-tabs" role="tablist">
+            <li><a href="#home" role="tab"><i class="fa fa-bars"></i></a></li>
+            <li><a href="#profile" role="tab"><i class="fa fa-user"></i></a></li>
+            <li><a href="#messages" role="tab"><i class="fa fa-envelope"></i></a></li>
+            <li><a href="#settings" role="tab"><i class="fa fa-gear"></i></a></li>
+        </ul>
+
+        <!-- Tab panes -->
+        <div class="sidebar-content active">
+            <div class="sidebar-pane" id="home">
+                <h1>sidebar-v2</h1>
+
+                <p>A responsive sidebar for mapping libraries like <a href="http://leafletjs.com/">Leaflet</a> or <a href="http://openlayers.org/">OpenLayers</a>.</p>
+
+                <p class="lorem">Lorem ipsum .</p>
+
+                <p class="lorem">Lorem.</p>
+
+                <p class="lorem">Lorem ipsum dolor .</p>
+
+                <p class="lorem">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. .</p>
+            </div>
+            <div class="sidebar-pane" id="profile"><h1>Profile</h1></div>
+            <div class="sidebar-pane" id="messages"><h1>Messages</h1></div>
+            <div class="sidebar-pane" id="settings"><h1>Settings</h1>
+              
+              <!--here comes the radio buttons-->
+              
+              
+              <input type="radio" name="r1" value="van_health" onClick="switchJSON(this)"/>Health
+                <br/>
+                <input type="radio" name="r1" value="van_education" onClick="switchJSON(this)"/>Education
+                <br/>
+                 <br/>
+                 <br/>
+              
+            </div>
+        </div>
+    </div>
+<div id="map" class="sidebar-map"></div>
+
+
+
+
+
+<script>
+ var gray = L.esri.basemapLayer('Gray'),
+	topo = L.esri.basemapLayer('Topographic'),
+	Stamen_Watercolor = L.tileLayer('http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.png', {
+		attribution: '',
+		subdomains: 'abcd',
+		minZoom: 1,
+		maxZoom: 16
+	});
+
+// the switch geojson fuction
+
+var FileName="data.json";
+
+function switchJSON()
+{
+       var rates = document.getElementsByName('r1');
+      var rate_value;
+      for(var i = 0; i < rates.length; i++){
+          if(rates[i].checked){
+              rate_value = rates[i].value;
+          }
+        }
+        FileName=rate_value+".json";
+        alert("Now we use"+ FileName);
+        
+}
+
+
+
+//initialize basemap to esri gray
+var map = L.map('map');
+gray.addTo(map);
+
+//adding layers and features
+L.esri.get(FileName, {}, function(error, response) {
+	var features = response;
+	console.log(features);
+	geojson = L.geoJson(features, {
+			style: style,
+			onEachFeature: onEachFeature
+		})
+		.addTo(map);
+
+/*https://groups.google.com/forum/#!topic/leaflet-js/rKMZX3PKFuI*/
+var cities = L.layerGroup([geojson]);
+var baseMaps = {
+	"Grayscale": gray,
+	"Streets": topo,
+	"Colorful": Stamen_Watercolor
+};
+var overlayMaps = {
+    "Cities": cities
+};
+
+
+var layerControl = L.control.layers(baseMaps,overlayMaps,{collapsed:false});
+
+layerControl.addTo(map);
+layerControl._container.remove();
+document.getElementById('settings')
+	.appendChild(layerControl.onAdd(map,{collapsed:false}));
+
+
+	function getColor(d) {
+		return d > 59350368 ? '#800026' : 
+		d == 59350358 ? '#BD0026' : 
+		d == 59350364 ? '#E31A1C' : 
+		d < 59350310 ? '#FC4E2A' : 
+		d == 59350321 ? '#FD8D3C' : 
+		d > 59350317 ? '#FEB24C' : 
+		d < 59350366 ? '#FED976' : '#FFEDA0';
+	}
+
+	function style(feature) {
+		return {
+			fillColor: getColor(feature.properties.DAUID),
+			weight: 2,
+			opacity: 1,
+			color: 'white',
+			dashArray: '3',
+			fillOpacity: 0.7
+		};
+	}
+
+	function highlightFeature(e) {
+		var layer = e.target;
+		layer.setStyle({
+			weight: 5,
+			color: '#666',
+			dashArray: '',
+			fillOpacity: 0.7
+		});
+		if (!L.Browser.ie && !L.Browser.opera) {
+			layer.bringToFront();
+		}
+		info.update(layer.feature.properties);
+	}
+
+	function resetHighlight(e) {
+		geojson.resetStyle(e.target);
+		info.update();
+	}
+
+	function zoomToFeature(e) {
+		map.fitBounds(e.target.getBounds());
+	}
+
+
+
+	function onEachFeature(feature, layer) {
+	  
+	  // var popup_content = 'Testing the Link: <a href="#" class="speciallink">TestLink</a>'+
+    // '<scr'+'ipt> $(".speciallink").on("click", function(){alert("hello from inside the'
+    // +'popup")});</scr'+'ipt>';
+
+var link = $('<a href="#" class="speciallink">TestLink</a>').click(function() {
+    alert("test");
+})[0];
+		layer.bindPopup(
+		'The tempearture is <div class="speciallink"/>'
+    );
+		layer.on({
+			mouseover: highlightFeature,
+			mouseout: resetHighlight,
+			click: zoomToFeature,
+			click: showGraph
+			
+		});
+		
+	 function showGraph(){
+  map.on('popupopen', function() {
+      $('.speciallink').append("p").text(feature.properties.DAUID);
+      d3.select('.speciallink').append("svg").attr("width", 50).attr("height", 50).append("circle").attr("cx", 25).attr("cy", 25).attr("r", 25).style("fill", "purple");
+    
+    
+    });
+  }
+	
+	
+		
+		// map.on('popupopen', function(e) {
+    // var cont = document.getElementsByClassName('leaflet-popup-content')[0];    
+    // var lst = cont.getElementsByTagName('script');
+    // for (var i=0; i<lst.length;i++) {
+        // eval(lst[i].innerText)
+        // }
+    // });
+	}
+	
+	
+	//popup event
+	
+	
+	var searchControl = new L.esri.Geocoding.Controls.Geosearch()
+		.addTo(map);
+	var results = new L.LayerGroup()
+		.addTo(map);
+	searchControl.on('results', function(data) {
+		results.clearLayers();
+		for (var i = data.results.length - 1; i >= 0; i--) {
+			results.addLayer(L.marker(data.results[i].latlng));
+			results.clearLayers();
+		}
+	});
+	var info = L.control();
+	info.onAdd = function(map) {
+		this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+		this.update();
+		return this._div;
+	};
+	// method that we will use to update the control based on feature properties passed
+	info.update = function(props) {
+		this._div.innerHTML = '<h4>Community Info</h4>' + (props ? '<b>' + props.CMANAME + '</b><br />' + props.CDNAME + ' ' : 'Select Your Community');
+	};
+	info.addTo(map);
+	var sidebar = $('#sidebar')
+		.sidebar();
+	map.fitBounds(geojson.getBounds());
+});
+
+</script>
+
+</body>
+</html>
+
+

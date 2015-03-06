@@ -1,0 +1,940 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45160585712455, 
+          53.4869066536192
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.22000000000e+003", 
+        "PERCENT": 78, 
+        "LAND_USE": "Museum or Archive", 
+        "OBJECTID": 1, 
+        "ORIG_FID": 8629
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.54395245004548, 
+          53.541833723347736
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.22000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Museum or Archive", 
+        "OBJECTID": 2, 
+        "ORIG_FID": 8630
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48902517617091, 
+          53.547139477904636
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.22000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Museum or Archive", 
+        "OBJECTID": 3, 
+        "ORIG_FID": 8631
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48410079711408, 
+          53.54289768967669
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.22000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Museum or Archive", 
+        "OBJECTID": 4, 
+        "ORIG_FID": 8632
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50019095724684, 
+          53.55415270957991
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.22000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Museum or Archive", 
+        "OBJECTID": 5, 
+        "ORIG_FID": 8633
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48788753018533, 
+          53.5575938943428
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.22000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Museum or Archive", 
+        "OBJECTID": 6, 
+        "ORIG_FID": 8634
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49424646190465, 
+          53.5608263113852
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.22000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Museum or Archive", 
+        "OBJECTID": 7, 
+        "ORIG_FID": 8635
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47234959335901, 
+          53.430000221033424
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 8, 
+        "ORIG_FID": 18311
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.62355552276915, 
+          53.43746000927206
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 9, 
+        "ORIG_FID": 18312
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.40001136193479, 
+          53.44899904227202
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 10, 
+        "ORIG_FID": 18313
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.41387054508954, 
+          53.4448765724959
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 11, 
+        "ORIG_FID": 18314
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44252293108838, 
+          53.45597637660853
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 12, 
+        "ORIG_FID": 18315
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4540619667863, 
+          53.46928914248002
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 13, 
+        "ORIG_FID": 18316
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47679682541315, 
+          53.472503669308935
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 14, 
+        "ORIG_FID": 18317
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45238528155545, 
+          53.530490759640884
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 15, 
+        "ORIG_FID": 18318
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44765725058164, 
+          53.491375147445126
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 16, 
+        "ORIG_FID": 18319
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.47782131420223, 
+          53.53520638536645
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 17, 
+        "ORIG_FID": 18320
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50238774829592, 
+          53.53859736547611
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 18, 
+        "ORIG_FID": 18321
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.52353152905681, 
+          53.540551494256135
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 19, 
+        "ORIG_FID": 18322
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.59361496316001, 
+          53.54159097384445
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 75, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 20, 
+        "ORIG_FID": 18323
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53200326593793, 
+          53.550717796689014
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 67, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 21, 
+        "ORIG_FID": 18324
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48514672753942, 
+          53.55103608294894
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 22, 
+        "ORIG_FID": 18325
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49424835857485, 
+          53.55213657614212
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 73, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 23, 
+        "ORIG_FID": 18326
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53540908396201, 
+          53.55831374768138
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 24, 
+        "ORIG_FID": 18327
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.53541115420137, 
+          53.560738311823684
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 25, 
+        "ORIG_FID": 18328
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4335608055867, 
+          53.566796296212146
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 26, 
+        "ORIG_FID": 18329
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4440668610967, 
+          53.57800473573002
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 27, 
+        "ORIG_FID": 18330
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.41882530504375, 
+          53.5706388978669
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 28, 
+        "ORIG_FID": 18331
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.54239299144336, 
+          53.58168076675406
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 29, 
+        "ORIG_FID": 18332
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44157882010643, 
+          53.58622815000916
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 30, 
+        "ORIG_FID": 18333
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.51401784934421, 
+          53.5879296565285
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 31, 
+        "ORIG_FID": 18334
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42190118249357, 
+          53.58796673557646
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 32, 
+        "ORIG_FID": 18335
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.46856448536266, 
+          53.544781951925586
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 33, 
+        "ORIG_FID": 18336
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48153513923523, 
+          53.54456911747087
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 34, 
+        "ORIG_FID": 18337
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.58796327988142, 
+          53.54829854214404
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 35, 
+        "ORIG_FID": 18338
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.62000779442411, 
+          53.54915359146514
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 36, 
+        "ORIG_FID": 18339
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48729125268915, 
+          53.54922515951358
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 37, 
+        "ORIG_FID": 18340
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.4218951318548, 
+          53.58918618479464
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 38, 
+        "ORIG_FID": 18341
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.32504497424611, 
+          53.60977767120261
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 39, 
+        "ORIG_FID": 18342
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48085676982402, 
+          53.545221228476976
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 40, 
+        "ORIG_FID": 18343
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.6042795736434, 
+          53.597801044282846
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 41, 
+        "ORIG_FID": 18344
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.50055247391748, 
+          53.54895436914887
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 42, 
+        "ORIG_FID": 18345
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48998902727175, 
+          53.54871892214061
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 43, 
+        "ORIG_FID": 18346
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.56716601509947, 
+          53.594228263523576
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.29000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Other Community Facility", 
+        "OBJECTID": 44, 
+        "ORIG_FID": 18347
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48856073568936, 
+          53.54491829274508
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.23000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Art Gallery", 
+        "OBJECTID": 45, 
+        "ORIG_FID": 41665
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.42710615542472, 
+          53.456456351979114
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.21000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Library", 
+        "OBJECTID": 46, 
+        "ORIG_FID": 48741
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.58363937905409, 
+          53.46811894373434
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.21000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Library", 
+        "OBJECTID": 47, 
+        "ORIG_FID": 48742
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49809975020327, 
+          53.51930595700435
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.21000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Library", 
+        "OBJECTID": 48, 
+        "ORIG_FID": 48743
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.49703229810206, 
+          53.51978345654135
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.21000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Library", 
+        "OBJECTID": 49, 
+        "ORIG_FID": 48744
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5909676747184, 
+          53.52358448793382
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.21000000000e+003", 
+        "PERCENT": 51, 
+        "LAND_USE": "Library", 
+        "OBJECTID": 50, 
+        "ORIG_FID": 48745
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.45688448992723, 
+          53.52384272825935
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.21000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Library", 
+        "OBJECTID": 51, 
+        "ORIG_FID": 48746
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48969340033011, 
+          53.542860318349085
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.21000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Library", 
+        "OBJECTID": 52, 
+        "ORIG_FID": 48747
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.55364756348422, 
+          53.564034850528
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.21000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Library", 
+        "OBJECTID": 53, 
+        "ORIG_FID": 48748
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.44499259892928, 
+          53.57077188421516
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.21000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Library", 
+        "OBJECTID": 54, 
+        "ORIG_FID": 48749
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.48676011218942, 
+          53.56715333066171
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CODE": "4.21000000000e+003", 
+        "PERCENT": 100, 
+        "LAND_USE": "Library", 
+        "OBJECTID": 55, 
+        "ORIG_FID": 48750
+      }
+    }
+  ]
+}
