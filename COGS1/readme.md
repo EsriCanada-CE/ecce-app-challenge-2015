@@ -1,4 +1,4 @@
-# Welcome to the Let's Walk! App!
+﻿# Welcome to the Let's Walk! App!
 
 Mark Kirby, 
 Ryan Ruthart, &
@@ -47,12 +47,12 @@ Happy Walking!
 ----
 ## Video
 
-This [LINK](insert youtube link here) shows a demonstration of the **Let's Walk!** App.
+This [LINK](https://ryanruthart-gmail.tinytake.com/sf/ODEyMDNfNTU5OTU2) shows a demonstration of the **Let's Walk!** App.
 
 ----
 ## More Information
->We chose to complete this app using ArcMap and python, which allow us to launch the results into ArcGIS Online to
-play to our strengths of python coding. We believe that this would be an interesting app to
+>We chose to complete this app using ArcMap and python addin, which allow us to launch the results into ArcGIS Online 
+to play to our strengths of python coding. We believe that this would be an interesting app to
 pursue using JavaScript and the Web AppBuilder for ArcGIS (Developer Edition) in the future. 
 
 ----
