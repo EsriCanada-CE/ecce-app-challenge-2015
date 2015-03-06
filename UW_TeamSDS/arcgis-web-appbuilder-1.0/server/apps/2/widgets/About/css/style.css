@@ -32,3 +32,23 @@
   color: #fff;
   max-height: 388px;
 }
+
+/* unvisited link - Changed by JVD */
+a:link {
+    color: #0000FF;
+}
+
+/* visited link - Changed by JVD */
+a:visited {
+    color: #0000FF;
+}
+
+/* mouse over link - Changed by JVD */
+a:hover {
+    color: #FF0000;
+}
+
+/* selected link - Changed by JVD */
+a:active {
+    color: #0000FF;
+}

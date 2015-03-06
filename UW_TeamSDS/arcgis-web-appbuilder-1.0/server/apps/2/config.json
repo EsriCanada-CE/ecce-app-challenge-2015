@@ -13,8 +13,8 @@
   },
   "portalUrl": "http://uw-teamsds.maps.arcgis.com",
   "title": "PredictION",
-  "subtitle": "by UW Team SDS",
-  "logo": "images/app-logo.png",
+  "subtitle": "",
+  "logo": "images\\logo.png",
   "geometryService": "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer",
   "links": [],
   "widgetOnScreen": {
@@ -231,40 +231,24 @@
         "id": "widgets/About/Widget_43"
       },
       {
-        "name": "Geoprocessing",
-        "label": "Routing: GRT",
+        "name": "Query",
+        "label": "Routing",
         "version": "1.1",
-        "uri": "widgets/Geoprocessing/Widget",
-        "config": "configs/Geoprocessing/config_Routing: GRT.json",
+        "icon": "configs\\Query\\icon_Routing.png",
+        "uri": "widgets/Query/Widget",
+        "config": "configs/Query/config_Routing.json",
         "index": 3,
-        "id": "widgets/Geoprocessing/Widget_44"
+        "id": "widgets/Query/Widget_50"
       },
       {
-        "name": "Geoprocessing",
-        "label": "Routing: GRT + ION",
+        "name": "Query",
+        "label": "Service Area",
         "version": "1.1",
-        "uri": "widgets/Geoprocessing/Widget",
-        "config": "configs/Geoprocessing/config_Routing: GRT + ION.json",
+        "icon": "configs\\Query\\icon_Service Area.png",
+        "uri": "widgets/Query/Widget",
+        "config": "configs/Query/config_Service Area.json",
         "index": 4,
-        "id": "widgets/Geoprocessing/Widget_45"
-      },
-      {
-        "name": "Geoprocessing",
-        "label": "Service Areas: GRT",
-        "version": "1.1",
-        "uri": "widgets/Geoprocessing/Widget",
-        "config": "configs/Geoprocessing/config_Service Areas: GRT.json",
-        "index": 5,
-        "id": "widgets/Geoprocessing/Widget_46"
-      },
-      {
-        "name": "Geoprocessing",
-        "label": "Service Areas: GRT + ION",
-        "version": "1.1",
-        "uri": "widgets/Geoprocessing/Widget",
-        "index": 6,
-        "id": "widgets/Geoprocessing/Widget_47",
-        "config": "configs/Geoprocessing/config_Service Areas: GRT + ION.json"
+        "id": "widgets/Query/Widget_49"
       }
     ],
     "groups": []

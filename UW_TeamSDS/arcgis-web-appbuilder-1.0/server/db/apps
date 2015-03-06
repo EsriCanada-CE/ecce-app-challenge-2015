@@ -1,30 +1,6 @@
-{"k":"0000000078","o":"0000000262","v":"001"}
-{"_id":2,"_uid":2,"_dt":1425535346446,"_s":"d847b5e67e5512605faf3b86d12ee58e"}
-{"name":"ECCE App Challenge 2015","description":"UW Team SDS entry for the ECCE App Challenge 2015","lastUpdated":1425535346445,"is3D":"false","creator":"UW_TeamSDS","modified":"UW_TeamSDS","portalUrl":"//uw-teamsds.maps.arcgis.com","_id":{"$wrap":"$oid","v":2}}
-{"k":"0000000078","o":"0000000262","v":"001"}
-{"_id":2,"_uid":2,"_dt":1425591848833,"_s":"ddee235cf50617c02c5c93342c89a4a5"}
-{"name":"ECCE App Challenge 2015","description":"UW Team SDS entry for the ECCE App Challenge 2015","lastUpdated":1425591848830,"is3D":"false","creator":"UW_TeamSDS","modified":"UW_TeamSDS","portalUrl":"//uw-teamsds.maps.arcgis.com","_id":{"$wrap":"$oid","v":2}}
-{"k":"0000000078","o":"0000000262","v":"001"}
-{"_id":2,"_uid":2,"_dt":1425591881776,"_s":"0cabeaf0216527e8a41395c231600b36"}
-{"name":"ECCE App Challenge 2015","description":"UW Team SDS entry for the ECCE App Challenge 2015","lastUpdated":1425591881775,"is3D":"false","creator":"UW_TeamSDS","modified":"UW_TeamSDS","portalUrl":"//uw-teamsds.maps.arcgis.com","_id":{"$wrap":"$oid","v":2}}
-{"k":"0000000078","o":"0000000262","v":"001"}
-{"_id":2,"_uid":2,"_dt":1425601489125,"_s":"c9020113b3aa379d3d734b7f30051bab"}
-{"name":"ECCE App Challenge 2015","description":"UW Team SDS entry for the ECCE App Challenge 2015","lastUpdated":1425601489123,"is3D":"false","creator":"UW_TeamSDS","modified":"UW_TeamSDS","portalUrl":"//uw-teamsds.maps.arcgis.com","_id":{"$wrap":"$oid","v":2}}
-{"k":"0000000078","o":"0000000262","v":"001"}
-{"_id":2,"_uid":2,"_dt":1425605613585,"_s":"ba8679ad3df28eae590536f07fc43fe4"}
-{"name":"ECCE App Challenge 2015","description":"UW Team SDS entry for the ECCE App Challenge 2015","lastUpdated":1425605613584,"is3D":"false","creator":"UW_TeamSDS","modified":"UW_TeamSDS","portalUrl":"//uw-teamsds.maps.arcgis.com","_id":{"$wrap":"$oid","v":2}}
-{"k":"0000000078","o":"0000000262","v":"001"}
-{"_id":2,"_uid":2,"_dt":1425606172511,"_s":"dc6166881452ce4c930f015f4032c0a8"}
-{"name":"ECCE App Challenge 2015","description":"UW Team SDS entry for the ECCE App Challenge 2015","lastUpdated":1425606172510,"is3D":"false","creator":"UW_TeamSDS","modified":"UW_TeamSDS","portalUrl":"//uw-teamsds.maps.arcgis.com","_id":{"$wrap":"$oid","v":2}}
-{"k":"0000000078","o":"0000000262","v":"001"}
-{"_id":2,"_uid":2,"_dt":1425607541774,"_s":"f8a573b9c3655f0af50be74508a09445"}
-{"name":"ECCE App Challenge 2015","description":"UW Team SDS entry for the ECCE App Challenge 2015","lastUpdated":1425607541773,"is3D":"false","creator":"UW_TeamSDS","modified":"UW_TeamSDS","portalUrl":"//uw-teamsds.maps.arcgis.com","_id":{"$wrap":"$oid","v":2}}
-{"k":"0000000078","o":"0000000262","v":"001"}
-{"_id":2,"_uid":2,"_dt":1425608708627,"_s":"83a50434881ff853811c87a349720f1d"}
-{"name":"ECCE App Challenge 2015","description":"UW Team SDS entry for the ECCE App Challenge 2015","lastUpdated":1425608708626,"is3D":"false","creator":"UW_TeamSDS","modified":"UW_TeamSDS","portalUrl":"//uw-teamsds.maps.arcgis.com","_id":{"$wrap":"$oid","v":2}}
-{"k":"0000000078","o":"0000000262","v":"001"}
-{"_id":2,"_uid":2,"_dt":1425610652339,"_s":"8e26dd00257bd0f1f6f24cad341005e4"}
-{"name":"ECCE App Challenge 2015","description":"UW Team SDS entry for the ECCE App Challenge 2015","lastUpdated":1425610652338,"is3D":"false","creator":"UW_TeamSDS","modified":"UW_TeamSDS","portalUrl":"//uw-teamsds.maps.arcgis.com","_id":{"$wrap":"$oid","v":2}}
-{"k":"0000000078","o":"0000000262","v":"001"}
-{"_id":2,"_uid":2,"_dt":1425617238811,"_s":"50950d5ecfc3336d6f6a785090b9f55f"}
-{"name":"ECCE App Challenge 2015","description":"UW Team SDS entry for the ECCE App Challenge 2015","lastUpdated":1425617238810,"is3D":"false","creator":"UW_TeamSDS","modified":"UW_TeamSDS","portalUrl":"//uw-teamsds.maps.arcgis.com","_id":{"$wrap":"$oid","v":2}}
+{"k":"0000000078","o":"0000000249","v":"001"}
+{"_id":2,"_uid":2,"_dt":1425669676673,"_s":"cab638ce5c7e03a13057c93ab8a9bc2a"}
+{"name":"PredictION","description":"UW Team SDS entry for the ECCE App Challenge 2015","lastUpdated":1425669676672,"is3D":"false","creator":"UW_TeamSDS","modified":"UW_TeamSDS","portalUrl":"//uw-teamsds.maps.arcgis.com","_id":{"$wrap":"$oid","v":2}}
+{"k":"0000000078","o":"0000000249","v":"001"}
+{"_id":2,"_uid":2,"_dt":1425675912769,"_s":"38644b7d334b450696d2b042eda0f67a"}
+{"name":"PredictION","description":"UW Team SDS entry for the ECCE App Challenge 2015","lastUpdated":1425675912764,"is3D":"false","creator":"UW_TeamSDS","modified":"UW_TeamSDS","portalUrl":"//uw-teamsds.maps.arcgis.com","_id":{"$wrap":"$oid","v":2}}
