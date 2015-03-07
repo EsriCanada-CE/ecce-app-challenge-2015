@@ -1,0 +1,170 @@
+Styles
+
+
+//in L.geoJson options, add
+
+	pointToLayer: placeIcons
+	
+function placeIcons(feature, latlng){
+    return new L.marker(latlng, {icon :school});
+}
+function placeIcons(feature, latlng){
+    return new L.marker(latlng, {icon :gas});
+}
+function placeIcons(feature, latlng){
+    return new L.marker(latlng, {icon :cult});
+}
+function placeIcons(feature, latlng){
+    return new L.marker(latlng, {icon :grocery});
+}
+function placeIcons(feature, latlng){
+    return new L.marker(latlng, {icon :hosp});
+}
+function placeIcons(feature, latlng){
+    return new L.marker(latlng, {icon :park});
+}
+function placeIcons(feature, latlng){
+    return new L.marker(latlng, {icon :police});
+}
+	
+var school = L.icon({
+	iconUrl: './img/school.svg',
+});
+var gas = L.icon({
+	iconUrl: './img/gas.svg',
+});
+var culture = L.icon({
+	iconUrl: './img/cult.svg',
+});
+var grocery = L.icon({
+	iconUrl: './img/grocery.svg',
+});
+var hosp = L.icon({
+	iconUrl: './img/hosp.svg',
+});
+var park = L.icon({
+	iconUrl: './img/park.svg',
+});
+var police = L.icon({
+	iconUrl: './img/police.svg',
+});
+
+
+Avg house Value
+    function getColor(d) {
+        return d >= 0 & d < 131433 ? '#ffffcc' :
+            d >= 131433 & d < 312580 ? '#ffeda0' :
+			d >= 312580 & d < 433296? '#fd8d3c' :
+			d >= 433296 & d < 568988 ? '#e31a1c' :
+			d >= 568988 ? '#800026' : '#FFEDA0';
+    }
+
+    function style(feature) {
+        return {
+            fillColor: getColor(feature.properties.Avg_Home_V),
+            fillOpacity: 0.4,
+			color: 'black',
+			weight: 1
+
+        };
+    }
+	
+Total Population
+
+    function getColor(d) {
+        return d >= 0 & d < 700 ? '#ffffd4' :
+            d >= 700 & d < 1300 ? '#fed98e' :
+			d >= 1300 & d < 3000? '#fe9929' :
+			d >= 6000 & d < 13000 ? '#d95f0e' :
+			d >= 13000 ? '#993404' : '#FFEDA0';
+    }
+
+    function style(feature) {
+        return {
+            fillColor: getColor(feature.properties.Tot_Pop),
+            fillOpacity: 0.6,
+			color: 'black',
+			weight: 1
+
+        };
+    }
+
+Average Income
+
+    function getColor(d) {
+        return d >= 0 & d < 20500 ? '#fee5d9' :
+            d >= 20500 & d < 30870 ? '#fcae91' :
+			d >= 30870 & d < 38683 ? '#fb6a4a' :
+			d >= 38683 & d < 50862 ? '#de2d26' :
+			d >= 50862 ? '#a50f15' : '#FFEDA0';
+    }
+
+    function style(feature) {
+        return {
+            fillColor: getColor(feature.properties.Avg_Inc),
+            fillOpacity: 0.6,
+			color: 'black',
+			weight: 1
+
+        };
+    }
+	
+% Green Space
+
+    function getColor(d) {
+        return d >= 0 & d < 2 ? '#edf8fb' :
+            d >= 2 & d < 6 ? '#b2e2e2' :
+			d >= 6 & d < 10 ? '#66c2a4' :
+			d >= 10 & d < 18 ? '#2ca25f' :
+			d >= 18 ? '#006d2c' : '#aaaaaa';
+    }
+
+    function style(feature) {
+		return {
+            fillColor: getColor('feature.properties.\%_Green_Sp'),
+            fillOpacity: 0.6,
+			color: 'black',
+			weight: 1
+
+        };
+    }
+	
+% Owned
+
+    function getColor(d) {
+        return d >= 0 & d < 12 ? '#eff3ff' :
+            d >= 12 & d < 40 ? '#bdd7e7' :
+			d >= 40 & d < 65 ? '#6baed6' :
+			d >= 65 & d < 83 ? '#3182bd' :
+			d >= 83 ? '#08519c' : '#aaaaaa';
+    }
+
+    function style(feature) {
+		return {
+            fillColor: getColor('feature.properties.\%_Owned'),
+            fillOpacity: 0.6,
+			color: 'black',
+			weight: 1
+
+        };
+    }
+	
+Walkscore
+
+    function getColor(d) {
+        return d >= 0 & d < 12 ? '#feebe2wal' :
+            d >= 12 & d < 40 ? '#fbb4b9' :
+			d >= 40 & d < 65 ? '#f768a1' :
+			d >= 65 & d < 83 ? '#c51b8a' :
+			d >= 83 ? '#7a0177' : '#aaaaaa';
+    }
+
+    function style(feature) {
+		return {
+            fillColor: getColor(feature.properties.walkscore),
+            fillOpacity: 0.6,
+			color: 'black',
+			weight: 1
+
+        };
+    }
