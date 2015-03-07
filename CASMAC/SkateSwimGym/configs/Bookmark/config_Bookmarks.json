@@ -1,0 +1,1230 @@
+{
+  "bookmarks2D": [
+    {
+      "name": "Ancaster Aquatic Centre",
+      "extent": {
+        "type": "extent",
+        "xmin": -8906945.765084382,
+        "ymin": 5344307.651482722,
+        "xmax": -8905560.343946677,
+        "ymax": 5345263.114336312,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8906945.765084382,
+              "ymin": 5344307.651482722,
+              "xmax": -8905560.343946677,
+              "ymax": 5345263.114336312,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_453.jpeg"
+    },
+    {
+      "name": "Ancaster Rotary Centre",
+      "extent": {
+        "type": "extent",
+        "xmin": -8908018.725991953,
+        "ymin": 5344087.895026369,
+        "xmax": -8905247.883716542,
+        "ymax": 5345998.820733549,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8908018.725991953,
+              "ymin": 5344087.895026369,
+              "xmax": -8905247.883716542,
+              "ymax": 5345998.820733549,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_454.jpeg"
+    },
+    {
+      "name": "Bennetto Community Centre",
+      "extent": {
+        "type": "extent",
+        "xmin": -8891428.111871975,
+        "ymin": 5352295.320938496,
+        "xmax": -8888657.269596564,
+        "ymax": 5354206.246645676,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8891428.111871975,
+              "ymin": 5352295.320938496,
+              "xmax": -8888657.269596564,
+              "ymax": 5354206.246645676,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_455.jpeg"
+    },
+    {
+      "name": "Beverly Arena",
+      "extent": {
+        "type": "extent",
+        "xmin": -8919216.199161632,
+        "ymin": 5356755.791212576,
+        "xmax": -8916445.356886221,
+        "ymax": 5358666.7169197565,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8919216.199161632,
+              "ymin": 5356755.791212576,
+              "xmax": -8916445.356886221,
+              "ymax": 5358666.7169197565,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_456.jpeg"
+    },
+    {
+      "name": "Carlisle Community Centre and Arena",
+      "extent": {
+        "type": "extent",
+        "xmin": -8908987.13046329,
+        "ymin": 5368205.568943195,
+        "xmax": -8897903.761361955,
+        "ymax": 5375849.271771703,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8908987.13046329,
+              "ymin": 5368205.568943195,
+              "xmax": -8897903.761361955,
+              "ymax": 5375849.271771703,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_457.jpeg"
+    },
+    {
+      "name": "Central Memorial Recreation Centre",
+      "extent": {
+        "type": "extent",
+        "xmin": -8891284.792443942,
+        "ymin": 5349085.626980157,
+        "xmax": -8888513.950168531,
+        "ymax": 5350996.552687337,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8891284.792443942,
+              "ymin": 5349085.626980157,
+              "xmax": -8888513.950168531,
+              "ymax": 5350996.552687337,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_458.png"
+    },
+    {
+      "name": "Chedoke Twin Pad Arena",
+      "extent": {
+        "type": "extent",
+        "xmin": -8897378.591314154,
+        "ymin": 5347910.70498971,
+        "xmax": -8895993.170176448,
+        "ymax": 5348866.1678433,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8897378.591314154,
+              "ymin": 5347910.70498971,
+              "xmax": -8895993.170176448,
+              "ymax": 5348866.1678433,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_459.jpeg"
+    },
+    {
+      "name": "Coronation Arena and Pool",
+      "extent": {
+        "type": "extent",
+        "xmin": -8894739.166819006,
+        "ymin": 5351766.57901307,
+        "xmax": -8893353.7456813,
+        "ymax": 5352722.04186666,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8894739.166819006,
+              "ymin": 5351766.57901307,
+              "xmax": -8893353.7456813,
+              "ymax": 5352722.04186666,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_460.png"
+    },
+    {
+      "name": "Dalewood Recreation Centre",
+      "extent": {
+        "type": "extent",
+        "xmin": -8897415.280978113,
+        "ymin": 5350548.615409326,
+        "xmax": -8894644.438702703,
+        "ymax": 5352459.541116506,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8897415.280978113,
+              "ymin": 5350548.615409326,
+              "xmax": -8894644.438702703,
+              "ymax": 5352459.541116506,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_461.jpeg"
+    },
+    {
+      "name": "Dominic Agostino Riverdale Community Centre",
+      "extent": {
+        "type": "extent",
+        "xmin": -8879167.1348036,
+        "ymin": 5346926.814030046,
+        "xmax": -8877781.713665895,
+        "ymax": 5347882.276883636,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8879167.1348036,
+              "ymin": 5346926.814030046,
+              "xmax": -8877781.713665895,
+              "ymax": 5347882.276883636,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_462.jpeg"
+    },
+    {
+      "name": "Dundas Community Pool",
+      "extent": {
+        "type": "extent",
+        "xmin": -8901842.010831682,
+        "ymin": 5352257.52547922,
+        "xmax": -8901149.300262908,
+        "ymax": 5352735.256905962,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8901842.010831682,
+              "ymin": 5352257.52547922,
+              "xmax": -8901149.300262908,
+              "ymax": 5352735.256905962,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_463.jpeg"
+    },
+    {
+      "name": "Dundas Lions Memorial Community Centre",
+      "extent": {
+        "type": "extent",
+        "xmin": -8901845.045632899,
+        "ymin": 5352557.796036861,
+        "xmax": -8901152.335064124,
+        "ymax": 5353035.527463603,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8901845.045632899,
+              "ymin": 5352557.796036861,
+              "xmax": -8901152.335064124,
+              "ymax": 5353035.527463603,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_464.jpeg"
+    },
+    {
+      "name": "Eastwood Arena",
+      "extent": {
+        "type": "extent",
+        "xmin": -8890771.114101307,
+        "ymin": 5352615.998158732,
+        "xmax": -8888000.271825897,
+        "ymax": 5354526.9238659125,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8890771.114101307,
+              "ymin": 5352615.998158732,
+              "xmax": -8888000.271825897,
+              "ymax": 5354526.9238659125,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_465.jpeg"
+    },
+    {
+      "name": "Glanbrook Arena",
+      "extent": {
+        "type": "extent",
+        "xmin": -8889133.2456956,
+        "ymin": 5330993.276618304,
+        "xmax": -8886362.40342019,
+        "ymax": 5332904.202325484,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8889133.2456956,
+              "ymin": 5330993.276618304,
+              "xmax": -8886362.40342019,
+              "ymax": 5332904.202325484,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_466.jpeg"
+    },
+    {
+      "name": "H.G. Brewster Pool",
+      "extent": {
+        "type": "extent",
+        "xmin": -8874877.01085362,
+        "ymin": 5344234.69997705,
+        "xmax": -8872106.16857821,
+        "ymax": 5346145.62568423,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8874877.01085362,
+              "ymin": 5344234.69997705,
+              "xmax": -8872106.16857821,
+              "ymax": 5346145.62568423,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_467.jpeg"
+    },
+    {
+      "name": "Hill Park Recreation Centre",
+      "extent": {
+        "type": "extent",
+        "xmin": -8891743.414613625,
+        "ymin": 5345755.177705855,
+        "xmax": -8888972.572338214,
+        "ymax": 5347666.103413035,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8891743.414613625,
+              "ymin": 5345755.177705855,
+              "xmax": -8888972.572338214,
+              "ymax": 5347666.103413035,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_468.png"
+    },
+    {
+      "name": "Huntington Park Recreation Centre",
+      "extent": {
+        "type": "extent",
+        "xmin": -8887701.806743072,
+        "ymin": 5344584.735710238,
+        "xmax": -8884930.964467661,
+        "ymax": 5346495.661417418,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8887701.806743072,
+              "ymin": 5344584.735710238,
+              "xmax": -8884930.964467661,
+              "ymax": 5346495.661417418,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_469.jpeg"
+    },
+    {
+      "name": "Inch Park Arena and Pool",
+      "extent": {
+        "type": "extent",
+        "xmin": -8890580.138589427,
+        "ymin": 5347540.698913456,
+        "xmax": -8889194.717451721,
+        "ymax": 5348496.161767046,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8890580.138589427,
+              "ymin": 5347540.698913456,
+              "xmax": -8889194.717451721,
+              "ymax": 5348496.161767046,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_470.jpeg"
+    },
+    {
+      "name": "J.L. Grightmire (Market Street) Arena",
+      "extent": {
+        "type": "extent",
+        "xmin": -8901728.945138032,
+        "ymin": 5352301.889745656,
+        "xmax": -8901036.234569257,
+        "ymax": 5352779.621172398,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8901728.945138032,
+              "ymin": 5352301.889745656,
+              "xmax": -8901036.234569257,
+              "ymax": 5352779.621172398,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_471.jpeg"
+    },
+    {
+      "name": "Jimmy Thompson Pool",
+      "extent": {
+        "type": "extent",
+        "xmin": -8887366.427079868,
+        "ymin": 5349559.430037897,
+        "xmax": -8885981.005942162,
+        "ymax": 5350514.892891487,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8887366.427079868,
+              "ymin": 5349559.430037897,
+              "xmax": -8885981.005942162,
+              "ymax": 5350514.892891487,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_472.png"
+    },
+    {
+      "name": "Lawfield Arena",
+      "extent": {
+        "type": "extent",
+        "xmin": -8889646.173650056,
+        "ymin": 5344332.73238262,
+        "xmax": -8888260.75251235,
+        "ymax": 5345288.19523621,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8889646.173650056,
+              "ymin": 5344332.73238262,
+              "xmax": -8888260.75251235,
+              "ymax": 5345288.19523621,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_473.jpeg"
+    },
+    {
+      "name": "Morgan Firestone Arena",
+      "extent": {
+        "type": "extent",
+        "xmin": -8907149.05879879,
+        "ymin": 5344824.198587939,
+        "xmax": -8905763.637661085,
+        "ymax": 5345779.661441529,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8907149.05879879,
+              "ymin": 5344824.198587939,
+              "xmax": -8905763.637661085,
+              "ymax": 5345779.661441529,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_474.jpeg"
+    },
+    {
+      "name": "Mountain (Dave Andreychuk) Arena",
+      "extent": {
+        "type": "extent",
+        "xmin": -8893363.856970811,
+        "ymin": 5345330.332392113,
+        "xmax": -8890593.0146954,
+        "ymax": 5347241.258099293,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8893363.856970811,
+              "ymin": 5345330.332392113,
+              "xmax": -8890593.0146954,
+              "ymax": 5347241.258099293,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_475.jpeg"
+    },
+    {
+      "name": "Norman Pinky Lewis Recreation Centre",
+      "extent": {
+        "type": "extent",
+        "xmin": -8888965.742288291,
+        "ymin": 5350559.102327636,
+        "xmax": -8887580.321150586,
+        "ymax": 5351514.5651812265,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8888965.742288291,
+              "ymin": 5350559.102327636,
+              "xmax": -8887580.321150586,
+              "ymax": 5351514.5651812265,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_476.jpeg"
+    },
+    {
+      "name": "Harry Howell (North Wentworth) Twin Pad Arena",
+      "extent": {
+        "type": "extent",
+        "xmin": -8898039.128251323,
+        "ymin": 5358453.614685805,
+        "xmax": -8895268.285975913,
+        "ymax": 5360364.540392985,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8898039.128251323,
+              "ymin": 5358453.614685805,
+              "xmax": -8895268.285975913,
+              "ymax": 5360364.540392985,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_477.jpeg"
+    },
+    {
+      "name": "Parkdale (Pat Quinn) Arena and Pool",
+      "extent": {
+        "type": "extent",
+        "xmin": -8882983.947395377,
+        "ymin": 5347782.886104371,
+        "xmax": -8882291.236826602,
+        "ymax": 5348260.617531113,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8882983.947395377,
+              "ymin": 5347782.886104371,
+              "xmax": -8882291.236826602,
+              "ymax": 5348260.617531113,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_478.jpeg"
+    },
+    {
+      "name": "Rosedale Arena and Pool",
+      "extent": {
+        "type": "extent",
+        "xmin": -8885404.85140061,
+        "ymin": 5344300.821167395,
+        "xmax": -8882634.0091252,
+        "ymax": 5346211.7468745755,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8885404.85140061,
+              "ymin": 5344300.821167395,
+              "xmax": -8882634.0091252,
+              "ymax": 5346211.7468745755,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_479.jpeg"
+    },
+    {
+      "name": "Ryerson Recreation Centre",
+      "extent": {
+        "type": "extent",
+        "xmin": -8893703.046283817,
+        "ymin": 5349727.8501756415,
+        "xmax": -8890932.204008406,
+        "ymax": 5351638.7758828215,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8893703.046283817,
+              "ymin": 5349727.8501756415,
+              "xmax": -8890932.204008406,
+              "ymax": 5351638.7758828215,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_480.jpeg"
+    },
+    {
+      "name": "Saltfleet Arena",
+      "extent": {
+        "type": "extent",
+        "xmin": -8873387.703975836,
+        "ymin": 5344728.392348913,
+        "xmax": -8872002.28283813,
+        "ymax": 5345683.855202503,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8873387.703975836,
+              "ymin": 5344728.392348913,
+              "xmax": -8872002.28283813,
+              "ymax": 5345683.855202503,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_522.png"
+    },
+    {
+      "name": "Sir Allan MacNab Recreation Centre",
+      "extent": {
+        "type": "extent",
+        "xmin": -8898153.636405658,
+        "ymin": 5346334.112050212,
+        "xmax": -8895382.794130247,
+        "ymax": 5348245.037757392,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8898153.636405658,
+              "ymin": 5346334.112050212,
+              "xmax": -8895382.794130247,
+              "ymax": 5348245.037757392,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_523.jpeg"
+    },
+    {
+      "name": "Sir Wilfrid Laurier Recreation Centre",
+      "extent": {
+        "type": "extent",
+        "xmin": -8883292.735009048,
+        "ymin": 5344133.881386022,
+        "xmax": -8880521.892733637,
+        "ymax": 5346044.807093202,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8883292.735009048,
+              "ymin": 5344133.881386022,
+              "xmax": -8880521.892733637,
+              "ymax": 5346044.807093202,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_524.jpeg"
+    },
+    {
+      "name": "Sir Winston Churchill Recreation Centre",
+      "extent": {
+        "type": "extent",
+        "xmin": -8883459.285781346,
+        "ymin": 5347771.557379726,
+        "xmax": -8882073.86464364,
+        "ymax": 5348727.020233316,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8883459.285781346,
+              "ymin": 5347771.557379726,
+              "xmax": -8882073.86464364,
+              "ymax": 5348727.020233316,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_525.png"
+    },
+    {
+      "name": "Stoney Creek Recreation Centre",
+      "extent": {
+        "type": "extent",
+        "xmin": -8879920.09924709,
+        "ymin": 5344608.975334424,
+        "xmax": -8878534.678109385,
+        "ymax": 5345564.438188014,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8879920.09924709,
+              "ymin": 5344608.975334424,
+              "xmax": -8878534.678109385,
+              "ymax": 5345564.438188014,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_526.png"
+    },
+    {
+      "name": "Valley Park Arena and Recreation Centre",
+      "extent": {
+        "type": "extent",
+        "xmin": -8884421.914606323,
+        "ymin": 5340680.828677706,
+        "xmax": -8881651.072330913,
+        "ymax": 5342591.7543848865,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8884421.914606323,
+              "ymin": 5340680.828677706,
+              "xmax": -8881651.072330913,
+              "ymax": 5342591.7543848865,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_527.jpeg"
+    },
+    {
+      "name": "Westmount Recreation Centre",
+      "extent": {
+        "type": "extent",
+        "xmin": -8894468.606511537,
+        "ymin": 5346344.33474222,
+        "xmax": -8893083.185373832,
+        "ymax": 5347299.79759581,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "_shifted": null,
+        "_parts": [
+          {
+            "extent": {
+              "type": "extent",
+              "xmin": -8894468.606511537,
+              "ymin": 5346344.33474222,
+              "xmax": -8893083.185373832,
+              "ymax": 5347299.79759581,
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "_shifted": null,
+              "_parts": null
+            },
+            "frameIds": [
+              0
+            ]
+          }
+        ]
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/thumbnail_528.jpeg"
+    }
+  ],
+  "bookmarks3D": [
+    {
+      "name": "China",
+      "camera": [
+        116.38,
+        39.9,
+        100000,
+        0,
+        1
+      ],
+      "thumbnail": "images/thumbnail_beijing.png"
+    },
+    {
+      "name": "SF",
+      "camera": [
+        -122.3956840179302,
+        37.78329055435611,
+        235.5668830918148,
+        327.4062957304337,
+        66.71004825534648
+      ],
+      "thumbnail": "images/thumbnail_sf.png"
+    },
+    {
+      "name": "USA",
+      "camera": [
+        -108.919,
+        34.2259,
+        4126880,
+        340.71,
+        5.91655
+      ],
+      "thumbnail": "images/thumbnail_us.png"
+    }
+  ],
+  "flyTime": 3000
+}
