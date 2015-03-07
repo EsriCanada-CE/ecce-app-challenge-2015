@@ -56,7 +56,10 @@ class HelloWorld(object):
         return open(page)
         
         
-        
+#cherrypy.config.update(# Used to bind to public ip - not working
+#    {'server.socket_host': ' 132.216.233.223' } ) 
+       
+
 cherrypy.quickstart(HelloWorld(),'/',{'/':{
                 'tools.staticdir.on': True,
                 'tools.staticdir.dir': os.path.abspath(os.curdir)

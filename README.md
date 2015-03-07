@@ -1,9 +1,11 @@
-# This file describes Version 1.0 of Community Open-Data Engage (CODE)
+# Welcome to Community Open-Data Engage (CODE)
 
 ## What is CODE?
 Run Our Live Demo [HERE](http://www.esri.ca/en)
+Check out the Video [HERE](https://www.youtube.com/watch?v=bWuAien2Ld0&feature=youtu.be)
 
-> CODE is an application designed to help citizens better understand the neighbourhoods we live in through open-data. For this app challenge - we tried to cut across all of the themes and connect the techniques often left to geographers (i.e, spatial analysis) with the ideas of neogeography (Turner 2006).   
+
+> CODE is an application designed to help citizens better understand the neighbourhoods we live in through open-data. For this app challenge - we tried to cut across all of the themes and connect the techniques often left to geographers (i.e, spatial analysis) with the ideas of neogeography (Turner 2006).
 
 
 #Theory Behind CODE
@@ -18,8 +20,11 @@ Run Our Live Demo [HERE](http://www.esri.ca/en)
 
 ----
 ## To Engage Usage
-1. Visit our user interface [here] (http://www.code.ca/en).
+1a. Visit our user interface [here] (http://www.code.ca/en).
 2. Alternatively, visit our GitHub repoistory [here](https://github.com/terratenney/super_secret).
+3. Clone repository
+4. Rune pyhton -m SimpleHTTPServer from the front_end directory OR run from the scripts folder: test_server.py (require library dependenices fiona and cherrypy) 
+5. Open up your browse and navigate to http://localhost:8000/home.html in a browser 
 
 ----
 ## Components
@@ -58,7 +63,7 @@ The social-media component is a search app that lets you see who is tweeting in 
 ##Technical Components
 We wrote several python scripts to automatically download shapefiles direct from open-data repositories. Next, fac_count.py and route_finder are used to run network analysis to closest facilities, count community features within each neighbourhood, and calculate the percent green space of community extents. We then use shapefiletogeojson to output as json or .js files.
 
-We access the spatial information through leaflets layer functionality in a series of JavaScript files in an HTML page.
+We access the spatial information through Leaflets layer functionality using JavaScript functions.
 
 ##CODE code
 
@@ -80,6 +85,7 @@ Interactivity is enabled through the following options
     resetHighlight();
     }
 
+For detailed code comments, please see map.js or edmon_map.html
 
 ###Known Bugs
 Lack of descriptive information in popup balloons comes from unstandardized data formats. Would be very easy to implement properly
