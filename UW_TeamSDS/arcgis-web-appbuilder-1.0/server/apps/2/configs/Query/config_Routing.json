@@ -1,0 +1,248 @@
+{
+  "queries": [
+    {
+      "name": "Grand River Transit",
+      "url": "http://services5.arcgis.com/vKuQmrsUw24CJvPG/arcgis/rest/services/GRT_merged2/FeatureServer/0",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [
+          {
+            "fieldObj": {
+              "name": "StartLocat",
+              "label": "StartLocat",
+              "shortType": "string",
+              "type": "esriFieldTypeString"
+            },
+            "operator": "stringOperatorIs",
+            "valueObj": {
+              "isValid": true,
+              "type": "unique",
+              "value": "Waterloo Town Square"
+            },
+            "interactiveObj": {
+              "prompt": "Start Location",
+              "hint": "Select a landmark"
+            },
+            "caseSensitive": false,
+            "expr": "StartLocat = 'Waterloo Town Square'"
+          },
+          {
+            "fieldObj": {
+              "name": "EndLocatio",
+              "label": "EndLocatio",
+              "shortType": "string",
+              "type": "esriFieldTypeString"
+            },
+            "operator": "stringOperatorIs",
+            "valueObj": {
+              "isValid": true,
+              "type": "unique",
+              "value": "Waterloo Town Square"
+            },
+            "interactiveObj": {
+              "prompt": "End Location",
+              "hint": "Select a landmark"
+            },
+            "caseSensitive": false,
+            "expr": "EndLocatio = 'Waterloo Town Square'"
+          },
+          {
+            "fieldObj": {
+              "name": "Time",
+              "label": "Time",
+              "shortType": "string",
+              "type": "esriFieldTypeString"
+            },
+            "operator": "stringOperatorIs",
+            "valueObj": {
+              "isValid": true,
+              "type": "unique",
+              "value": "8:00 AM"
+            },
+            "interactiveObj": {
+              "prompt": "Start Time",
+              "hint": "Select an hour"
+            },
+            "caseSensitive": false,
+            "expr": "Time = '8:00 AM'"
+          }
+        ],
+        "expr": "(StartLocat = 'Waterloo Town Square') AND (EndLocatio = 'Waterloo Town Square') AND (Time = '8:00 AM')"
+      },
+      "popup": {
+        "title": "${StartLocat} to ${EndLocatio}, ${Time}",
+        "fields": [
+          {
+            "name": "Total_Trav",
+            "alias": "Travel Time (minutes)",
+            "type": "esriFieldTypeDouble",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Total_Leng",
+            "alias": "Length (km)",
+            "type": "esriFieldTypeDouble",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "StartLocat",
+            "alias": "Start Location",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "EndLocatio",
+            "alias": "End Location",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Time",
+            "alias": "Start Time",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          }
+        ]
+      },
+      "resultsSymbol": {
+        "color": [
+          128,
+          100,
+          162,
+          255
+        ],
+        "width": 3.75,
+        "type": "esriSLS",
+        "style": "esriSLSSolid"
+      },
+      "objectIdField": "FID"
+    },
+    {
+      "name": "Grand River Transit + ION Rapid Transit",
+      "url": "http://services5.arcgis.com/vKuQmrsUw24CJvPG/arcgis/rest/services/GRT_ION_merged/FeatureServer/0",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [
+          {
+            "fieldObj": {
+              "name": "StartLocat",
+              "label": "StartLocat",
+              "shortType": "string",
+              "type": "esriFieldTypeString"
+            },
+            "operator": "stringOperatorIs",
+            "valueObj": {
+              "isValid": true,
+              "type": "unique",
+              "value": "Waterloo Town Square"
+            },
+            "interactiveObj": {
+              "prompt": "Start Location",
+              "hint": "Select a landmark"
+            },
+            "caseSensitive": false,
+            "expr": "StartLocat = 'Waterloo Town Square'"
+          },
+          {
+            "fieldObj": {
+              "name": "EndLocatio",
+              "label": "EndLocatio",
+              "shortType": "string",
+              "type": "esriFieldTypeString"
+            },
+            "operator": "stringOperatorIs",
+            "valueObj": {
+              "isValid": true,
+              "type": "unique",
+              "value": "Waterloo Town Square"
+            },
+            "interactiveObj": {
+              "prompt": "End Location",
+              "hint": "Select a landmark"
+            },
+            "caseSensitive": false,
+            "expr": "EndLocatio = 'Waterloo Town Square'"
+          },
+          {
+            "fieldObj": {
+              "name": "Time",
+              "label": "Time",
+              "shortType": "string",
+              "type": "esriFieldTypeString"
+            },
+            "operator": "stringOperatorIs",
+            "valueObj": {
+              "isValid": true,
+              "type": "unique",
+              "value": "8:00 AM"
+            },
+            "interactiveObj": {
+              "prompt": "Start Time",
+              "hint": "Select an hour"
+            },
+            "caseSensitive": false,
+            "expr": "Time = '8:00 AM'"
+          }
+        ],
+        "expr": "(StartLocat = 'Waterloo Town Square') AND (EndLocatio = 'Waterloo Town Square') AND (Time = '8:00 AM')"
+      },
+      "popup": {
+        "title": "${StartLocat} to ${EndLocatio}, ${Time}",
+        "fields": [
+          {
+            "name": "StartLocat",
+            "alias": "Start Location",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "EndLocatio",
+            "alias": "End Location",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Time",
+            "alias": "Start Time",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Total_Tran",
+            "alias": "Travel Time (minutes)",
+            "type": "esriFieldTypeDouble",
+            "specialType": "none",
+            "showInInfoWindow": true
+          },
+          {
+            "name": "Total_Leng",
+            "alias": "Length (m)",
+            "type": "esriFieldTypeDouble",
+            "specialType": "none",
+            "showInInfoWindow": true
+          }
+        ]
+      },
+      "resultsSymbol": {
+        "color": [
+          155,
+          187,
+          89,
+          255
+        ],
+        "width": 3.75,
+        "type": "esriSLS",
+        "style": "esriSLSSolid"
+      },
+      "objectIdField": "FID"
+    }
+  ]
+}

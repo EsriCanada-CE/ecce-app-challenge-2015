@@ -1,0 +1,262 @@
+{
+  "theme": {
+    "name": "FoldableTheme",
+    "styles": [
+      "default",
+      "black",
+      "green",
+      "cyan",
+      "red",
+      "purple"
+    ],
+    "version": "1.1"
+  },
+  "portalUrl": "http://uw-teamsds.maps.arcgis.com",
+  "title": "PredictION",
+  "subtitle": "",
+  "logo": "images\\logo.png",
+  "geometryService": "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer",
+  "links": [],
+  "widgetOnScreen": {
+    "widgets": [
+      {
+        "uri": "themes/FoldableTheme/widgets/HeaderController/Widget",
+        "positionRelativeTo": "browser",
+        "position": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "height": 40
+        },
+        "version": "1.1",
+        "id": "themes/FoldableTheme/widgets/HeaderController/Widget_30",
+        "name": "HeaderController",
+        "label": "Header Controller"
+      },
+      {
+        "uri": "widgets/Scalebar/Widget",
+        "position": {
+          "left": 25,
+          "bottom": 25
+        },
+        "version": "1.1",
+        "id": "widgets/Scalebar/Widget_31",
+        "positionRelativeTo": "map",
+        "name": "Scalebar",
+        "label": "Scalebar"
+      },
+      {
+        "uri": "widgets/Geocoder/Widget",
+        "position": {
+          "left": 45,
+          "top": 5
+        },
+        "version": "1.1",
+        "id": "widgets/Geocoder/Widget_32",
+        "positionRelativeTo": "map",
+        "name": "Geocoder",
+        "label": "Geocoder",
+        "config": "configs/Geocoder/config_Geocoder.json"
+      },
+      {
+        "uri": "widgets/Coordinate/Widget",
+        "position": {
+          "left": 200,
+          "bottom": 20
+        },
+        "version": "1.1",
+        "id": "widgets/Coordinate/Widget_33",
+        "positionRelativeTo": "map",
+        "name": "Coordinate",
+        "label": "Coordinate",
+        "visible": false
+      },
+      {
+        "position": {
+          "left": 55,
+          "top": 45,
+          "width": 400,
+          "height": 410
+        },
+        "placeholderIndex": 1,
+        "id": "_34",
+        "positionRelativeTo": "map",
+        "name": "LayerList",
+        "label": "Layer List",
+        "version": "1.1",
+        "uri": "widgets/LayerList/Widget",
+        "config": "configs/LayerList/config_Layer List.json"
+      },
+      {
+        "position": {
+          "left": 105,
+          "top": 45,
+          "width": 380,
+          "height": 410
+        },
+        "placeholderIndex": 1,
+        "id": "_35",
+        "positionRelativeTo": "map",
+        "label": "Basemap Gallery",
+        "version": "1.1",
+        "uri": "widgets/BasemapGallery/Widget",
+        "name": "BasemapGallery",
+        "config": "configs/BasemapGallery/config_Basemap Gallery.json"
+      },
+      {
+        "position": {
+          "left": 155,
+          "top": 45,
+          "width": 380,
+          "height": 410
+        },
+        "placeholderIndex": 1,
+        "id": "_36",
+        "positionRelativeTo": "map",
+        "label": "Widget",
+        "version": "1.1",
+        "uri": ""
+      },
+      {
+        "uri": "widgets/OverviewMap/Widget",
+        "position": {
+          "right": 0,
+          "top": 0
+        },
+        "version": "1.1",
+        "id": "widgets/OverviewMap/Widget_37",
+        "positionRelativeTo": "map",
+        "name": "OverviewMap",
+        "label": "Overview Map",
+        "visible": false
+      },
+      {
+        "uri": "widgets/HomeButton/Widget",
+        "position": {
+          "left": 7,
+          "top": 75
+        },
+        "version": "1.1",
+        "id": "widgets/HomeButton/Widget_38",
+        "positionRelativeTo": "map",
+        "name": "HomeButton",
+        "label": "Home Button"
+      },
+      {
+        "uri": "widgets/MyLocation/Widget",
+        "position": {
+          "left": 7,
+          "top": 110
+        },
+        "version": "1.1",
+        "id": "widgets/MyLocation/Widget_39",
+        "positionRelativeTo": "map",
+        "name": "MyLocation",
+        "label": "My Location"
+      },
+      {
+        "uri": "widgets/AttributeTable/Widget",
+        "positionRelativeTo": "browser",
+        "version": "1.1",
+        "id": "widgets/AttributeTable/Widget_40",
+        "position": {
+          "left": 0,
+          "top": 0
+        },
+        "name": "AttributeTable",
+        "label": "Attribute Table",
+        "visible": false
+      },
+      {
+        "uri": "widgets/Splash/Widget",
+        "positionRelativeTo": "browser",
+        "version": "1.1",
+        "id": "widgets/Splash/Widget_41",
+        "position": {
+          "left": 0,
+          "top": 0
+        },
+        "name": "Splash",
+        "label": "Splash",
+        "config": "configs/Splash/config_Splash.json"
+      }
+    ],
+    "panel": {
+      "uri": "jimu/PreloadWidgetIconPanel",
+      "positionRelativeTo": "map"
+    }
+  },
+  "map": {
+    "3D": false,
+    "2D": true,
+    "position": {
+      "left": 0,
+      "top": 40,
+      "right": 0,
+      "bottom": 0
+    },
+    "itemId": "71a41266ed8a4ea08dc61572136bcdc9",
+    "mapOptions": {
+      "extent": {
+        "xmin": -8968360.619609313,
+        "ymin": 5366132.36524891,
+        "xmax": -8938359.086007422,
+        "ymax": 5388834.162649577,
+        "spatialReference": {
+          "wkid": 102100
+        }
+      }
+    },
+    "id": "map",
+    "portalUrl": "http://uw-teamsds.maps.arcgis.com"
+  },
+  "widgetPool": {
+    "panel": {
+      "uri": "themes/FoldableTheme/panels/FoldablePanel/Panel",
+      "positionRelativeTo": "map",
+      "position": {
+        "top": 5,
+        "right": 5,
+        "bottom": 5
+      }
+    },
+    "widgets": [
+      {
+        "name": "About",
+        "label": "About",
+        "version": "1.1",
+        "uri": "widgets/About/Widget",
+        "config": "configs/About/config_About.json",
+        "index": 2,
+        "id": "widgets/About/Widget_43"
+      },
+      {
+        "name": "Query",
+        "label": "Routing",
+        "version": "1.1",
+        "icon": "configs\\Query\\icon_Routing.png",
+        "uri": "widgets/Query/Widget",
+        "config": "configs/Query/config_Routing.json",
+        "index": 3,
+        "id": "widgets/Query/Widget_50"
+      },
+      {
+        "name": "Query",
+        "label": "Service Area",
+        "version": "1.1",
+        "icon": "configs\\Query\\icon_Service Area.png",
+        "uri": "widgets/Query/Widget",
+        "config": "configs/Query/config_Service Area.json",
+        "index": 4,
+        "id": "widgets/Query/Widget_49"
+      }
+    ],
+    "groups": []
+  },
+  "wabVersion": "1.1",
+  "isWebTier": false,
+  "httpProxy": {
+    "useProxy": true,
+    "url": "/proxy.js"
+  }
+}

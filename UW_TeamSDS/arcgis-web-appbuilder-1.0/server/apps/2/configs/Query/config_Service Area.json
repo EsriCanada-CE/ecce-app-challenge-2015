@@ -1,0 +1,214 @@
+{
+  "queries": [
+    {
+      "name": "Grand River Transit",
+      "url": "http://services5.arcgis.com/vKuQmrsUw24CJvPG/arcgis/rest/services/SA_GRT/FeatureServer/0",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [
+          {
+            "fieldObj": {
+              "name": "Landmark",
+              "label": "Landmark",
+              "shortType": "string",
+              "type": "esriFieldTypeString"
+            },
+            "operator": "stringOperatorIs",
+            "valueObj": {
+              "isValid": true,
+              "type": "unique",
+              "value": "Ainslie Street Terminal"
+            },
+            "interactiveObj": {
+              "prompt": "Start Location",
+              "hint": "Select a landmark"
+            },
+            "caseSensitive": false,
+            "expr": "Landmark = 'Ainslie Street Terminal'"
+          },
+          {
+            "fieldObj": {
+              "name": "Time",
+              "label": "Time",
+              "shortType": "string",
+              "type": "esriFieldTypeString"
+            },
+            "operator": "stringOperatorIs",
+            "valueObj": {
+              "isValid": true,
+              "type": "unique",
+              "value": "1:00 PM"
+            },
+            "interactiveObj": {
+              "prompt": "Start Time",
+              "hint": "Select an hour"
+            },
+            "caseSensitive": false,
+            "expr": "Time = '1:00 PM'"
+          }
+        ],
+        "expr": "(Landmark = 'Ainslie Street Terminal') AND (Time = '1:00 PM')"
+      },
+      "popup": {
+        "title": "${Landmark}, ${Time} (${FromBreak} to ${ToBreak} minutes)",
+        "fields": [
+          {
+            "name": "FromBreak",
+            "alias": "FromBreak",
+            "type": "esriFieldTypeDouble",
+            "specialType": "none",
+            "showInInfoWindow": false
+          },
+          {
+            "name": "ToBreak",
+            "alias": "ToBreak",
+            "type": "esriFieldTypeDouble",
+            "specialType": "none",
+            "showInInfoWindow": false
+          },
+          {
+            "name": "Landmark",
+            "alias": "Landmark",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": false
+          },
+          {
+            "name": "Time",
+            "alias": "Time",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": false
+          }
+        ]
+      },
+      "resultsSymbol": {
+        "color": [
+          75,
+          172,
+          198,
+          128
+        ],
+        "outline": {
+          "color": [
+            63,
+            131,
+            150,
+            255
+          ],
+          "width": 1.5,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "objectIdField": "FID"
+    },
+    {
+      "name": "Grand River Transit + ION Rapid Transit",
+      "url": "http://services5.arcgis.com/vKuQmrsUw24CJvPG/arcgis/rest/services/SA_ION/FeatureServer/0",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [
+          {
+            "fieldObj": {
+              "name": "Landmark",
+              "label": "Landmark",
+              "shortType": "string",
+              "type": "esriFieldTypeString"
+            },
+            "operator": "stringOperatorIs",
+            "valueObj": {
+              "isValid": true,
+              "type": "unique",
+              "value": "Ainslie Street Terminal"
+            },
+            "interactiveObj": {
+              "prompt": "Start Location",
+              "hint": "Select a landmark"
+            },
+            "caseSensitive": false,
+            "expr": "Landmark = 'Ainslie Street Terminal'"
+          },
+          {
+            "fieldObj": {
+              "name": "Time",
+              "label": "Time",
+              "shortType": "string",
+              "type": "esriFieldTypeString"
+            },
+            "operator": "stringOperatorIs",
+            "valueObj": {
+              "isValid": true,
+              "type": "unique",
+              "value": "1:00 PM"
+            },
+            "interactiveObj": {
+              "prompt": "Start Time",
+              "hint": "Select an hour"
+            },
+            "caseSensitive": false,
+            "expr": "Time = '1:00 PM'"
+          }
+        ],
+        "expr": "(Landmark = 'Ainslie Street Terminal') AND (Time = '1:00 PM')"
+      },
+      "popup": {
+        "title": "${Landmark}, ${Time} (${FromBreak} to ${ToBreak} minutes)",
+        "fields": [
+          {
+            "name": "FromBreak",
+            "alias": "FromBreak",
+            "type": "esriFieldTypeDouble",
+            "specialType": "none",
+            "showInInfoWindow": false
+          },
+          {
+            "name": "ToBreak",
+            "alias": "ToBreak",
+            "type": "esriFieldTypeDouble",
+            "specialType": "none",
+            "showInInfoWindow": false
+          },
+          {
+            "name": "Landmark",
+            "alias": "Landmark",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": false
+          },
+          {
+            "name": "Time",
+            "alias": "Time",
+            "type": "esriFieldTypeString",
+            "specialType": "none",
+            "showInInfoWindow": false
+          }
+        ]
+      },
+      "resultsSymbol": {
+        "color": [
+          155,
+          187,
+          89,
+          128
+        ],
+        "outline": {
+          "color": [
+            115,
+            140,
+            61,
+            255
+          ],
+          "width": 1.5,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "objectIdField": "FID"
+    }
+  ]
+}
