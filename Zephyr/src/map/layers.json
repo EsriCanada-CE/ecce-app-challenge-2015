@@ -1,0 +1,22 @@
+{
+    "baseLayers": ["DarkGray", "Gray", "Streets", "Topographic", "Oceans", "ImageryLabels"],
+    "stationLayers": [
+        {"name": "Volatile Organic Compounds", "abbr": "VOC",
+        "url": "http://services5.arcgis.com/qU80cCGJEmdjMJVt/arcgis/rest/services/Volatile_Organic_Compounds/FeatureServer/0"},
+
+        {"name": "Sulphates", "abbr": "SOx",
+        "url": "http://services5.arcgis.com/qU80cCGJEmdjMJVt/arcgis/rest/services/Sulphates/FeatureServer/0"},
+
+        {"name": "Nitrates", "abbr": "NOx",
+        "url": "http://services5.arcgis.com/qU80cCGJEmdjMJVt/arcgis/rest/services/Nitrates/FeatureServer/0"},
+
+        {"name": "Mercury", "abbr": "Hg",
+        "url": "http://services5.arcgis.com/qU80cCGJEmdjMJVt/arcgis/rest/services/Mercury/FeatureServer/0"},
+
+        {"name": "Ammonia", "abbr": "NH3",
+        "url": "http://services5.arcgis.com/qU80cCGJEmdjMJVt/arcgis/rest/services/Ammonia/FeatureServer/0"},
+
+        {"name": "Greenhouse Gas", "abbr": "GHG",
+        "url": "http://services5.arcgis.com/qU80cCGJEmdjMJVt/arcgis/rest/services/Greenhouse_Gas/FeatureServer/0"}
+    ]
+}
