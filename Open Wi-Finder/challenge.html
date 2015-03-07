@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width, maximum-scale=1.0, user-scalable=no">
+    <!-- meta tags to hide url and minimize status bar to give the web app
+    a native app look this only happens after app is saved to the desktop-->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="translucent-black">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+  <title>Open Wi-Finder: Challenge</title>
+  
+  <!-- STYLES -->
+  
+  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="http://js.arcgis.com/3.8/js/esri/css/esri.css">
+  
+
+  
+  <!-- OUR STYLES -->
+  <link rel="stylesheet" href="css/style.css" type='text/css'>
+ <link rel="stylesheet" href="css/nav.css" type='text/css'> <!--CodyHouse-->
+   <!-- Details about the Webkit CSS Properties http://css-infos.net/properties/webkit.php
+    and http://www.pointabout.com/category/development-blog/pointabout-dev-help/-->
+
+  <script src="js/modernizr.js"></script> <!-- Modernizr -->
+ 
+  
+</head>
+<body onorientationchange="orientationChanged();"  >
+
+<!--header-->
+   <!--Nav Bar-->
+   <header class="cd-header">
+		<div class="cd-logo"><a href="index.html">Open Wi-Finder: <span id="subtitle">Free Wi-Fi Locator</span></a></div>
+
+		<nav id="navElements">
+			<ul class="cd-secondary-nav">
+				<li><a href="#0">Info</a></li>
+				
+			</ul>
+		</nav> <!-- cd-nav -->
+
+		<a class="cd-primary-nav-trigger" href="#0">
+			<span class="cd-menu-text">Menu</span><span class="cd-menu-icon"></span>
+		</a> <!-- cd-primary-nav-trigger -->
+	</header>
+
+	<nav>
+    <ul class="cd-primary-nav">
+          <div class="navCol">
+              <li class="cd-label">Wi-Finder</li>
+              <li><a href="index.html">Open map</a></li>
+              <li><a href="data.html">Data</a></li>
+              <li><a href="appInfo.html">App info</a></li>
+      </div>
+            <div class="navCol">
+              <li class="cd-label">About us</li>
+              <li><a href="team.html">The team</a></li>
+              <li><a href="challenge.html">Challenge</a></li>
+      </div>
+            <div class="navFooter">
+              <li class="cd-label">Follow us</li>
+              <li class="cd-social cd-facebook"><a href="#0">Facebook</a></li>
+              <li class="cd-social cd-instagram"><a href="#0">LinkedIn</a></li>
+              <li class="cd-social cd-twitter"><a href="#0">Twitter</a></li>
+            </div>
+    </ul>
+	</nav>
+    
+    <!--END Nav-->
+
+	<main class="cd-main-content">
+		<div class="cd-container">
+			<h1>Open Wi-Finder was built for the Esri Canada Centres of Excellence 2015 App Challenge.</h1>
+      <h2><u>Purpose</u></h2>
+      <ul>
+      <li>The Esri Canada App Challenge is an annual activity among students studying at higher education institutes that are members of the Esri Canada Centres of Excellence program. The purpose of the challenge is to engage up to a maximum of three teams of participating students with a maximum of three members per team from each centre to work collaboratively on building a new app within a fixed time period using Esri, and other, components as required.</li>
+      <li>The primary objective of the challenge is, as the word suggests, to challenge students to use their technical GIS knowledge, creativity, and ability to innovate and work together to produce a relevant and functional app using the Esri platform. Realization of this objective will produce a number of new apps that showcase the abilities of students studying at the centres of excellence. A secondary objective is to contribute to building a strong sense of community among senior undergraduate and graduate students studying at Esri Canada Centres of Excellence. Realization of this objective will allow students to ‘see’ beyond their own school into the broader landscape of GIScience in higher education across Canada.</li>
+      </ul>
+
+      <h2><u>Task</u></h2>
+      <p>Use open spatial
+        data to
+        develop an app on some aspect (delivery, access, quality, maintenance, impact,
+        planning etc.) of <strong>Government (municipal
+        and/or regional) Services in Canada</strong> for any of the following themes:</p>
+        <ul>
+        <li>Housing</li>
+        <li>Health (human and/or animal/environmental)</li>
+        <li>Parks and recreation</li>
+        <li>Education including daycare</li>
+        <li>Public/private transport including infrastructure</li>
+        <li>Garbage collection/snow/branch removal</li>
+        <li>Emergency management</li>
+        <li>Information services (online information access
+           and use)</li>
+        <li>Utilities.</li>
+        </ul>
+
+        <br></br>
+        <p>The information above has been provided by Esri for the 2015 ECCE App Challenge.</p>
+		</div>
+	</main>
+    <footer>
+    
+    </footer>
+<script src="js/jquery-2.1.1.js"></script>
+<script src="js/main.js"></script> <!-- Resource jQuery -->
+</body>
+</html>
