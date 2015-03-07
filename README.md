@@ -1,24 +1,58 @@
-ECCE App Challenge 2015
-==================
+App Name:
 
-## Instructions:
-These are the instructions for sharing your work on GitHub. You should create a repo here and minimally fill out a README.md [This link will show you how to create cool markdown](http://markdownlivepreview.com).  Designate someone on your team to create a repo for your project - the general flow will be to fork the "ecce-app-challenge-2015" repo to your own account, clone it in desktop, and commit and sync often.
+EPI Centered
 
-If you are the designated person on your team, follow these steps to get ready:
+App Compatibility:
 
-* Creat a GitHub account
-* Email me, [Cameron Plouffe](mailto:cplouffe@esri.ca), your GitHub username and we will add your team to the ECCE App Challenge
-* [Download Windows client](https://windows.github.com), or
-* [Download Mac client](https://mac.github.com)
-* Open your Git client app, and set the "Clone Path" to a directory of your choice
-* Fork your own copy (button in upper right of this page) of this repo to your own account
-* Click the "Clone in Desktop" button, you'll see a clone of this forked repo in your Git client app
-* Open up the directory on your computer where you set the clone path in the above step, you'll see a folder named "ecce-app-challenge-2015"
-* Create a directory underneath this one with your team name and project - this is what will appear on GitHub
-* Underneath this newly-created directory create a file called README.md, put the name of your team in there (you'll edit this over time and add more content)
-* Add your project files, and do an initial commit of only the files you want to share on GitHub using your Git client
-* Click the "Sync" button in your Git client
-* Code away, add new files etc., and commit and sync often
+Developed for iOS 8.1 and optimized for iPhone 6
 
-Happy hacking,
-Cam
+App Creators: 
+
+Sonja Aagesen
+Ian Lochhead
+Tom McKay
+
+
+
+Description:
+
+EPI Centered is a location-aware earthquake preparedness iPhone application for users in
+Vancouver.
+
+Use of the App:
+
+EPICentered displays a basemap with a set of toggleable layers relevant to
+a citizen in the event of an Earthquake including Hospitals, Clinics,
+Community Centers, Disaster Staging Areas, Emergency Operations Centres,
+Fire halls, Police Stations, and Schools.
+
+Once the "Get Started" button is pressed, EPICentered calculates the closest
+Emergency Muster location to the user from their current location based on
+walking time. The user can then examine or walk this route as well as important
+nearby locations in order to better understand their response to an earthquake.
+
+Running the App in iOS Simulator:
+
+When running EPICentered in iOS simulator select iPhone 6 as your build environment.
+
+The user location does not always load in iOS simulator. This can be alleviated
+by navigating to Debug -> Location -> then selecting "none", then going back into
+the location menu and selecting a Vancouver Location.
+
+Example:
+Latitude 49.271884
+Longitude -123123959
+
+If this doesn't work, a second version of the app has been uploaded that feeds
+the app a Vancouver location and generates routes from there.
+
+Data Sources:
+
+City of Vancouver Open Data Catalogue
+ 
+
+
+
+
+
+
