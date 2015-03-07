@@ -1,0 +1,78 @@
+{
+  "layerInfos": [
+    {
+      "name": "FoodFacilityWaterloo",
+      "id": "FacilityWaterloo_1606",
+      "layer": {
+        "url": "http://services5.arcgis.com/8anfbSlorqnLZMIe/arcgis/rest/services/FacilityWaterloo/FeatureServer/0",
+        "fields": [
+          {
+            "show": false,
+            "name": "FID",
+            "alias": "fid"
+          },
+          {
+            "show": false,
+            "name": "OBJECTID",
+            "alias": "objectid"
+          },
+          {
+            "show": false,
+            "name": "FacilityID",
+            "alias": "facilityid"
+          },
+          {
+            "show": true,
+            "name": "Name",
+            "alias": "name"
+          },
+          {
+            "show": true,
+            "name": "Category",
+            "alias": "category"
+          },
+          {
+            "show": true,
+            "name": "Type",
+            "alias": "type"
+          },
+          {
+            "show": true,
+            "name": "Address",
+            "alias": "address"
+          },
+          {
+            "show": true,
+            "name": "City",
+            "alias": "city"
+          },
+          {
+            "show": true,
+            "name": "Telephone",
+            "alias": "telephone"
+          },
+          {
+            "show": true,
+            "name": "Critical",
+            "alias": "critical"
+          },
+          {
+            "show": true,
+            "name": "Uncritical",
+            "alias": "uncritical"
+          }
+        ]
+      },
+      "show": true
+    }
+  ],
+  "table": {
+    "pageSizeOptions": [
+      25,
+      50,
+      100,
+      1000
+    ]
+  },
+  "hideExportButton": false
+}
