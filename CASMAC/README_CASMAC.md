@@ -2,6 +2,7 @@
 ##### ECCE App Challenge 2015 submission
 
 --
+[Check out our demo video here!](https://vimeo.com/121514928)
 
 ### Goals:
 Make it simple to find available public recreation programs.
@@ -33,7 +34,3 @@ Alexandra Usyk <br />
 Craig Allison <br />
 
 [Look at our faces here](http://i.imgur.com/5Qsysev.jpg)
-
-
-##link to video
-https://vimeo.com/casmac
