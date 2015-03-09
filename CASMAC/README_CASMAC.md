@@ -4,6 +4,7 @@
 --
 [Check out our demo video here!](https://vimeo.com/121514928)
 
+[Check out our application here!] (https://mcmaster.maps.arcgis.com/apps/webappviewer/index.html?id=5091ecffb5d34ba795a124ba54e5cf78)
 ### Goals:
 Make it simple to find available public recreation programs.
 Display the data as a map so that users can consider arena/pool/community centre locations (i.e. geography) when deciding where to attend.
