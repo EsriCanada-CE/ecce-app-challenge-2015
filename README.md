@@ -1,6 +1,8 @@
 ECCE App Challenge 2015
 ==================
 
+#### * Winners of the 2015 Challenge: UW_TeamSDS
+
 ## Instructions:
 These are the instructions for sharing your work on GitHub. You should create a repo here and minimally fill out a README.md [This link will show you how to create cool markdown](http://markdownlivepreview.com).  Designate someone on your team to create a repo for your project - the general flow will be to fork the "ecce-app-challenge-2015" repo to your own account, clone it in desktop, and commit and sync often.
 
