@@ -91,7 +91,7 @@
     "bootstrap-validator": "~0.6.0",
     "esri-leaflet": "~1.0.0-rc.5",
     "esri-leaflet-clustered-feature-layer": "^1.0.0-rc.4",
-    "handlebars": "^2.0.0",
+    "handlebars": "^4.5.3",
     "leaflet": "~0.7.3",
     "leaflet-hash": "~0.2.1",
     "leaflet-panel-layers": "~0.1.2",
